@@ -4,6 +4,7 @@
 # require 'couchrest'
 
 require "./couch.rb" 
+require "JSON"
 
 server = Couch::Server.new("localhost", "5984")
 
