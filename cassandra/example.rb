@@ -32,4 +32,14 @@ rows.each do |row|
   end
 end
 
+
+# client.batch do |batch|
+#   batch.add("INSERT INTO events (id, comment) VALUES (321123, 'Rang the bell, ate some food')")
+#   batch.add("INSERT INTO events (id, comment) VALUES (412312, 'Rang food, ate bell')")
+#   batch.add("INSERT INTO events (id, comment) VALUES (21243462, 'bell food, rang ate')")
+# end
+
+
 client.close
+
+
