@@ -1,0 +1,2612 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8 ie7"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html lang="es"> <!--<![endif]-->
+    
+    
+    
+    
+
+    <!-- Comienzo del Head -->
+    <head>
+        <title>Diario Financiero</title>
+        <meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
+<meta http-equiv="title" content="Diario Financiero: Inicio">
+
+<meta  name="robots"  content="index,follow,noodp,noydir"  >
+
+<meta name="title" content="Diario Financiero: Inicio" >
+<meta name="description" content="Diario Financiero Online - DF.cl - noticias de &uacute;ltimo minuto de Chile y el mundo sobre negocios, finanzas, econom&iacute;a y pol&iacute;tica." >
+<meta name="keywords" content="DF.cl, df.cl, Diario Financiero Online, diario financiero online, noticias, negocios, empresas, finanzas, econom&iacute;a, pol&iacute;tica, internacional, tecnolog&iacute;a, Banca, Bolsa, Comercio, D&oacute;lar, Euro, Monedas, Retail, UF, IMACEC, IPSA, Desempleo, Empleo, Exportaciones, Inversiones, Mercado, Consumo, Petr&oacute;leo, PIB, Producci&oacute;n, Cobre, Miner&iacute;a, Empresarios, Bolsa de Santiago, Diario Econ&oacute;mico, Econom&iacute;a chilena, Wall Street, Banco Central, internet ">
+<meta  name="organization"  content="Ediciones Financieras S.A."  >
+<meta  name="locality"  content="Santiago,  Chile"  >
+<meta  name="classification"  content="General"  >
+<meta  name="language"  content="Spanish"  >
+<meta  name="lang"  content="es"  >
+<meta name="Author" content="Ediciones Financieras S.A.">
+<meta name="copyright" content="Ediciones Financieras S.A.">
+<meta name="Generator" content="Prontus">
+<meta name="authoring.tool" content="Prontus">
+<meta name="rating" content="General">
+<meta name="distribution" content="Global">
+
+<!-- Responsive Design -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+<meta name="format-detection" content="telephone=no">
+<meta http-equiv="cleartype" content="on">
+
+<!-- Facebook -->
+<meta property="og:site_name" content="Diario Financiero" >
+<meta property="og:type" content="article" >
+<meta property="og:title" content="Diario Financiero Online" >
+<meta property="og:description" content="Diario Financiero Online - DF.cl - noticias de &uacute;ltimo minuto de Chile y el mundo sobre negocios, finanzas, econom&iacute;a y pol&iacute;tica." >
+<meta property="og:url" content="https://www.df.cl/" >
+<meta property="og:image" content="https://www.df.cl/noticias/imag/ida/appleIcons/apple-touch-icon-144x144-precomposed.png" >
+<meta property="fb:app_id" content="120495848120650">
+
+<!-- Twitter -->
+<meta  name="twitter:card"  content="summary">
+<meta  name="twitter:site"  content="@DFinanciero">
+<meta  name="twitter:title"  content="Diario Financiero Online">
+<meta  name="twitter:image"  content="https://www.df.cl/noticias/imag/ida/appleIcons/apple-touch-icon-144x144-precomposed.png">
+<meta  name="twitter:description"  content="Diario Financiero Online- DF.cl - noticias de &uacute;ltimo minuto de Chile y el mundo sobre negocios, finanzas, econom&iacute;a y pol&iacute;tica.">
+
+<link  rel="canonical"  href="https://www.df.cl/">
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/noticias/imag/ida/appleIcons/apple-touch-icon-144x144-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/noticias/imag/ida/appleIcons/apple-touch-icon-72x72-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" href="/noticias/imag/ida/appleIcons/apple-touch-icon-72x72-precomposed.png">
+        <link rel="shortcut icon" href="/favicon.png"><!-- Favicon -->
+
+        <!-- CSS -->
+        <link type="text/css" rel="stylesheet" href="/noticias/css/ida/style.css" />
+        <link type="text/css" rel="stylesheet" href="/noticias/css/ida/style_av.css" />
+        <link type="text/css" rel="stylesheet" href="/noticias/css/ida/grid.css" />
+        <!-- En caso de navegadores IE obsoletos, un CSS especial-->
+        <!--[if (lte IE 8)]>
+            <link type="text/css" rel="stylesheet" href="/noticias/css/ida/ie.css">
+            <link type="text/css" rel="stylesheet" media="print" href="/noticias/css/ida/print.css" type="text/css" />
+        <![endif]-->
+
+                <script type="text/javascript" src="/noticias/js-local/ida/enquire.js"></script>
+        <script type="text/javascript" src="/noticias/js-local/ida/enquire-polyfill.js"></script>
+        <script type="text/javascript" src="/noticias/js-local/ida/fullScreen-pollyfill.js"></script>
+        <script type="text/javascript" src="/noticias/js-local/ida/iscroll5.js"></script>
+        <script type="text/javascript" src="/noticias/js-local/ida/jquery.js"></script>
+        <script type="text/javascript" src="/noticias/js-local/ida/jqueryui.js"></script>
+        <script type="text/javascript" src="/noticias/js-local/ida/modernizr.js"></script>
+        <script type="text/javascript" src="/noticias/js-local/ida/ninjaSlider.js"></script>
+        <script type="text/javascript" src="/noticias/js-local/ida/requestAnimationFrame.js"></script>
+        <script type="text/javascript" src="/noticias/js-local/ida/rutValidator.js"></script>
+        <script type="text/javascript" src="/noticias/js-local/ida/script.js?v2"></script>
+        <script type="text/javascript" src="/noticias/js-local/ida/selectivizr.js"></script>
+        <script type="text/javascript" src="/noticias/js-local/ida/validizr.js"></script>
+
+        <script type="text/javascript" src="/noticias/js-local/swfobject/swfobject.js"></script>
+
+        <script type="text/javascript" src="/app_reg/frontend/modules/usuario/js-local/Usuario.class.js"></script>
+        <script type="text/javascript" src="/noticias/js-local/DF.class.js"></script>
+        <script type="text/javascript" src="/noticias/js-local/PapelDigital.class.js"></script>
+        <script type="text/javascript">
+            $(function() {
+                DF.init('0', '');
+            });
+        </script>
+        <link rel="stylesheet" type="text/css" href="/app_df/js-local/jquery/plugins/jqplot2/jquery.jqplot.min.css" />
+<link rel="stylesheet" type="text/css" href="/app_df/frontend/modules/cd/css/style_inicio.css" />
+<script type="text/javascript" src="/app_df/js-local/jquery/plugins/jqplot2/jquery.jqplot.min.js"></script>
+
+<script type="text/javascript" src="/app_df/js-local/jquery/plugins/jqplot2/plugins/jqplot.highlighter.min.js"></script>
+<script type="text/javascript" src="/app_df/js-local/jquery/plugins/jqplot2/plugins/jqplot.cursor.min.js"></script>
+<script type="text/javascript" src="/app_df/js-local/jquery/plugins/jqplot2/plugins/jqplot.dateAxisRenderer.min.js"></script>
+<script type="text/javascript" src="/app_df/frontend/modules/cd/js-local/graphObject.class.js"></script>
+<script type="text/javascript" src="/app_df/frontend/modules/cd/js-local/cd.class.js"></script>
+        
+        
+        <script type="text/javascript" src="/noticias/js-local/Utiles.class.js"></script>
+        <script type="text/javascript" src="/noticias/js-local/Social.class.js"></script>
+        <script type="text/javascript" src="/noticias/js-local/Search.class.js"></script>
+        
+        <!-- Publicidad -->
+        <script type="text/javascript">
+    
+        var seccion = 0;
+    
+</script>
+
+<script type="text/javascript" src="/noticias/js-local/publicidad/publicidad.js"></script>
+
+        
+        <!-- Google Analytics -->
+        
+        
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+                    _gaq.push(['_setAccount', 'UA-3895590-4']);
+                    _gaq.push(['_setAllowLinker', true]);
+                    _gaq.push(['_setDomainName', 'df.cl']);
+                    _gaq.push(['_setCustomVar', 1, 'TipoUsuario', 'VISITANTE', 2]);
+                    _gaq.push(['_trackPageview']);
+                    setTimeout('_gaq.push([\'_trackEvent\', \'NoRebote\', \'Over 30 segundos\'])',30000);
+                    (function() {
+                        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                    })();
+        </script>
+        <!-- /Google Analytics -->
+        
+
+        <link rel="stylesheet" type="text/css" href="/app_df/js-local/jquery/plugins/jqplot2/jquery.jqplot.min.css" />
+<link rel="stylesheet" type="text/css" href="/app_df/frontend/modules/cd/css/style_inicio.css" />
+<script type="text/javascript" src="/app_df/js-local/jquery/plugins/jqplot2/jquery.jqplot.min.js"></script>
+
+<script type="text/javascript" src="/app_df/js-local/jquery/plugins/jqplot2/plugins/jqplot.highlighter.min.js"></script>
+<script type="text/javascript" src="/app_df/js-local/jquery/plugins/jqplot2/plugins/jqplot.cursor.min.js"></script>
+<script type="text/javascript" src="/app_df/js-local/jquery/plugins/jqplot2/plugins/jqplot.dateAxisRenderer.min.js"></script>
+<script type="text/javascript" src="/app_df/frontend/modules/cd/js-local/graphObject.class.js"></script>
+<script type="text/javascript" src="/app_df/frontend/modules/cd/js-local/cd.class.js"></script>
+    </head>
+    <!-- Fin del Head -->
+    <body class="home">
+        
+        <!-- Estadisticas --> 
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- /Simplestats -->
+<script type="text/javascript" src="/js-local/sst8_3.js"></script>
+<!-- /Simplestats -->
+
+<!--/Estadisticas -->
+        
+    <!-- Comienzo del Header -->
+    
+    
+    <script type="text/javascript">eplAD4M(eplArgs.eIs[12]);</script>
+<div class="pub-right">
+    <script type="text/javascript">eplAD4M(eplArgs.eIs[11]);</script>
+</div>
+
+
+
+
+    
+     <header class="top-header">
+    <!-- Banners Inicio -->
+    <div class="row banner-header hide-on-phones">
+  <div class="fleft">
+    <script type="text/javascript">eplAD4M(eplArgs.eIs[0]);</script>
+  </div>
+  <div class="fright">
+    <script type="text/javascript">eplAD4M(eplArgs.eIs[1]);</script>
+  </div>
+</div>
+
+<div class="banner-holder banner-header hide-on-tablets hide-on-desktop">
+    <!-- e-planning v3 - Comienzo espacio DF_MOVIL _ Home _ Top -->
+    <a href="http://ads.us.e-planning.net/ei/3/a46a/Home/Top?it=i&amp;m=1&amp;rnd=$RANDOM"><img alt="e-planning ad" src="http://ads.us.e-planning.net/eb/3/a46a/Home/Top?o=i&amp;m=1&amp;rnd=$RANDOM"/></a>
+    <!-- e-planning v3 - Fin espacio DF_MOVIL _ Home _ Top -->
+</div>
+
+
+
+
+    <!-- Fin Banners Inicio -->
+
+    <!-- Fin Banners -->
+    <!-- Menú DF7 -->
+    <div class="df7-nav hide-on-phones">
+        <ul class="row inline-list">
+          <li><a class="digital-paper trackevent" data-ga-category="TopMenu" data-ga_action="Top_Papel" data-ga_opt_label="BtnTopPapel" href="/papeldigital/calendar3.html" title="Papel Digital" rel="external">Papel Digital</a></li>
+          <li><a class="df-app app-df trackevent" av-data="app-pos-top" data-ga-category="TopMenu" data-ga_action="Top_AppDF" data-ga_opt_label="BtnTopAppDF" href="#" title="App Diario Financiero" rel="external">App Diario Financiero</a></li>
+          <li><a class="df-app app-mercados trackevent" av-data="app-pos-top" data-ga-category="TopMenu" data-ga_action="Top_AppDFMercados" data-ga_opt_label="BtnTopAppDFMercados" href="#" title="App DF Mercados" rel="external">App DF Mercados</a></li>
+          <li><a class="df-portafolio so-far trackevent" data-ga-category="TopMenu" data-ga_action="Top_PR" data-ga_opt_label="BtnTopPR" href="/noticias/empresas/retail/portafolio-retail-diario-financiero/2013-04-02/130635.html" title="Portafolio Retail" rel="external">Portafolio Retail</a></li>
+          <li><a class="df-portafolio so-far trackevent" data-ga-category="TopMenu" data-ga_action="Top_PR" data-ga_opt_label="BtnTopPR" href="/portafolio_salud/site/edic/base/port/inicio.html" title="Portafolio Salud" rel="external">Portafolio Salud</a></li>
+          <li><a class="df-conferencias trackevent" data-ga-category="TopMenu" data-ga_action="Top_DFConf" data-ga_opt_label="BtnTopDFConf" href="/prontus_conferencias/site/edic/base/port/inicio.html" title="DF Conferencias" rel="external">DF Conferencias</a></li>
+          <li><a class="df-tv far trackevent" data-ga-category="TopMenu" data-ga_action="Top_DFTV" data-ga_opt_label="BtnTopDFTV" href="/dftv" title="DF TV" rel="external">DF TV</a></li>
+          <li><a class="df-ui far trackevent" data-ga-category="TopMenu" data-ga_action="Top_DFUI" data-ga_opt_label="BtnTopDFUI" href="/dfui" title="DF UI" rel="external">DF UI</a></li>
+        </ul>
+    </div>
+    <div class="content-layer">
+        <div class="appMercados layer-hidden" data-deploy="false">
+            <section class="row container">
+    <div class="locked box">
+        <h3>Descargar la aplicación <strong>DF Mercados</strong></h3>
+        <a href="https://play.google.com/store/apps/details?id=net.altavoz.dfinfodroid&amp;hl=es" target="_blank" title="Descargar en Google Play" rel="external" class="btn android download">Android app<span>Google Play</span></a>
+        <a href="https://itunes.apple.com/cl/app/df-mercados/id483602458?mt=8&amp;uo=4" target="itunes_store" title="Descargar en App Store" rel="external" class="btn mac download">Available on the <span>App Store</span></a>
+    </div>
+</section>
+
+        </div>
+    </div>
+    <div class="content-layer">
+        <div class="appDiarioFinanciero layer-hidden" data-deploy="false">
+            <section class="row container">
+    <div class="locked box">
+        <h3>Descargar la aplicación <strong>Diario Financiero</strong></h3>
+        <a href="https://play.google.com/store/apps/details?id=net.altavoz.droid.print2pad.dfnewsstand&hl=es" target="_blank"  title="Descargar en Google Play" rel="external" class="btn android download">Android app<span>Google Play</span></a>
+        <a href="https://itunes.apple.com/cl/app/diario-financiero/id512734162?mt=8&amp;uo=4" target="itunes_store" title="Descargar en App Store" rel="external" class="btn mac download">Available on the <span>App Store</span></a>
+    </div>
+</section>
+
+        </div>
+    </div>
+    <!-- Fin Menú DF7 -->
+    <div class="main-header">
+        <!-- Botones -->
+        <div class="top-nav row">
+            <ul class="inline-list external-links hide-on-phones">
+                <li><a class="trackevent" data-ga-category="Outbound_Traffic" data-ga_action="Revistas" data-ga_opt_label="BtnTopCapital" href="http://capital.cl" title="Ir al sitio de Revista Capital" rel="external"><img src="/noticias/imag/ida/logos/capital.svg" data-png="/noticias/imag/ida/logos/capital.png" alt="Revista Capital"/></a></li>
+                <li><a class="trackevent" data-ga-category="Outbound_Traffic" data-ga_action="Revistas" data-ga_opt_label="BtnTopNote" href="http://thenote.cl" title="Ir al sitio de The Note" rel="external"><img src="/noticias/imag/ida/logos/the-note.svg" data-png="/noticias/imag/ida/logos/the-note.png" alt="The Note"/></a></li>
+                <li><a class="trackevent" data-ga-category="Outbound_Traffic" data-ga_action="Revistas" data-ga_opt_label="BtnTopED" href="http://ed.cl" title="Ir al sitio de Revista ED" rel="external"><img src="/noticias/imag/ida/logos/ed.svg" data-png="/noticias/imag/ida/logos/ed.png" alt="Revista ED"/></a></li>
+            </ul>
+            <ul class="inline-list profile-btns hide-on-phones hide-on-tablets">
+                
+            
+                
+                <li><a class="trackevent regular-link" data-ga-category="Suscripciones" data-ga_action="Top_Sus" data-ga_opt_label="BtnTopSus" href="/prontus_suscripciones/site/edic/base/port/suscripciones.html" title="Ver Suscripciones a Diario Financiero" rel="contents">Suscríbete a DF.cl</a></li>
+                
+                <li id="btn_ingreso">
+                    <a id="tour-df-paso-3_desktop" class="ingreso btn" data-func="deployIngresoSubmenu" data-target-menu="desktop-header-menu" data-deploy="false" href="#" title="Ingresar a Diario Financiero" rel="contents">Ingreso a <img class="midf-logo-home" src="/noticias/imag/ida/logos/midf-logo-home.svg" data-png="/noticias/imag/ida/logos/midf-logo-home.png" alt="Mi DF" /></a>
+
+                    <div class="ingreso-submenu">
+                        <div class="wrapp-ingreso-sub">
+                            <div class="ingreso-column">
+                                <h3>Si ya estás registrado, ingresa aquí:</h3>
+                                <form action="/app_reg/frontend/modules/index.php" class="inscribirForm" method="post" onsubmit="Usuario.Login(this); return false;">
+                                    <input type="hidden" name="accion" value="ProcesarLogin" />
+                                    <input type="hidden" name="modulo" value="usuario" />
+                                    <input type="hidden" name="referer_params" value="reload" />
+                                    <label for="email-ingreso">Email</label>
+                                    <input id="email-ingreso" type="email" name="cont_email" placeholder="ejemplo@email.com" required/>
+                                    <label for="pass-ingreso">Contraseña</label>
+                                    <input id="pass-ingreso" type="password" name="password" placeholder="Ingresa tu contraseña aquí" required />
+                                    <a href="/app_reg/frontend/modules/index.php?modulo=usuario&amp;accion=VerRecordarContrasena" class="small-a" title="Recuperar contraseña" rel="help">Olvidé mi contraseña</a>
+                                    <div class="buttons-ingreso">
+                                        <input id="ingreso-remember" type="checkbox" name="remember" checked/>
+                                        <label for="ingreso-remember">Recordar mis datos en este equipo</label>
+                                        <input type="submit" value="Ingresar" class="btn blue fright trackevent" data-ga-category="Ingresar" data-ga_action="Top_login" data-ga_opt_label="BtnTopMenu" data-func="validateSettings" data-valid="false"/>
+                                        <img class="fright form-loading" src="/noticias/imag/ida/iconos/ajax-loader.gif" style="display: none;" alt="loading">
+                                    </div>
+                                </form>
+                            </div>
+                            <div class="ingreso-column">
+                                <h3>¿No tienes una cuenta MiDF?</h3>
+                                <a class="btn blue m-bottom-40 trackevent" data-ga-category="Registrar" data-ga_action="Top_Registrar" data-ga_opt_label="BtnRegistroTopMenu" href="/app_reg/frontend/modules/index.php?modulo=usuario&amp;accion=VerFicha" title="Crear una cuenta MiDF" rel="help">Crear Cuenta</a>
+                                <p>O puedes ingresar a través de tus redes sociales</p>
+                                <a class="btn facebookbtn trackevent" data-ga-category="Ingresar" data-ga_action="Top_LoginRedes" data-ga_opt_label="BtnLoginFB" href="#" onclick="Usuario.LoginFacebook(); return false;" title="Ingresa con tu cuenta de Facebook" rel="nofollow">Ingresa Facebook</a>
+                                <a class="btn twitterbtn trackevent" data-ga-category="Ingresar" data-ga_action="Top_LoginRedes" data-ga_opt_label="BtnLoginTwitter" href="#" title="Ingresa con tu cuenta de Twitter" onclick="Usuario.LoginTwitter(); return false;" rel="nofollow">Ingresa Twitter</a>
+                                <p class="one-social-network"><strong>* La red social que elijas será la que tendrás que ocupar siempre al conectar</strong></p>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                
+                <li><a id="tour-df-paso-1_desktop" class="btn blue question-btn trackevent" data-ga-category="Suscripciones" data-ga_action="Top_Tour" data-ga_opt_label="BtnTopTour" href="#" title="Bienvenido al nuevo MiDF" rel="nofollow" data-func="startTourDF">?</a></li>
+            </ul>
+        </div>
+        <!-- Fin Botones -->
+        <div class="logo-info row container">
+            <div class="logo-wrapp column7">
+                <span class="date hide-on-phones">Domingo 29 de Junio, 2014</span>
+                <!-- Logo, Dependiendo del caso la etiqueta H1 varía, por ejemplo, en la home es H1, pero en un artículo, el H1 es el título del artículo -->
+                <h1><a href='/' title='Volver al Inicio' rel='index'><img src="/noticias/imag/ida/logos/logo.svg" data-png="/noticias/imag/ida/logos/logo.png" alt="Diario Financiero" /></a></h1>
+                <!-- Indicadores económicos -->
+                <div id="tour-df-paso-2_desktop" class="values hide-on-phones MarketdataIndicadores" data-deploy="false">
+                    <button class="val trackevent" data-ga-category="Indicadores" data-ga_action="Moneda1" data-ga_opt_label="BtnTopMoneda1" data-func="deployIndicadores" data-pos="1">...</button>
+                    <button class="val trackevent" data-ga-category="Indicadores" data-ga_action="Moneda2" data-ga_opt_label="BtnTopMoneda2" data-func="deployIndicadores" data-pos="2">...</button>
+                    <button class="val trackevent" data-ga-category="Indicadores" data-ga_action="Moneda3" data-ga_opt_label="BtnTopMoneda3" data-func="deployIndicadores" data-pos="3">...</button>
+                    <div class="indicadores">
+                        <ul>
+  
+<li data-func="indicadores" data-index="13" data-value="&#36;551,66
+">Dólar US</li>
+<li data-func="indicadores" data-index="16" data-value="&#36;67,83
+">Peso Arg.</li>
+<li data-func="indicadores" data-index="18" data-value="&#36;5,44
+">Yen Jap.</li>
+<li data-func="indicadores" data-index="25" data-value="113,21 USD/b
+">Petr. Brent</li>
+<li data-func="indicadores" data-index="27" data-value="21,01 USD/oz
+">Plata</li>
+<li data-func="indicadores" data-index="29" data-value="4,43 USD/MBTU
+">Gas Natural</li>
+<li data-func="indicadores" data-index="3" data-value="53.157,30
+">Bovespa</li>
+<li data-func="indicadores" data-index="9" data-value="6.757,77
+">FTSE</li>
+<li data-func="indicadores" data-index="19" data-value="&#36;24.021,21
+">UF Hoy</li>
+<li data-func="indicadores" data-index="21" data-value="0,30
+">IPC</li>
+<li data-func="indicadores" data-index="22" data-value="2,30
+">IMACEC</li>
+</ul>
+<ul>
+  
+<li data-func="indicadores" data-index="15" data-value="&#36;753,02
+">Euro</li>
+<li data-func="indicadores" data-index="17" data-value="&#36;251,46
+">Real Bras.</li>
+<li data-func="indicadores" data-index="24" data-value="3,16 USD/lb
+">Cobre</li>
+<li data-func="indicadores" data-index="26" data-value="105,75 USD/b
+">Petr. WTI</li>
+<li data-func="indicadores" data-index="28" data-value="1.316,90 USD/oz
+">Oro</li>
+<li data-func="indicadores" data-index="2" data-value="3.874,47
+">IPSA</li>
+<li data-func="indicadores" data-index="7" data-value="10.959,90
+">IBEX</li>
+<li data-func="indicadores" data-index="11" data-value="15.095,00
+">Nikkei</li>
+<li data-func="indicadores" data-index="14" data-value="&#36;550,60
+">Dólar Obs.</li>
+<li data-func="indicadores" data-index="20" data-value="&#36;42.052,00
+">UTM</li>
+<li data-func="indicadores" data-index="23" data-value="24.733,64
+">IVP</li>
+</ul>
+
+                    </div>
+                </div>
+                <!-- Fin Indicadores Económicos -->
+            </div>
+
+            <!-- Buscador -->
+            <form class="column5 last searchForm" name="buscador" id="buscador" method="get" action="/cgi-bin/prontus_search.cgi" onsubmit="return Search.sendForm();">
+    <input type="hidden" name="search_prontus" value="noticias">
+    <input type="hidden" name="search_tmp" value="search.html">
+    <input type="hidden" name="search_idx" value="ALL">
+    <input type="hidden" name="search_modo" value="and">
+    <input type="hidden" name="search_resxpag" value="10">
+    <input type="hidden" name="search_maxpags" value="20">
+    <input type="hidden" name="search_form" value="yes">
+
+    <input type="search" name="search_texto" placeholder="Búsqueda..." autocomplete="off" /><!-- Campo buscador -->
+    <input class="trackevent" data-ga-category="Buscar" data-ga_action="MainSearch" data-ga_opt_label="BtnTopSearch" id="searchButton" type="submit" value="Buscar" data-deploy="false" /><!-- Botón, importante por defecto siempre dejar el atributo data-deploy como false -->
+    <!-- Links de buscador -->
+    <div class="search-options hide-on-phones">
+        <a class="trackevent" data-ga-category="Buscar" data-ga_action="SearchAvan" data-ga_opt_label="BtnTopSearchAvan" href="/noticias/stat/search/buscador_avanzado.html" title="Búsqueda Avanzada" rel="nofollow">Búsqueda avanzada</a>
+        <a href="/papeldigital/calendar3.html" title="Ediciones anteriores" rel="nofollow">Ediciones anteriores</a>
+    </div>
+</form>
+
+            <!-- Fin Buscador -->
+        </div>
+        <!-- Navegación principal -->
+        <div id="tour-df-paso-2_mobile" class="navigation">
+            <div class="navigation-actions hide-on-dektop">
+                 
+                <a id="tour-df-paso-1_mobile" class="btn question-mobile hide-on-desktop" data-func="startTourDF" data-deploy="false" href="#" title="Ingresar a Diario Financiero" rel="contents">?</a>
+                 
+                
+                <a id="tour-df-paso-3_mobile" class="ingreso btn hide-on-desktop" data-func="deployIngresoSubmenu" data-deploy="false" href="#" title="Ingresar a Diario Financiero" rel="contents">Ingreso</a>
+                             
+            </div>
+            <div class="ingreso-submenu hide-on-desktop" style="">
+                <div class="wrapp-ingreso-sub">
+                    <div class="ingreso-column">
+                        <h3>Si ya estás registrado, ingresa aquí:</h3>
+                        <form action="/app_reg/frontend/modules/index.php" class="" method="post" onsubmit="Usuario.Login(this); return false;">
+                            <input type="hidden" name="accion" value="ProcesarLogin" />
+                            <input type="hidden" name="modulo" value="usuario" />
+                            <input type="hidden" name="referer_params" value="reload" />
+                            <label for="ingreso-email">Email</label>
+                            <input id="ingreso-email" type="email" name="cont_email" placeholder="ejemplo@email.com" required />
+                            <label for="ingreso-pass">Contraseña</label>
+                            <input id="ingreso-pass" type="password" name="password" placeholder="Ingresa tu contraseña aquí" required />
+                            <a href="/app_reg/frontend/modules/index.php?modulo=usuario&amp;accion=VerRecordarContrasena" class="small-a" title="Recuperar contraseña" rel="help">Olvidé mi contraseña</a>
+                            <div class="buttons-ingreso">
+                                <input id="remember-ingreso" type="checkbox" name="remember" checked/>
+                                <label for="remember-ingreso">Recordar mis datos en este equipo</label>
+                                <input type="submit" value="Ingresar" class="btn blue fright" data-func="validateSettings" data-valid="false"/>
+                                <img class="fright form-loading" src="/noticias/imag/ida/iconos/ajax-loader.gif" style="display: none;" alt="loading">
+                            </div>
+                        </form>
+                    </div>
+                    <div class="ingreso-column">
+                        <h3>¿No tienes una cuenta MiDF?</h3>
+                        <a class="btn blue m-bottom-40" href="/app_reg/frontend/modules/index.php?modulo=usuario&amp;accion=VerFicha" title="Crear una cuenta MiDF" rel="help">Crear Cuenta</a>
+                        <p>O puedes ingresar a través de tus redes sociales</p>
+                        <a class="btn facebookbtn" href="#" onclick="Usuario.LoginFacebook(); return false;" title="Ingresa con tu cuenta de Facebook" rel="nofollow">Ingresa Facebook</a>
+                        <a class="btn twitterbtn" href="#" onclick="Usuario.LoginTwitter(); return false;" title="Ingresa con tu cuenta de Twitter" rel="nofollow">Ingresa Twitter</a>
+                        <p class="one-social-network"><strong>* La red social que elijas será la que tendrás que ocupar siempre al conectar</strong></p>
+                    </div>
+                </div>
+            </div>
+            <button class="mobileNav active" data-func="deployMobileNav" data-deploy="false">Inicio</button><!-- Botón que se despliega en Smartphones, para desplegar la navegación -->
+<div class="row nav-wrapp">
+    <nav>
+        
+        <a class="active menu" href="/" title="Ir a Inicio" rel="contents" >Inicio</a>
+        
+        <a class=" menu1" href="/empresas" title="Ir a Empresas" rel="contents" >Empresas</a>
+        
+        <a class=" menu2" href="/economia_y_politica" title="Ir a Economía y Politica" rel="contents" >Economía y Politica</a>
+        
+        <a class=" menu3" href="/mercados" title="Ir a Mercados" rel="contents" >Mercados</a>
+        
+        <a class=" menu8" href="/app_df/frontend/modules/index.php?modulo=cd&amp;accion=Marketdata" title="Ir a Market Data" rel="contents" id="tour-df-paso-4_desktop">Market Data</a>
+        
+        <a class=" menu4" href="/internacional" title="Ir a Internacional" rel="contents" >Internacional</a>
+        
+    </nav>
+    <div class="secondary-nav">
+        <ul class="inline-list">
+            
+            <li>
+                <a href="/tendencias" title="ir a Tendencias" rel="contents">
+                    Tendencias
+                </a>
+            </li>
+            
+            <li>
+                <a href="/opinion" title="ir a Opinión" rel="contents">
+                    Opinión
+                </a>
+            </li>
+            
+            <li>
+                <a href="/dfui" title="ir a Unidad de Inteligencia" rel="contents">
+                    Unidad de Inteligencia
+                </a>
+            </li>
+            
+        </ul>
+    </div>
+</div>
+<div class="submenu hide-on-phones hide-on-tablets">
+     
+
+  
+<ul class="inline-list clearfix row" data-deploy="false" style="display:none;" id="menu-secundario1">
+    <li><a href="/noticias/site/tax/port/all/taxport_1_1__1.html" target="_top" title="Ir a Retail" rel="contents">Retail</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_1_2__1.html" target="_top" title="Ir a Minería" rel="contents">Minería</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_1_3__1.html" target="_top" title="Ir a Energía" rel="contents">Energía</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_1_4__1.html" target="_top" title="Ir a Infraestructura / Inmobiliaria" rel="contents">Infraestructura / Inmobiliaria</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_1_5__1.html" target="_top" title="Ir a Banca / Instituciones Financieras" rel="contents">Banca / Instituciones Financieras</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_1_6__1.html" target="_top" title="Ir a Telecom / Tecnología" rel="contents">Telecom / Tecnología</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_1_7__1.html" target="_top" title="Ir a Industria" rel="contents">Industria</a></li>
+    
+    <li class="otro-item" data-func="deployIndicadores" data-delegated="true">Ver más</li>
+    <li class="indicadores transition" style="top: 0px; opacity: 0; visibility: hidden;">
+        <ul>
+            <li><a href="/noticias/site/tax/port/all/taxport_1_8__1.html" target="_top" title="Ir a Multinacionales" rel="contents">Multinacionales</a></li>
+            <li><a href="/noticias/site/tax/port/all/taxport_1_9__1.html" target="_top" title="Ir a Innovacion y Sustentabilidad" rel="contents">Innovacion y Sustentabilidad</a></li>
+            <li><a href="/noticias/site/tax/port/all/taxport_1_10__1.html" target="_top" title="Ir a Emprendimiento" rel="contents">Emprendimiento</a></li>
+            <li><a href="/noticias/site/tax/port/all/taxport_1_11__1.html" target="_top" title="Ir a Actualidad" rel="contents">Actualidad</a></li>
+            
+        </ul>
+    </li>
+    
+</ul>
+
+  
+<ul class="inline-list clearfix row" data-deploy="false" style="display:none;" id="menu-secundario2">
+    <li><a href="/noticias/site/tax/port/all/taxport_2_12__1.html" target="_top" title="Ir a Congreso / Legislación" rel="contents">Congreso / Legislación</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_2_13__1.html" target="_top" title="Ir a Regulación" rel="contents">Regulación</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_2_14__1.html" target="_top" title="Ir a Macro" rel="contents">Macro</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_2_15__1.html" target="_top" title="Ir a Comercio Exterior" rel="contents">Comercio Exterior</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_2_16__1.html" target="_top" title="Ir a Gobierno" rel="contents">Gobierno</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_2_17__1.html" target="_top" title="Ir a Gremios / Laboral" rel="contents">Gremios / Laboral</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_2_45__1.html" target="_top" title="Ir a Actualidad" rel="contents">Actualidad</a></li>
+    
+</ul>
+
+  
+<ul class="inline-list clearfix row" data-deploy="false" style="display:none;" id="menu-secundario3">
+    <li><a href="/noticias/site/tax/port/all/taxport_3_18__1.html" target="_top" title="Ir a Commodities" rel="contents">Commodities</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_3_19__1.html" target="_top" title="Ir a Renta Fija" rel="contents">Renta Fija</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_3_20__1.html" target="_top" title="Ir a Bolsas" rel="contents">Bolsas</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_3_21__1.html" target="_top" title="Ir a Divisas" rel="contents">Divisas</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_3_22__1.html" target="_top" title="Ir a Finanzas Personales" rel="contents">Finanzas Personales</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_3_23__1.html" target="_top" title="Ir a Mercados en Acción" rel="contents">Mercados en Acción</a></li>
+    
+    
+</ul>
+
+  
+<ul class="inline-list clearfix row" data-deploy="false" style="display:none;" id="menu-secundario8">
+    <li><a href="/app_df/frontend/modules/index.php?modulo=cd&amp;accion=Bcs" target="_top" title="Ir a Precio de Acciones" rel="contents">Precio de Acciones</a></li>
+    <li><a href="/app_df/frontend/modules/index.php?modulo=cd&amp;accion=Bolsas" target="_top" title="Ir a Bolsas" rel="contents">Bolsas</a></li>
+    <li><a href="/app_df/frontend/modules/index.php?modulo=cd&amp;accion=FondosMutuos" target="_top" title="Ir a Fondos Mutuos" rel="contents">Fondos Mutuos</a></li>
+    <li><a href="/app_df/frontend/modules/index.php?modulo=cd&amp;accion=Multifondos" target="_top" title="Ir a Multifondos" rel="contents">Multifondos</a></li>
+    <li><a href="/diariofinanciero/lva-indices/2014-03-11/085134.html" target="_top" title="Ir a LVA Índices" rel="contents">LVA Índices</a></li>
+    <li><a href="/noticias/site/list/port/doc_resultados_empresas.html" target="_top" title="Ir a Resultados de Empresas" rel="contents">Resultados de Empresas</a></li>
+    
+    
+</ul>
+
+  
+<ul class="inline-list clearfix row" data-deploy="false" style="display:none;" id="menu-secundario4">
+    <li><a href="/noticias/site/tax/port/all/taxport_4_46__1.html" target="_top" title="Ir a Actualidad internacional" rel="contents">Actualidad internacional</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_4_25__1.html" target="_top" title="Ir a Ripe" rel="contents">Ripe</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_4_26__1.html" target="_top" title="Ir a FT Español" rel="contents">FT Español</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_4_47__1.html" target="_top" title="Ir a EIU" rel="contents">EIU</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_4_27__1.html" target="_top" title="Ir a South China" rel="contents">South China</a></li>
+    
+    
+    
+</ul>
+
+ 
+     
+<ul class="inline-list clearfix row" data-deploy="false" style="display:none;" id="menu-secundario5">
+    <li><a href="/noticias/site/tax/port/all/taxport_5_28__1.html" target="_top" title="Ir a Tecnología" rel="contents">Tecnología</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_5_29__1.html" target="_top" title="Ir a Motores" rel="contents">Motores</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_5_30__1.html" target="_top" title="Ir a Gadgets" rel="contents">Gadgets</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_5_31__1.html" target="_top" title="Ir a Panorama" rel="contents">Panorama</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_5_32__1.html" target="_top" title="Ir a Gastronomía" rel="contents">Gastronomía</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_5_33__1.html" target="_top" title="Ir a Lujo" rel="contents">Lujo</a></li>
+    
+    
+</ul>
+
+  
+<ul class="inline-list clearfix row" data-deploy="false" style="display:none;" id="menu-secundario6">
+    <li><a href="/noticias/site/tax/port/all/taxport_6_34__1.html" target="_top" title="Ir a Cartas" rel="contents">Cartas</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_6_35__1.html" target="_top" title="Ir a Editoriales" rel="contents">Editoriales</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_6_36__1.html" target="_top" title="Ir a Columnistas" rel="contents">Columnistas</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_6_37__1.html" target="_top" title="Ir a Blog" rel="contents">Blog</a></li>
+    
+    
+    
+    
+</ul>
+
+  
+<ul class="inline-list clearfix row" data-deploy="false" style="display:none;" id="menu-secundario7">
+    <li><a href="/noticias/site/tax/port/all/taxport_7_38__1.html" target="_top" title="Ir a Estudios" rel="contents">Estudios</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_7_39__1.html" target="_top" title="Ir a Documentos" rel="contents">Documentos</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_7_40__1.html" target="_top" title="Ir a Índice" rel="contents">Índice</a></li>
+    <li><a href="/noticias/site/tax/port/all/taxport_7_41__1.html" target="_top" title="Ir a Reportes Sectoriales" rel="contents">Reportes Sectoriales</a></li>
+    
+    
+    <li><a href="/noticias/site/tax/port/all/taxport_7_44__1.html" target="_top" title="Ir a Economist Inteligence Unit" rel="contents">Economist Inteligence Unit</a></li>
+    
+</ul>
+
+ 
+</div>
+
+        </div>
+        <!-- Fin de la navegación principal -->
+    </div>
+</header>
+
+
+    <!-- Fin del Header -->
+        <!-- Sección principal -->
+        <section class="row bigbox mobileSlider container">
+            
+            <!-- Banners laterales -->
+<div class='banner-lateral left hide-on-phones hide-on-tablets'>
+    <script type="text/javascript">eplAD4M(eplArgs.eIs[2]);</script>
+</div>
+
+<div class='banner-lateral right hide-on-phones hide-on-tablets'>
+    <script type="text/javascript">eplAD4M(eplArgs.eIs[3]);</script>
+</div>
+<!-- Fin Banners laterales -->
+
+
+            <!-- Contingencia -->
+            
+            <!-- Fin Contingencia -->
+
+            <!-- NOTICIA LATERAL IZQUIERDO -->
+            
+<section class="column3">
+	
+
+	
+	
+		
+
+		<article class="box" data-toSlide="true" data-imageToSlide="/noticias/site/artic/20140626/imag/foto_0000000620140626214051.jpg"><!-- Articulo marcado con el atributo data-toSlide que permitirá desplegarlo en un slider para la visualización Smartphones, el atributo imageToSlide es la ruta a la imagen que se desplegará en el slider, en caso de que no la tuviera -->
+		
+		<div class="category-wrapp">
+			<h4 class="category"><a href="/noticias/site/tax/port/all/taxport_1_11__1.html" title="Ir a Empresas" rel="category">Empresas</a></h4>
+			<span class="date">28/06/2014</span>
+		</div>
+		<h3><a href="/noticias/empresas/actualidad/las-claves-del-poderoso-organismo-que-determinara-el-uso-del-territorio/2014-06-26/214051.html" title="Las claves del poderoso organismo que determinará el uso del territorio" rel="contents">Las claves del poderoso organismo que determinará el uso del territorio</a></h3>
+		</article>
+
+		
+	
+	
+
+	
+
+	
+
+	
+	
+		
+
+		<article class="box" data-toSlide="true" data-imageToSlide="/noticias/site/artic/20140626/imag/foto_0000000520140626214113.jpg"><!-- Articulo marcado con el atributo data-toSlide que permitirá desplegarlo en un slider para la visualización Smartphones, el atributo imageToSlide es la ruta a la imagen que se desplegará en el slider, en caso de que no la tuviera -->
+		
+		<div class="category-wrapp">
+			<h4 class="category"><a href="/noticias/site/tax/port/all/taxport_2_45__1.html" title="Ir a Economía y Política" rel="category">Economía y Política</a></h4>
+			<span class="date">28/06/2014</span>
+		</div>
+		<h3><a href="/noticias/economia-y-politica/actualidad/sergio-romero-la-nueva-mayoria-esta-cometiendo-un-grave-error-se-esta-suicidando-politicamente/2014-06-26/214113.html" title="Sergio Romero: “La Nueva Mayoría está cometiendo un grave error, se está suicidando políticamente”" rel="contents">Sergio Romero: “La Nueva Mayoría está cometiendo un grave error, se está suicidando políticamente”</a></h3>
+		</article>
+
+		
+	
+	
+
+	
+
+	
+
+	
+	
+		
+
+		<article class="box" data-toSlide="true" data-imageToSlide="/noticias/site/artic/20140626/imag/foto_0000000820140626214114.jpg"><!-- Articulo marcado con el atributo data-toSlide que permitirá desplegarlo en un slider para la visualización Smartphones, el atributo imageToSlide es la ruta a la imagen que se desplegará en el slider, en caso de que no la tuviera -->
+		
+		<div class="category-wrapp">
+			<h4 class="category"><a href="/noticias/site/tax/port/all/taxport_2_17__1.html" title="Ir a Economía y Política" rel="category">Economía y Política</a></h4>
+			<span class="date">28/06/2014</span>
+		</div>
+		<h3><a href="/noticias/economia-y-politica/gremios-laboral/economistas-ven-que-peak-de-desempleo-sera-en-el-ultimo-trimestre-del-ano-y-en-2015/2014-06-26/214114.html" title="Economistas ven que peak de desempleo será en el último trimestre del año y en 2015" rel="contents">Economistas ven que peak de desempleo será en el último trimestre del año y en 2015</a></h3>
+		</article>
+
+		
+	
+	
+
+	
+
+	
+
+	
+	
+		
+
+		<article class="box" data-toSlide="true" data-imageToSlide="/noticias/site/artic/20140626/imag/foto_0000000720140626214107.jpg"><!-- Articulo marcado con el atributo data-toSlide que permitirá desplegarlo en un slider para la visualización Smartphones, el atributo imageToSlide es la ruta a la imagen que se desplegará en el slider, en caso de que no la tuviera -->
+		
+		<div class="category-wrapp">
+			<h4 class="category"><a href="/noticias/site/tax/port/all/taxport_1_5__1.html" title="Ir a Empresas" rel="category">Empresas</a></h4>
+			<span class="date">28/06/2014</span>
+		</div>
+		<h3><a href="/noticias/empresas/banca-instituciones-financieras/cencosud-scotiabank-las-claves-del-acuerdo-y-los-avances-de-la-integracion/2014-06-26/214107.html" title="Cencosud–Scotiabank: las claves del acuerdo y los avances de la integración" rel="contents">Cencosud–Scotiabank: las claves del acuerdo y los avances de la integración</a></h3>
+		</article>
+
+		
+	
+	
+
+	
+
+	
+
+	<!-- LOCKED -->
+
+	
+
+	
+	
+		
+	
+	
+
+	
+
+	
+
+	
+	
+		
+	
+	
+
+	
+
+	
+
+	
+	
+		
+	
+	
+
+	
+
+	
+
+	
+	
+		
+	
+	
+
+	
+
+	
+	
+ </section>
+
+
+
+            <!-- NOTICIAS CENTRALES-->
+            <section class="column5">
+    
+    
+    <article class="featured doble-border" data-toSlide="true"><!-- Articulo marcado con el atributo data-toSlide que permitirá desplegarlo en un slider para la visualización Smartphones -->
+        
+        <a href="/noticias/empresas/retail/mayor-facturacion-y-potencial-de-la-compania-disparan-nivel-de-interesados-en-rabie/2014-06-26/214049.html" title="Mayor facturación y potencial de la compañía disparan nivel de interesados en Rabié" rel="contents"><img src="/noticias/site/artic/20140626/imag/foto_0000000520140626214049.jpg" alt="Mayor facturación y potencial de la compañía disparan nivel de interesados en Rabié"/></a>
+         
+
+        <div class="category-wrapp">
+            <h4 class="category"><a href="/noticias/site/tax/port/all/taxport_1___1.html" title="ir a Empresas" rel="contents">Empresas</a></h4>
+            <span class="date">28/06/2014</span>
+        </div>
+        <h2><a href="/noticias/empresas/retail/mayor-facturacion-y-potencial-de-la-compania-disparan-nivel-de-interesados-en-rabie/2014-06-26/214049.html" title="Mayor facturación y potencial de la compañía disparan nivel de interesados en Rabié" rel="contents">Mayor facturación y potencial de la compañía disparan nivel de interesados en Rabié</a></h2>
+        <p>Sólo esta semana el pool de potenciales compradores sumó dos nuevos integrantes, llegando a un total de diez.</p>
+            <aside class="hide-on-phones">
+        <h4>Otras Noticias</h4>
+        <ul class="ul-relacionados">
+            
+            
+              
+            
+
+    
+        
+        
+            
+            <li><a href="/noticias/economia-y-politica/gremios-laboral/cut-avance-en-negociacion-por-salario-minimo-llega-a-70-pero-aun-no-hay-cifra/2014-06-27/161052.html" title="CUT: avance en negociación por salario mínimo llega a 70%, pero aún no hay cifra" rel="contents">CUT: avance en negociación por salario mínimo llega a 70%, pero aún no hay cifra</a></li>
+            
+            
+
+        
+            
+    
+
+    
+        
+        
+            
+            <li><a href="/noticias/economia-y-politica/gobierno/arenas-enfatiza-en-la-celeridad-en-aprobar-la-reforma-tributaria-para-generar-senales-claras-y-certidumbre/2014-06-27/131419.html" title="Arenas enfatiza en la celeridad en aprobar la reforma tributaria &quot;para generar señales claras y certidumbre&quot;" rel="contents">Arenas enfatiza en la celeridad en aprobar la reforma tributaria "para generar señales claras y certidumbre"</a></li>
+            
+            
+
+        
+            
+    
+
+    
+        
+        
+            
+            <li><a href="/noticias/empresas/actualidad/trenes-metropolitanos-aumentara-servicio-de-trenes-a-rancagua-durante-julio/2014-06-27/122929.html" title="Trenes Metropolitanos aumentará servicio de trenes a Rancagua durante julio" rel="contents">Trenes Metropolitanos aumentará servicio de trenes a Rancagua durante julio</a></li>
+            
+            
+
+        
+            
+    
+
+    <!-- Este articulo no va -->
+    
+
+    <!-- Este articulo no va -->
+    
+
+
+              
+        </ul>
+    </aside>
+
+    </article>
+    
+    
+    
+    
+<div class="locked-message cfondo hide-on-phones">
+    <p>Accede a nuestros contenidos desde todos tus dispositivos</p>
+    <div class="price">
+        <p>desde</p>
+        <span class="price-value">$4.500<span class="time-value"> mensual</span></span>
+        <p class="price-desc">valor suscripcion anual $54.000.</p>
+        <a href="/app_df/frontend/modules/index.php?modulo=ofertas&amp;accion=FormOferta&amp;idart=20131119160736" title="Suscribirse" rel="help" class="btn dark-orange trackevent" data-ga-category="Suscripciones" data-ga_action="WidgetPicSus" data-ga_opt_label="BtnPicSus">Suscríbete Ahora</a>
+        <a class="details" href="/prontus_suscripciones/site/edic/base/port/suscripciones.html" title="Ver detalles de suscripciones" rel="help">Ver otros planes</a>
+    </div>
+</div>
+
+
+    
+</section>
+
+
+
+            <aside class="column4 last"> <!-- COLUMNA DERECHA -->
+                <!-- Banner -->
+<div class="banner-holder hide-on-phones">
+    <script type="text/javascript">eplAD4M(eplArgs.eIs[8]);</script>
+</div>
+<!-- Fin Banner -->
+                                
+                <!-- ULTIMO MINUTO -->
+                
+
+<div class="last-minute doble-border up">
+    <header>
+        <h4 class="category">Último minuto</h4>
+        <!-- span class="date">20/07/2013 | 16:15</span -->
+    </header>
+    <div class="article-list">
+    
+        
+        <article>
+            <time>05:00</time>
+            <div class="content">
+                <p><a class="trackevent" data-ga-category="LastMin" data-ga_action="NoSponserdLink" data-ga_opt_label="BtnNoSponLink" href="/noticias/empresas/actualidad/ministra-blanco-no-nos-pongamos-ahora-a-rasgar-vestiduras-porque-las-afp-tienen-una-deuda-pais-importante/2014-06-26/215409.html" title="Ministra Blanco: “No nos pongamos ahora a rasgar vestiduras (...) porque las AFP tienen una deuda país importante”" rel="contents">Ministra Blanco: “No nos pongamos ahora a rasgar vestiduras (...) porque las AFP tienen una deuda país importante”</a></p>
+            </div>
+        </article>
+        
+        
+    
+        
+        <article>
+            <time>05:00</time>
+            <div class="content">
+                <p><a class="trackevent" data-ga-category="LastMin" data-ga_action="NoSponserdLink" data-ga_opt_label="BtnNoSponLink" href="/noticias/economia-y-politica/gremios-laboral/economistas-ven-que-peak-de-desempleo-sera-en-el-ultimo-trimestre-del-ano-y-en-2015/2014-06-26/214114.html" title="Economistas ven que peak de desempleo será en el último trimestre del año y en 2015" rel="contents">Economistas ven que peak de desempleo será en el último trimestre del año y en 2015</a></p>
+            </div>
+        </article>
+        
+        
+    
+        
+        <article>
+            <time>05:00</time>
+            <div class="content">
+                <p><a class="trackevent" data-ga-category="LastMin" data-ga_action="NoSponserdLink" data-ga_opt_label="BtnNoSponLink" href="/noticias/economia-y-politica/actualidad/sergio-romero-la-nueva-mayoria-esta-cometiendo-un-grave-error-se-esta-suicidando-politicamente/2014-06-26/214113.html" title="Sergio Romero: “La Nueva Mayoría está cometiendo un grave error, se está suicidando políticamente”" rel="contents">Sergio Romero: “La Nueva Mayoría está cometiendo un grave error, se está suicidando políticamente”</a></p>
+            </div>
+        </article>
+        
+        
+    
+        
+        <article>
+            <time>05:00</time>
+            <div class="content">
+                <p><a class="trackevent" data-ga-category="LastMin" data-ga_action="NoSponserdLink" data-ga_opt_label="BtnNoSponLink" href="/noticias/empresas/banca-instituciones-financieras/cencosud-scotiabank-las-claves-del-acuerdo-y-los-avances-de-la-integracion/2014-06-26/214107.html" title="Cencosud–Scotiabank: las claves del acuerdo y los avances de la integración" rel="contents">Cencosud–Scotiabank: las claves del acuerdo y los avances de la integración</a></p>
+            </div>
+        </article>
+        
+        
+    
+        
+        
+        <article class="auspicio">
+            <time>05:00</time>
+            <div class="content">
+                <h3><a class="trackevent" data-ga-category="LastMin" data-ga_action="SponserdLink" data-ga_opt_label="BtnSponLink" href="/noticias/empresas/actualidad/las-claves-del-poderoso-organismo-que-determinara-el-uso-del-territorio/2014-06-26/214051.html" title="Las claves del poderoso organismo que determinará el uso del territorio" rel="contents">Las claves del poderoso organismo que determinará el uso del territorio</a></h3>
+                <p><a class="trackevent" data-ga-category="LastMin" data-ga_action="SponserdLink" data-ga_opt_label="BtnSponLink" href="/noticias/empresas/actualidad/las-claves-del-poderoso-organismo-que-determinara-el-uso-del-territorio/2014-06-26/214051.html" title="Las claves del poderoso organismo que determinará el uso del territorio" rel="contents">Expertos analizan detalles del proyecto de ley enviado al Congreso. En...</a></p>
+            </div>
+            <script type="text/javascript">eplAD4M(eplArgs.eIs[13]);</script>
+            <div class="clearfix ultmin-img-banner" style="height:4px;"></div>
+        </article>
+        
+    
+        
+        <article>
+            <time>05:00</time>
+            <div class="content">
+                <p><a class="trackevent" data-ga-category="LastMin" data-ga_action="NoSponserdLink" data-ga_opt_label="BtnNoSponLink" href="/noticias/empresas/retail/mayor-facturacion-y-potencial-de-la-compania-disparan-nivel-de-interesados-en-rabie/2014-06-26/214049.html" title="Mayor facturación y potencial de la compañía disparan nivel de interesados en Rabié" rel="contents">Mayor facturación y potencial de la compañía disparan nivel de interesados en Rabié</a></p>
+            </div>
+        </article>
+        
+        
+    
+        
+        <article>
+            <time>17:44</time>
+            <div class="content">
+                <p><a class="trackevent" data-ga-category="LastMin" data-ga_action="NoSponserdLink" data-ga_opt_label="BtnNoSponLink" href="/noticias/mercados/bolsa/bolsa-de-santiago-cerro-sesion-con-leves-bajas/2014-06-27/175002.html" title="Bolsa de Santiago cerró sesión con leves bajas" rel="contents">Bolsa de Santiago cerró sesión con leves bajas</a></p>
+            </div>
+        </article>
+        
+        
+    
+    </div>
+</div>
+
+
+            </aside>
+        </section>
+                <!-- Banner -->
+        <div class="banner-holder full row hide-on-phones">
+            <script type="text/javascript">eplAD4M(eplArgs.eIs[4]);</script>
+        </div>
+        <!-- Fin Banner -->
+
+
+        <!-- Fin Sección principal -->
+        <!-- Sección Empresas, Economía, Política e Internacional -->
+        <section class="bigbox bottom white-bg container oneColumnDeploy">
+            <h2 class="section-title doble-border up hide-on-phones">Información de Empresas, Economía, Política e Internacional</h2>
+            <div class="row">
+                <div class="column8 down-m">
+                    <section class="inner-column4 down-m"><!-- Clase down-m permite que la columna tome el ancho completo en visualización Smartphone -->
+                        <!-- COLUMNA DE EMPRESAS -->
+                        
+    <h3><a class="rotulo" href="/empresas" title="Ir a Empresas" rel="contents">Empresas</a></h3> <!-- esto va en duro -->
+    
+    
+
+        
+    <article class="box ">
+        
+
+        
+            
+            <a href="/noticias/empresas/mineria/comision-nacional-del-litio-podriamos-transformarnos-en-una-industria-como-la-del-vino-o-del-salmon/2014-06-27/105016.html" title="Comisión Nacional del Litio: podríamos transformarnos en una industria como la del vino o del salmón" rel="contents"><img src="/noticias/site/artic/20140627/imag/foto_0000000320140627105016.jpg" alt="Comisión Nacional del Litio: podríamos transformarnos en una industria como la del vino o del salmón"/></a>
+            
+            
+        
+
+        <div class="category-wrapp">
+            <h4 class="category"><a href="/noticias/site/tax/port/all/taxport_1_2__1.html" title="ir a Minería" rel="contents">Minería</a></h4>
+            
+            <span class="date">27/06/2014</span>
+        </div>
+        <h3><a href="/noticias/empresas/mineria/comision-nacional-del-litio-podriamos-transformarnos-en-una-industria-como-la-del-vino-o-del-salmon/2014-06-27/105016.html" title="Comisión Nacional del Litio: podríamos transformarnos en una industria como la del vino o del salmón" rel="contents">Comisión Nacional del Litio: podríamos transformarnos en una industria como la del vino o del salmón</a></h3>
+        <p>La instancia, que tiene por objetivo generar una propuesta de política pública en torno a la explotación del mineral, sostuvo hoy su primera reunión.</p>
+    </article>
+
+
+
+    
+    
+
+    
+    
+
+        
+    <article class="box ">
+        
+
+        
+            
+            <a href="/noticias/empresas/actualidad/trenes-metropolitanos-aumentara-servicio-de-trenes-a-rancagua-durante-julio/2014-06-27/122929.html" title="Trenes Metropolitanos aumentará servicio de trenes a Rancagua durante julio" rel="contents"><img src="/noticias/site/artic/20140627/imag/foto_0000000320140627122929.jpg" alt="Trenes Metropolitanos aumentará servicio de trenes a Rancagua durante julio"/></a>
+            
+            
+        
+
+        <div class="category-wrapp">
+            <h4 class="category"><a href="/noticias/site/tax/port/all/taxport_1_11__1.html" title="ir a Actualidad" rel="contents">Actualidad</a></h4>
+            
+            <span class="date">27/06/2014</span>
+        </div>
+        <h3><a href="/noticias/empresas/actualidad/trenes-metropolitanos-aumentara-servicio-de-trenes-a-rancagua-durante-julio/2014-06-27/122929.html" title="Trenes Metropolitanos aumentará servicio de trenes a Rancagua durante julio" rel="contents">Trenes Metropolitanos aumentará servicio de trenes a Rancagua durante julio</a></h3>
+        <p>Tendrá un total de 10 servicios adicionales en Metrotren y Terrasur.</p>
+    </article>
+
+
+
+    
+    
+    
+
+        
+    <article class="box ">
+        
+
+        
+            
+            <a href="/noticias/empresas/actualidad/las-claves-del-poderoso-organismo-que-determinara-el-uso-del-territorio/2014-06-26/214051.html" title="Las claves del poderoso organismo que determinará el uso del territorio" rel="contents"><img src="/noticias/site/artic/20140626/imag/foto_0000000420140626214051.jpg" alt="Las claves del poderoso organismo que determinará el uso del territorio"/></a>
+            
+            
+        
+
+        <div class="category-wrapp">
+            <h4 class="category"><a href="/noticias/site/tax/port/all/taxport_1_11__1.html" title="ir a Actualidad" rel="contents">Actualidad</a></h4>
+            
+            <span class="date">28/06/2014</span>
+        </div>
+        <h3><a href="/noticias/empresas/actualidad/las-claves-del-poderoso-organismo-que-determinara-el-uso-del-territorio/2014-06-26/214051.html" title="Las claves del poderoso organismo que determinará el uso del territorio" rel="contents">Las claves del poderoso organismo que determinará el uso del territorio</a></h3>
+        <p>Expertos analizan detalles del proyecto de ley enviado al Congreso. En general valoran la propuesta, pero advierten que hay puntos a aclarar, como que no se zanja qué actividades industriales estarán permitidas.</p>
+    </article>
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    <!-- Esto se deja en duro-->
+    <div class="tags-wrapp hide-on-phones">
+        <p>Más sobre:
+        <a href="/noticias/site/tax/port/all/taxport_1_1__1.html" title="ver artículos relacionados a Retail" rel="tag">Retail</a>, <a href="/noticias/site/tax/port/all/taxport_1_2__1.html" title="ver artículos relacionados a Minería" rel="tag">Minería</a>, <a href="/noticias/site/tax/port/all/taxport_1_3__1.html" title="ver artículos relacionados a Energía" rel="tag">Energía</a>, <a href="/noticias/site/tax/port/all/taxport_1_4__1.html" title="ver artículos relacionados a Infraestructura / Inmobiliaria" rel="tag">Infraestructura / Inmobiliaria</a>, <a href="/noticias/site/tax/port/all/taxport_1_5__1.html" title="ver artículos relacionados a Banca / Instituciones Financieras" rel="tag">Banca / Instituciones Financieras</a>, <a href="/noticias/site/tax/port/all/taxport_1_6__1.html" title="ver artículos relacionados a Telecom/Tecnología" rel="tag">Telecom/Tecnología</a>, <a href="/noticias/site/tax/port/all/taxport_1_7__1.html" title="ver artículos relacionados a Industria" rel="tag">Industria</a>, <a href="/noticias/site/tax/port/all/taxport_1_8__1.html" title="ver artículos relacionados a Multinacionales" rel="tag">Multinacionales</a>, <a href="/noticias/site/tax/port/all/taxport_1_9__1.html" title="ver artículos relacionados a Innovacion y Sustentabilidad" rel="tag">Innovacion y Sustentabilidad</a>, <a href="/noticias/site/tax/port/all/taxport_1_10__1.html" title="ver artículos relacionados a Emprendimiento" rel="tag">Emprendimiento</a>, <a href="/noticias/site/tax/port/all/taxport_1_11__1.html" title="ver artículos relacionados a Actualidad" rel="tag">Actualidad</a>
+    </div>
+
+                    </section>
+
+                    <section class="inner-column4 last down-m"><!-- Clase down-m permite que la columna tome el ancho completo en visualización Smartphone -->
+                        <!-- COLUMNA DE ECONOMIA Y POLITICA -->
+                        
+    <h3><a class="rotulo" href="/economia_y_politica" title="Ir a Economía y Política" rel="contents">Economía y Política</a></h3>
+    
+    
+
+        
+    <article class="box ">
+        
+
+        
+            
+            <a href="/noticias/empresas/industria/sofofa-produccion-industrial-crecio-0-8-en-mayo-y-sector-continua-estancado/2014-06-27/122156.html" title="Sofofa: producción industrial creció 0,8% en mayo y sector &quot;continúa estancado&quot;" rel="contents"><img src="/noticias/site/artic/20140627/imag/foto_0000000320140627122156.jpg" alt="Sofofa: producción industrial creció 0,8% en mayo y sector &quot;continúa estancado&quot;"/></a>
+            
+            
+        
+
+        <div class="category-wrapp">
+            <h4 class="category"><a href="/noticias/site/tax/port/all/taxport_1_7__1.html" title="ir a Industria" rel="contents">Industria</a></h4>
+            
+            <span class="date">27/06/2014</span>
+        </div>
+        <h3><a href="/noticias/empresas/industria/sofofa-produccion-industrial-crecio-0-8-en-mayo-y-sector-continua-estancado/2014-06-27/122156.html" title="Sofofa: producción industrial creció 0,8% en mayo y sector &quot;continúa estancado&quot;" rel="contents">Sofofa: producción industrial creció 0,8% en mayo y sector "continúa estancado"</a></h3>
+        
+    </article>
+
+
+
+    
+    
+
+    
+    
+
+        
+    <article class="box ">
+        
+
+        
+            
+            <a href="/noticias/economia-y-politica/gobierno/cespedes-creemos-fuertemente-en-la-posibilidad-de-nuestra-economia-de-diversificarse/2014-06-27/114743.html" title="Céspedes: &quot;Creemos fuertemente en la posibilidad de nuestra economía de diversificarse&quot;" rel="contents"><img src="/noticias/site/artic/20140627/imag/foto_0000001020140627114743.jpg" alt="Céspedes: &quot;Creemos fuertemente en la posibilidad de nuestra economía de diversificarse&quot;"/></a>
+            
+            
+        
+
+        <div class="category-wrapp">
+            <h4 class="category"><a href="/noticias/site/tax/port/all/taxport_2_16__1.html" title="ir a Gobierno" rel="contents">Gobierno</a></h4>
+            
+            <span class="date">27/06/2014</span>
+        </div>
+        <h3><a href="/noticias/economia-y-politica/gobierno/cespedes-creemos-fuertemente-en-la-posibilidad-de-nuestra-economia-de-diversificarse/2014-06-27/114743.html" title="Céspedes: &quot;Creemos fuertemente en la posibilidad de nuestra economía de diversificarse&quot;" rel="contents">Céspedes: "Creemos fuertemente en la posibilidad de nuestra economía de diversificarse"</a></h3>
+        <p>El ministro abogó por una alianza público-privada y por una agenda a largo plazo de economía.</p>
+    </article>
+
+
+
+    
+    
+    
+
+        
+    <article class="box ">
+        
+
+        
+            
+            <a href="/noticias/economia-y-politica/macro/lyd-porcentaje-de-familias-que-tiene-a-alguien-sin-trabajo-aumento-a-39-en-junio/2014-06-27/110456.html" title="LyD: porcentaje de familias que tiene a alguien sin trabajo aumentó a 39% en junio" rel="contents"><img src="/noticias/site/artic/20140627/imag/foto_0000000320140627110456.jpg" alt="LyD: porcentaje de familias que tiene a alguien sin trabajo aumentó a 39% en junio"/></a>
+            
+            
+        
+
+        <div class="category-wrapp">
+            <h4 class="category"><a href="/noticias/site/tax/port/all/taxport_2_14__1.html" title="ir a Macro" rel="contents">Macro</a></h4>
+            
+            <span class="date">27/06/2014</span>
+        </div>
+        <h3><a href="/noticias/economia-y-politica/macro/lyd-porcentaje-de-familias-que-tiene-a-alguien-sin-trabajo-aumento-a-39-en-junio/2014-06-27/110456.html" title="LyD: porcentaje de familias que tiene a alguien sin trabajo aumentó a 39% en junio" rel="contents">LyD: porcentaje de familias que tiene a alguien sin trabajo aumentó a 39% en junio</a></h3>
+        <p>Según la Encuesta de Percepción del Desempleo del instituto Libertad y Desarrollo.</p>
+    </article>
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    <!-- Esto se deja en duro-->
+    <div class="tags-wrapp hide-on-phones">
+        <p>Más sobre:
+        <a href="/noticias/site/tax/port/all/taxport_2_12__1.html" title="ver artículos relacionados a Congreso / Legislación" rel="tag">Congreso / Legislación</a>, <a href="/noticias/site/tax/port/all/taxport_2_13__1.html" title="ver artículos relacionados a Regulación" rel="tag">Regulación</a>, <a href="/noticias/site/tax/port/all/taxport_2_14__1.html" title="ver artículos relacionados a Macro" rel="tag">Macro</a>, <a href="/noticias/site/tax/port/all/taxport_2_15__1.html" title="ver artículos relacionados a Comercio exterior" rel="tag">Comercio exterior</a>, <a href="/noticias/site/tax/port/all/taxport_2_16__1.html" title="ver artículos relacionados a Gobierno" rel="tag">Gobierno</a>, <a href="/noticias/site/tax/port/all/taxport_2_17__1.html" title="ver artículos relacionados a Gremios / Laboral" rel="tag">Gremios / Laboral</a>, <a href="/noticias/site/tax/port/all/taxport_2_45__1.html" title="ver artículos relacionados a Actualidad" rel="tag">Actualidad</a>
+    </div>
+
+                    </section>
+                    
+                <!-- Banner -->
+                <div class="banner-holder full row hide-on-phones">
+                    <script type="text/javascript">eplAD4M(eplArgs.eIs[5]);</script>
+                </div>
+                <!-- Fin Banner -->
+
+                </div>
+                <section class="column4 last down-m"><!-- Clase down-m permite que la columna tome el ancho completo en visualización Smartphone -->
+                    <!-- COLUMNA INTERNACIONAL -->
+                    
+    <h3><a class="rotulo" href="/internacional" title="Ir a Internacional" rel="contents">Internacional</a></h3>
+    
+    
+
+        
+    <article class="box ">
+        
+
+        
+            
+            <a href="/noticias/internacional/actualidad-internacional/ucrania-culmina-los-acuerdos-de-asociacion-con-la-ue-y-rusia-advierte-de-serias-consecuencias/2014-06-27/082607.html" title="Ucrania culmina los acuerdos de asociación con la UE y Rusia advierte de &quot;serias consecuencias&quot;" rel="contents"><img src="/noticias/site/artic/20140627/imag/foto_0000000320140627082607.jpg" alt="Ucrania culmina los acuerdos de asociación con la UE y Rusia advierte de &quot;serias consecuencias&quot;"/></a>
+            
+            
+        
+
+        <div class="category-wrapp">
+            <h4 class="category"><a href="/noticias/site/tax/port/all/taxport_4_46__1.html" title="ir a Actualidad internacional" rel="contents">Actualidad internacional</a></h4>
+            
+            <span class="date">27/06/2014</span>
+        </div>
+        <h3><a href="/noticias/internacional/actualidad-internacional/ucrania-culmina-los-acuerdos-de-asociacion-con-la-ue-y-rusia-advierte-de-serias-consecuencias/2014-06-27/082607.html" title="Ucrania culmina los acuerdos de asociación con la UE y Rusia advierte de &quot;serias consecuencias&quot;" rel="contents">Ucrania culmina los acuerdos de asociación con la UE y Rusia advierte de "serias consecuencias"</a></h3>
+        <p>La firma de los acuerdos ha tenido lugar en una ceremonia en los márgenes de la cumbre que ha reunido en Bruselas a los líderes de los Veintiocho.</p>
+    </article>
+
+
+
+    
+    
+
+    
+    
+
+        
+    <article class="box ">
+        
+
+        
+            
+            <a href="/noticias/internacional/actualidad-internacional/la-ue-sin-londres-respalda-a-juncker-para-presidir-la-comision-europea/2014-06-27/091105.html" title="La UE, sin Londres, respalda a Juncker para presidir la Comisión Europea" rel="contents"><img src="/noticias/site/artic/20140627/imag/foto_0000000320140627091105.jpg" alt="La UE, sin Londres, respalda a Juncker para presidir la Comisión Europea"/></a>
+            
+            
+        
+
+        <div class="category-wrapp">
+            <h4 class="category"><a href="/noticias/site/tax/port/all/taxport_4_46__1.html" title="ir a Actualidad internacional" rel="contents">Actualidad internacional</a></h4>
+            
+            <span class="date">27/06/2014</span>
+        </div>
+        <h3><a href="/noticias/internacional/actualidad-internacional/la-ue-sin-londres-respalda-a-juncker-para-presidir-la-comision-europea/2014-06-27/091105.html" title="La UE, sin Londres, respalda a Juncker para presidir la Comisión Europea" rel="contents">La UE, sin Londres, respalda a Juncker para presidir la Comisión Europea</a></h3>
+        <p>Reino Unido asegura que es el "candidato equivocado" y no descarta pedir que se vote.</p>
+    </article>
+
+
+
+    
+    
+    
+
+        
+    <article class="box ">
+        
+
+        
+            
+            <a href="/noticias/internacional/actualidad-internacional/los-precios-suben-en-japon-un-3-4/2014-06-27/083535.html" title="Los precios suben en Japón un 3,4%" rel="contents"><img src="/noticias/site/artic/20140627/imag/foto_0000000320140627083535.jpg" alt="Los precios suben en Japón un 3,4%"/></a>
+            
+            
+        
+
+        <div class="category-wrapp">
+            <h4 class="category"><a href="/noticias/site/tax/port/all/taxport_4_46__1.html" title="ir a Actualidad internacional" rel="contents">Actualidad internacional</a></h4>
+            
+            <span class="date">27/06/2014</span>
+        </div>
+        <h3><a href="/noticias/internacional/actualidad-internacional/los-precios-suben-en-japon-un-3-4/2014-06-27/083535.html" title="Los precios suben en Japón un 3,4%" rel="contents">Los precios suben en Japón un 3,4%</a></h3>
+        <p>Supone el duodécimo mes consecutivo en el que suben los precios en el país asiático.</p>
+    </article>
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    <!-- Esto se deja en duro-->
+    <div class="tags-wrapp hide-on-phones">
+        <p>Más sobre:
+        <a href="/noticias/site/tax/port/all/taxport_4_46__1.html" title="ver artículos relacionados a Actualidad internacional" rel="tag">Actualidad internacional</a>, <a href="/noticias/site/tax/port/all/taxport_4_25__1.html" title="ver artículos relacionados a Ripe" rel="tag">Ripe</a>, <a href="/noticias/site/tax/port/all/taxport_4_26__1.html" title="ver artículos relacionados a FT Español" rel="tag">FT Español</a>, <a href="/noticias/site/tax/port/all/taxport_4_47__1.html" title="ver artículos relacionados a EIU" rel="tag">EIU</a>, <a href="/noticias/site/tax/port/all/taxport_4_27__1.html" title="ver artículos relacionados a South China" rel="tag">South China</a>
+    </div>
+    
+    
+    
+    
+    
+
+
+                    
+                        
+                            <div class="hide-on-phone">
+    
+    <h3><a class="rotulo" href="/noticias/site/list/port/suplementos.html" title="Ir a Suplementos" rel="contents">DF Suplementos</a></h3>
+    
+    <article class="suplemento box doble-border hide-on-phone">
+        <div class="category-wrapp">
+            <h4 class="category">
+                <a href="/noticias/site/tax/port/all/taxport____1.html" title="ir a </a>
+            </h4>
+        </div>
+        
+        <a href="#suplementos_inicio" onclick="PapelDigital.openWinPapelWithPage('20140626', '41'); return false;"><img src="/noticias/site/artic/20140626/imag/foto_0000000220140626010700.jpg" class="imag" /></a>        
+        
+        <h3><a href="#suplementos_inicio" onclick="PapelDigital.openWinPapelWithPage('20140626', '41'); return false;" title="Suplemento transporte terrestre" rel="contents">Suplemento transporte terrestre</a></h3>
+        
+        <p>Larga distancia premium.</p>
+        
+        <div class="separa"></div>
+        
+        
+        <div class="hide-on-phone back">
+            <p>Ver: <a href="/noticias/site/list/port/suplementos.html">Archivo de Suplementos</a></p>
+        </div>
+        
+    </article>
+    
+</div>
+
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+
+                                        <!-- Banner -->
+                    <div class="banner-holder hide-on-phones">
+                        <script type="text/javascript">eplAD4M(eplArgs.eIs[9]);</script>
+                    </div>
+                    <!-- Fin Banner -->
+
+                </section>
+            </div>
+        </section>
+        <!-- Fin Sección Empresas, Economía, Política e Internacional -->
+        <!-- Sección Mercados y Market Data -->
+        <section class="bigbox bottom oneColumnDeploy">
+            <h2 class="section-title doble-border up hide-on-phones">Información de Mercados y Market Data</h2>
+            <div class="row container">
+                <section class="column4 down-m">
+
+                    <!-- COLUMNA MERCADOS -->
+                    
+    <h3><a class="rotulo" href="/mercados" title="Ir a Mercados" rel="contents">Mercados</a></h3>
+    
+    
+
+        
+    <article class="box ">
+        
+
+        
+            
+            <a href="/noticias/mercados/bolsa/bolsas-del-viejo-continente-acumularon-perdidas-semanales-cercanas-al-3/2014-06-27/140402.html" title="Bolsas del viejo continente acumularon pérdidas semanales cercanas al 3%" rel="contents"><img src="/noticias/site/artic/20140627/imag/foto_0000000320140627140402.jpg" alt="Bolsas del viejo continente acumularon pérdidas semanales cercanas al 3%"/></a>
+            
+            
+        
+
+        <div class="category-wrapp">
+            <h4 class="category"><a href="/noticias/site/tax/port/all/taxport_3_20__1.html" title="ir a Bolsa" rel="contents">Bolsa</a></h4>
+            
+            <span class="date">27/06/2014</span>
+        </div>
+        <h3><a href="/noticias/mercados/bolsa/bolsas-del-viejo-continente-acumularon-perdidas-semanales-cercanas-al-3/2014-06-27/140402.html" title="Bolsas del viejo continente acumularon pérdidas semanales cercanas al 3%" rel="contents">Bolsas del viejo continente acumularon pérdidas semanales cercanas al 3%</a></h3>
+        <p>Hoy los mercados cerraron mixtos ante la publicación de débiles datos macro y l rebrote de las tensiones geopolíticas</p>
+    </article>
+
+
+
+    
+    
+
+    
+    
+
+        
+    <article class="box ">
+        
+
+        
+            
+            <a href="/noticias/mercados/commodities/el-cobre-cierra-en-su-nivel-mas-alto-en-casi-un-mes-y-acumula-alza-de-2-9-en-la-semana/2014-06-27/093404.html" title="El cobre cierra en su nivel más alto en casi un mes y acumula alza de 2,9% en la semana" rel="contents"><img src="/noticias/site/artic/20140627/imag/foto_0000000320140627093404.jpg" alt="El cobre cierra en su nivel más alto en casi un mes y acumula alza de 2,9% en la semana"/></a>
+            
+            
+        
+
+        <div class="category-wrapp">
+            <h4 class="category"><a href="/noticias/site/tax/port/all/taxport_3_18__1.html" title="ir a Commodities" rel="contents">Commodities</a></h4>
+            
+            <span class="date">27/06/2014</span>
+        </div>
+        <h3><a href="/noticias/mercados/commodities/el-cobre-cierra-en-su-nivel-mas-alto-en-casi-un-mes-y-acumula-alza-de-2-9-en-la-semana/2014-06-27/093404.html" title="El cobre cierra en su nivel más alto en casi un mes y acumula alza de 2,9% en la semana" rel="contents">El cobre cierra en su nivel más alto en casi un mes y acumula alza de 2,9% en la semana</a></h3>
+        <p>Hoy el commodity cerró en US$ 3,164 la libra en la Bolsa de Metales de Londres.</p>
+    </article>
+
+
+
+    
+    
+    
+    
+    
+    
+
+    <!-- Esto se deja en duro-->
+    <div class="tags-wrapp hide-on-phones">
+        <p>Más sobre:
+        <a href="/noticias/site/tax/port/all/taxport_3_18__1.html" title="ver artículos relacionados a Commodities" rel="tag">Commodities</a>, <a href="/noticias/site/tax/port/all/taxport_3_19__1.html" title="ver artículos relacionados a Renta Fija" rel="tag">Renta Fija</a>, <a href="/noticias/site/tax/port/all/taxport_3_20__1.html" title="ver artículos relacionados a Bolsa" rel="tag">Bolsa</a>, <a href="/noticias/site/tax/port/all/taxport_3_21__1.html" title="ver artículos relacionados a Divisas" rel="tag">Divisas</a>, <a href="/noticias/site/tax/port/all/taxport_3_22__1.html" title="ver artículos relacionados a Finanzas Personales" rel="tag">Finanzas Personales</a>, <a href="/noticias/site/tax/port/all/taxport_3_23__1.html" title="ver artículos relacionados a Mercados en Acción" rel="tag">Mercados en Acción</a>, <a href="/noticias/site/tax/port/all/taxport_3_24__1.html" title="ver artículos relacionados a Centro de Datos" rel="tag">Centro de Datos</a>
+    </div>
+
+
+                    
+                </section>
+                <section class="column8 last hide-on-phones homeMarketdata">
+
+                    <!-- COLUMNA MARKET DATA -->
+                    <h3><a class="rotulo" href="/app_df/frontend/modules/index.php?modulo=cd&amp;accion=Inicio" title="Ir a EMarket Data" rel="contents">Market Data</a></h3>
+<div class="inner-column4">
+    <!--bcs-->
+    <div class="slider table-wrapp tab-panels">
+        <h3>Bolsa de Comercio de Santiago</h3>
+        <ul class="buttons-tab inline-list buttons-slide">
+            <li><button class="active trackevent" data-ga-category="CajasSidebar" data-ga_action="BolsaSCL" data-ga_opt_label="BtnMayorAlza" data-func="changeTab" data-slide="0" data-type="tabs" data-delegated="true">Mayores Alzas</button></li>
+            <li><button class="trackevent" data-ga-category="CajasSidebar" data-ga_action="BolsaSCL" data-ga_opt_label="BtnMayorBaja" data-func="changeTab" data-slide="1" data-type="tabs" data-delegated="true">Mayores Bajas</button></li>
+            <li><button class="trackevent" data-ga-category="CajasSidebar" data-ga_action="BolsaSCL" data-ga_opt_label="BtnMayorTranzada" data-func="changeTab" data-slide="2" data-type="tabs" data-delegated="true">Más Transadas</button></li>
+        </ul>
+        <!-- Slider -->
+        <div class="slide-tabs" style="visibility: visible; -webkit-backface-visibility: hidden; -webkit-perspective: 1000;">
+            <ul class="tabs" data-pointershandled="true" data-transitionshandled="true" style="width: 925.40625px;">
+                <li data-index="0" style="width: 308.46875px; position: relative; left: 0px; transition: 0ms; -webkit-transition: 0ms; -webkit-transform: translate(0px, 0px) translateZ(0px);">
+
+
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Acción</th>
+                                <th>Precio$</th>
+                                <th>Var.diaria</th>
+                                <th>Últ.trans.</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            
+                        </tbody>
+                    </table>
+                </li>
+                <li data-index="1" style="width: 308.46875px; position: relative; left: -308.46875px; transition: 0ms; -webkit-transition: 0ms; -webkit-transform: translate(308.46875px, 0px) translateZ(0px);">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Acción</th>
+                                <th>Precio$</th>
+                                <th>Var.diaria</th>
+                                <th>Últ.trans.</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                              
+                        </tbody>
+                    </table>
+                </li>
+                <li data-index="2" style="width: 308.46875px; position: relative; left: -616.9375px; transition: 0ms; -webkit-transition: 0ms; -webkit-transform: translate(308.46875px, 0px) translateZ(0px);">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Acción</th>
+                                <th>Precio$</th>
+                                <th>Monto $</th>
+                                <th>Últ.trans.</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            
+                        </tbody>
+                    </table>
+                </li>
+            </ul>
+        </div>
+        <!-- Fin Slider -->
+        <div class="locked-message nom">
+            <p><a class="trackevent" data-ga-category="Ingresar" data-ga_action="WidgetLogin" data-ga_opt_label="BtnLoginBCS" href="#" title="Ingresa a DF" rel="nofollow" data-func="trigerIngreso" data-delegated="true">Ingresa</a> o <a class="trackevent" data-ga-category="Registrar" data-ga_action="WidgetBCS" data-ga_opt_label="BtnRegBCS" href="/app_reg/frontend/modules/index.php?modulo=usuario&amp;accion=VerFicha" title="Regístrate a DF" rel="nofollow">Regístrate</a> para seguir tu <a href="/" title="Ingresa a tu Portafolio Personal" rel="nofollow">Portafolio personal</a></p>
+        </div>
+    </div>
+    <!--bcs-->
+
+    <!--bolsas-->
+    <div class="table-wrapp tab-panels chart-options" id="graphBolsasInicio">
+    <h3>Bolsas</h3>
+    <h4><span class="itemName"></span></h4>
+    <!-- Gráfico, dentro de este elemento debería generarse un gráfico -->
+    <div class="chart chart-small">
+        <div class="jqPlotGraph"></div>
+        <div class="loading">
+            <div class="ruedita">
+                <p>Cargando...</p>
+                <img src="/noticias/imag/ida/iconos/ajax-loader.gif" width="32" height="32" alt="Cargando..." />
+            </div>
+        </div>
+        <div class="err-msg" style="display: none;">
+            <p>No existen datos suficientes para graficar.</p>
+        </div>
+    </div>
+    <!-- Fin Gráfico -->
+    <ul class="chart-ul">
+        
+        <li class="active" data-func="changeChartInicio" data-graph='{"data":[["2014-06-29 12:30:01", "18899.534931042"],["2014-06-29 12:45:02", "18899.534931042"],["2014-06-29 13:00:01", "18899.534931042"],["2014-06-29 13:15:02", "18899.534931042"],["2014-06-29 13:30:01", "18899.534931042"],["2014-06-29 13:45:01", "18899.534931042"],["2014-06-29 14:00:02", "18899.534931042"],["2014-06-29 14:15:01", "18899.534931042"],["2014-06-29 14:30:01", "18899.534931042"],["2014-06-29 14:45:01", "18899.534931042"],["2014-06-29 15:00:02", "18899.534931042"],["2014-06-29 15:15:01", "18899.534931042"],["2014-06-29 15:30:01", "18899.534931042"],["2014-06-29 15:45:01", "18899.534931042"],["2014-06-29 16:00:02", "18899.534931042"],["2014-06-29 16:15:01", "18899.534931042"]],"minval":"18710.01","maxval":"19089","mindate":"2014-06-29 13:15:01","maxdate":"2014-06-29 16:15:01"}' data-graph-nom="IGPA" data-item-div="graphBolsasInicio">
+            <span class="title"><span class="more-image"><img src="/noticias/imag/ida/iconos/more.svg" data-png="/noticias/imag/ida/iconos/more.png" alt="Ver IGPA" /></span>IGPA</span>
+            <span class="value">-0,29</span>
+        </li>
+        
+        <li class="" data-func="changeChartInicio" data-graph='{"data":[["2014-06-29 12:30:01", "3874.473614386"],["2014-06-29 12:45:02", "3874.473614386"],["2014-06-29 13:00:01", "3874.473614386"],["2014-06-29 13:15:02", "3874.473614386"],["2014-06-29 13:30:01", "3874.473614386"],["2014-06-29 13:45:01", "3874.473614386"],["2014-06-29 14:00:02", "3874.473614386"],["2014-06-29 14:15:01", "3874.473614386"],["2014-06-29 14:30:01", "3874.473614386"],["2014-06-29 14:45:01", "3874.473614386"],["2014-06-29 15:00:02", "3874.473614386"],["2014-06-29 15:15:01", "3874.473614386"],["2014-06-29 15:30:01", "3874.473614386"],["2014-06-29 15:45:01", "3874.473614386"],["2014-06-29 16:00:02", "3874.473614386"],["2014-06-29 16:15:01", "3874.473614386"]],"minval":"3835.26","maxval":"3913.75","mindate":"2014-06-29 13:15:01","maxdate":"2014-06-29 16:15:01"}' data-graph-nom="IPSA" data-item-div="graphBolsasInicio">
+            <span class="title"><span class="more-image"><img src="/noticias/imag/ida/iconos/more.svg" data-png="/noticias/imag/ida/iconos/more.png" alt="Ver IPSA" /></span>IPSA</span>
+            <span class="value">-0,32</span>
+        </li>
+        
+        <li class="" data-func="changeChartInicio" data-graph='{"data":[["2014-06-29 12:30:01", "4397.93"],["2014-06-29 12:45:02", "4397.93"],["2014-06-29 13:00:01", "4397.93"],["2014-06-29 13:15:02", "4397.93"],["2014-06-29 13:30:01", "4397.93"],["2014-06-29 13:45:01", "4397.93"],["2014-06-29 14:00:02", "4397.93"],["2014-06-29 14:15:01", "4397.93"],["2014-06-29 14:30:01", "4397.93"],["2014-06-29 14:45:01", "4397.93"],["2014-06-29 15:00:02", "4397.93"],["2014-06-29 15:15:01", "4397.93"],["2014-06-29 15:30:01", "4397.93"],["2014-06-29 15:45:01", "4397.93"],["2014-06-29 16:00:02", "4397.93"],["2014-06-29 16:15:01", "4397.93"]],"minval":"4353.03","maxval":"4441.98","mindate":"2014-06-29 13:15:01","maxdate":"2014-06-29 16:15:01"}' data-graph-nom="NASDAQ" data-item-div="graphBolsasInicio">
+            <span class="title"><span class="more-image"><img src="/noticias/imag/ida/iconos/more.svg" data-png="/noticias/imag/ida/iconos/more.png" alt="Ver NASDAQ" /></span>NASDAQ</span>
+            <span class="value">0,00</span>
+        </li>
+        
+        <li class="" data-func="changeChartInicio" data-graph='{"data":[["2014-06-29 12:30:01", "1960.98"],["2014-06-29 12:45:02", "1960.98"],["2014-06-29 13:00:01", "1960.98"],["2014-06-29 13:15:02", "1960.98"],["2014-06-29 13:30:01", "1960.98"],["2014-06-29 13:45:01", "1960.98"],["2014-06-29 14:00:02", "1960.98"],["2014-06-29 14:15:01", "1960.98"],["2014-06-29 14:30:01", "1960.98"],["2014-06-29 14:45:01", "1960.98"],["2014-06-29 15:00:02", "1960.98"],["2014-06-29 15:15:01", "1960.98"],["2014-06-29 15:30:01", "1960.98"],["2014-06-29 15:45:01", "1960.98"],["2014-06-29 16:00:02", "1960.98"],["2014-06-29 16:15:01", "1960.98"]],"minval":"1940.4","maxval":"1980.61","mindate":"2014-06-29 13:15:01","maxdate":"2014-06-29 16:15:01"}' data-graph-nom="S&amp;P 500 (NY)" data-item-div="graphBolsasInicio">
+            <span class="title"><span class="more-image"><img src="/noticias/imag/ida/iconos/more.svg" data-png="/noticias/imag/ida/iconos/more.png" alt="Ver S&amp;P 500 (NY)" /></span>S&amp;P 500 (NY)</span>
+            <span class="value">0,00</span>
+        </li>
+        
+        <li class="" data-func="changeChartInicio" data-graph='{"data":[["2014-06-29 12:30:01", "53157.30"],["2014-06-29 12:45:02", "53157.30"],["2014-06-29 13:00:01", "53157.30"],["2014-06-29 13:15:02", "53157.30"],["2014-06-29 13:30:01", "53157.30"],["2014-06-29 13:45:01", "53157.30"],["2014-06-29 14:00:02", "53157.30"],["2014-06-29 14:15:01", "53157.30"],["2014-06-29 14:30:01", "53157.30"],["2014-06-29 14:45:01", "53157.30"],["2014-06-29 15:00:02", "53157.30"],["2014-06-29 15:15:01", "53157.30"],["2014-06-29 15:30:01", "53157.30"],["2014-06-29 15:45:01", "53157.30"],["2014-06-29 16:00:02", "53157.30"],["2014-06-29 16:15:01", "53157.30"]],"minval":"52625.43","maxval":"53689.58","mindate":"2014-06-29 13:15:01","maxdate":"2014-06-29 16:15:01"}' data-graph-nom="Bovespa (Sao Paulo)" data-item-div="graphBolsasInicio">
+            <span class="title"><span class="more-image"><img src="/noticias/imag/ida/iconos/more.svg" data-png="/noticias/imag/ida/iconos/more.png" alt="Ver Bovespa (Sao Paulo)" /></span>Bovespa (Sao Paulo)</span>
+            <span class="value">0,00</span>
+        </li>
+        
+        <li class="" data-func="changeChartInicio" data-graph='{"data":[["2014-06-29 12:30:01", "7905.10"],["2014-06-29 12:45:02", "7905.10"],["2014-06-29 13:00:01", "7905.10"],["2014-06-29 13:15:02", "7905.10"],["2014-06-29 13:30:01", "7905.10"],["2014-06-29 13:45:01", "7905.10"],["2014-06-29 14:00:02", "7905.10"],["2014-06-29 14:15:01", "7905.10"],["2014-06-29 14:30:01", "7905.10"],["2014-06-29 14:45:01", "7905.10"],["2014-06-29 15:00:02", "7905.10"],["2014-06-29 15:15:01", "7905.10"],["2014-06-29 15:30:01", "7905.10"],["2014-06-29 15:45:01", "7905.10"],["2014-06-29 16:00:02", "7905.10"],["2014-06-29 16:15:01", "7905.10"]],"minval":"7825.95","maxval":"7985.06","mindate":"2014-06-29 13:15:01","maxdate":"2014-06-29 16:15:01"}' data-graph-nom="Merval (Bs As)" data-item-div="graphBolsasInicio">
+            <span class="title"><span class="more-image"><img src="/noticias/imag/ida/iconos/more.svg" data-png="/noticias/imag/ida/iconos/more.png" alt="Ver Merval (Bs As)" /></span>Merval (Bs As)</span>
+            <span class="value">0,00</span>
+        </li>
+        
+    </ul>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        cd.graph.initPortInicio('graphBolsasInicio', 0);
+    });
+</script>
+    <!--/bolsas-->
+</div>
+
+
+                    <div class="inner-column4 last">
+                        <div class="slider table-wrapp tab-panels chart-options">
+    <h3>Índices</h3>
+    <ul class="buttons-tab inline-list buttons-slide">
+        <li><button class="active trackevent" data-ga-category="CajasSidebar" data-ga_action="Indicadores" data-ga_opt_label="BtnMoneda" data-func="changeTab" data-slide="0" data-type="tabs" data-delegated="true">Monedas</button></li>
+        <li><button class="trackevent" data-ga-category="CajasSidebar" data-ga_action="Indicadores" data-ga_opt_label="BtnCommodities" data-func="changeTab" data-slide="1" data-type="tabs" data-delegated="true">Commodities</button></li>
+        <li><button class="trackevent" data-ga-category="CajasSidebar" data-ga_action="Indicadores" data-ga_opt_label="BtnIndicadores" data-func="changeTab" data-slide="2" data-type="tabs" data-delegated="true">Indicadores</button></li>
+    </ul>
+    <div class="slide-tabs" style="visibility: visible; -webkit-backface-visibility: hidden; -webkit-perspective: 1000;">
+        <ul class="tabs" data-pointershandled="true" data-transitionshandled="true" style="width: 925.40625px;">
+            <li data-index="0" style="width: 308.46875px; position: relative; left: 0px; transition: 0ms; -webkit-transition: 0ms; -webkit-transform: translate(0px, 0px) translateZ(0px);" id="graphMonedasInicio">
+                <h4><span class="itemName"></span></h4>
+                <!-- Gráfico, dentro de este elemento debería generarse un gráfico -->
+                <div class="chart chart-small">
+                    <div class="jqPlotGraph"></div>
+                    <div class="loading">
+                        <div class="ruedita">
+                            <p>Cargando...</p>
+                            <img src="/noticias/imag/ida/iconos/ajax-loader.gif" width="32" height="32" alt="Cargando..." />
+                        </div>
+                    </div>
+                    <div class="err-msg" style="display: none;">
+                        <p>No existen datos suficientes para graficar.</p>
+                    </div>
+                </div>
+                <!-- Fin Gráfico -->
+                <ul class="chart-ul">
+                    
+                    <li class="active" data-func="changeChartInicio" data-graph='{"data":[["2014-06-29 12:30:01", "551.6600"],["2014-06-29 12:45:02", "551.6600"],["2014-06-29 13:00:01", "551.6600"],["2014-06-29 13:15:02", "551.6600"],["2014-06-29 13:30:01", "551.6600"],["2014-06-29 13:45:01", "551.6600"],["2014-06-29 14:00:02", "551.6600"],["2014-06-29 14:15:01", "551.6600"],["2014-06-29 14:30:01", "551.6600"],["2014-06-29 14:45:01", "551.6600"],["2014-06-29 15:00:02", "551.6600"],["2014-06-29 15:15:01", "551.6600"],["2014-06-29 15:30:01", "551.6600"],["2014-06-29 15:45:01", "551.6600"],["2014-06-29 16:00:02", "551.6600"],["2014-06-29 16:15:01", "551.6600"]],"minval":"546.1434","maxval":"557.1766","mindate":"2014-06-29 13:15:01","maxdate":"2014-06-29 16:15:01"}' data-graph-nom="Dólar EE.UU." data-item-div="graphMonedasInicio" data-delegated="true">
+                        <span class="title"><span class="more-image"><img src="/noticias/imag/ida/iconos/more.svg" data-png="/noticias/imag/ida/iconos/more.png" alt="Ver Dólar EE.UU."></span>Dólar EE.UU.</span>
+                        <span class="value">551,66</span>
+                    </li>
+                    
+                    <li class="" data-func="changeChartInicio" data-graph='{"data":[["2014-06-29 12:30:01", "0.7326"],["2014-06-29 12:45:02", "0.7326"],["2014-06-29 13:00:01", "0.7326"],["2014-06-29 13:15:02", "0.7326"],["2014-06-29 13:30:01", "0.7326"],["2014-06-29 13:45:01", "0.7326"],["2014-06-29 14:00:02", "0.7326"],["2014-06-29 14:15:01", "0.7326"],["2014-06-29 14:30:01", "0.7326"],["2014-06-29 14:45:01", "0.7326"],["2014-06-29 15:00:02", "0.7326"],["2014-06-29 15:15:01", "0.7326"],["2014-06-29 15:30:01", "0.7326"],["2014-06-29 15:45:01", "0.7326"],["2014-06-29 16:00:02", "0.7326"],["2014-06-29 16:15:01", "0.7326"]],"minval":"0.725274","maxval":"0.739926","mindate":"2014-06-29 13:15:01","maxdate":"2014-06-29 16:15:01"}' data-graph-nom="Euro" data-item-div="graphMonedasInicio" data-delegated="true">
+                        <span class="title"><span class="more-image"><img src="/noticias/imag/ida/iconos/more.svg" data-png="/noticias/imag/ida/iconos/more.png" alt="Ver Euro"></span>Euro</span>
+                        <span class="value">753,02</span>
+                    </li>
+                    
+                    <li class="" data-func="changeChartInicio" data-graph='{"data":[["2014-06-29 12:30:01", "101.4200"],["2014-06-29 12:45:02", "101.4200"],["2014-06-29 13:00:01", "101.4200"],["2014-06-29 13:15:02", "101.4200"],["2014-06-29 13:30:01", "101.4200"],["2014-06-29 13:45:01", "101.4200"],["2014-06-29 14:00:02", "101.4200"],["2014-06-29 14:15:01", "101.4200"],["2014-06-29 14:30:01", "101.4200"],["2014-06-29 14:45:01", "101.4200"],["2014-06-29 15:00:02", "101.4200"],["2014-06-29 15:15:01", "101.4200"],["2014-06-29 15:30:01", "101.4200"],["2014-06-29 15:45:01", "101.4200"],["2014-06-29 16:00:02", "101.4200"],["2014-06-29 16:15:01", "101.4200"]],"minval":"100.4058","maxval":"102.4342","mindate":"2014-06-29 13:15:01","maxdate":"2014-06-29 16:15:01"}' data-graph-nom="Yen Japonés" data-item-div="graphMonedasInicio" data-delegated="true">
+                        <span class="title"><span class="more-image"><img src="/noticias/imag/ida/iconos/more.svg" data-png="/noticias/imag/ida/iconos/more.png" alt="Ver Yen Japonés"></span>Yen Japonés</span>
+                        <span class="value">5,44</span>
+                    </li>
+                    
+                    <li class="" data-func="changeChartInicio" data-graph='{"data":[["2014-06-29 12:30:01", "2.1938"],["2014-06-29 12:45:02", "2.1938"],["2014-06-29 13:00:01", "2.1938"],["2014-06-29 13:15:02", "2.1938"],["2014-06-29 13:30:01", "2.1938"],["2014-06-29 13:45:01", "2.1938"],["2014-06-29 14:00:02", "2.1938"],["2014-06-29 14:15:01", "2.1938"],["2014-06-29 14:30:01", "2.1938"],["2014-06-29 14:45:01", "2.1938"],["2014-06-29 15:00:02", "2.1938"],["2014-06-29 15:15:01", "2.1938"],["2014-06-29 15:30:01", "2.1938"],["2014-06-29 15:45:01", "2.1938"],["2014-06-29 16:00:02", "2.1938"],["2014-06-29 16:15:01", "2.1938"]],"minval":"2.171862","maxval":"2.215738","mindate":"2014-06-29 13:15:01","maxdate":"2014-06-29 16:15:01"}' data-graph-nom="Real Brasileño" data-item-div="graphMonedasInicio" data-delegated="true">
+                        <span class="title"><span class="more-image"><img src="/noticias/imag/ida/iconos/more.svg" data-png="/noticias/imag/ida/iconos/more.png" alt="Ver Real Brasileño"></span>Real Brasileño</span>
+                        <span class="value">251,46</span>
+                    </li>
+                    
+                    <li class="" data-func="changeChartInicio" data-graph='{"data":[["2014-06-29 12:30:01", "12.9625"],["2014-06-29 12:45:02", "12.9625"],["2014-06-29 13:00:01", "12.9625"],["2014-06-29 13:15:02", "12.9625"],["2014-06-29 13:30:01", "12.9625"],["2014-06-29 13:45:01", "12.9625"],["2014-06-29 14:00:02", "12.9625"],["2014-06-29 14:15:01", "12.9625"],["2014-06-29 14:30:01", "12.9625"],["2014-06-29 14:45:01", "12.9625"],["2014-06-29 15:00:02", "12.9625"],["2014-06-29 15:15:01", "12.9625"],["2014-06-29 15:30:01", "12.9724"],["2014-06-29 15:45:01", "12.9725"],["2014-06-29 16:00:02", "12.9725"],["2014-06-29 16:15:01", "12.9725"]],"minval":"12.832875","maxval":"13.102225","mindate":"2014-06-29 13:15:01","maxdate":"2014-06-29 16:15:01"}' data-graph-nom="Peso Mexicano" data-item-div="graphMonedasInicio" data-delegated="true">
+                        <span class="title"><span class="more-image"><img src="/noticias/imag/ida/iconos/more.svg" data-png="/noticias/imag/ida/iconos/more.png" alt="Ver Peso Mexicano"></span>Peso Mexicano</span>
+                        <span class="value">42,53</span>
+                    </li>
+                    
+                    <li class="" data-func="changeChartInicio" data-graph='{"data":[["2014-06-29 12:30:01", "0.5870"],["2014-06-29 12:45:02", "0.5870"],["2014-06-29 13:00:01", "0.5870"],["2014-06-29 13:15:02", "0.5870"],["2014-06-29 13:30:01", "0.5870"],["2014-06-29 13:45:01", "0.5870"],["2014-06-29 14:00:02", "0.5870"],["2014-06-29 14:15:01", "0.5870"],["2014-06-29 14:30:01", "0.5870"],["2014-06-29 14:45:01", "0.5870"],["2014-06-29 15:00:02", "0.5870"],["2014-06-29 15:15:01", "0.5870"],["2014-06-29 15:30:01", "0.5871"],["2014-06-29 15:45:01", "0.5872"],["2014-06-29 16:00:02", "0.5871"],["2014-06-29 16:15:01", "0.5871"]],"minval":"0.58113","maxval":"0.593072","mindate":"2014-06-29 13:15:01","maxdate":"2014-06-29 16:15:01"}' data-graph-nom="Libra Esterlina" data-item-div="graphMonedasInicio" data-delegated="true">
+                        <span class="title"><span class="more-image"><img src="/noticias/imag/ida/iconos/more.svg" data-png="/noticias/imag/ida/iconos/more.png" alt="Ver Libra Esterlina"></span>Libra Esterlina</span>
+                        <span class="value">939,64</span>
+                    </li>
+                    
+                    <li class="" data-func="changeChartInicio" data-graph='{"data":[["2014-06-29 12:30:01", "8.1326"],["2014-06-29 12:45:02", "8.1326"],["2014-06-29 13:00:01", "8.1326"],["2014-06-29 13:15:02", "8.1326"],["2014-06-29 13:30:01", "8.1326"],["2014-06-29 13:45:01", "8.1326"],["2014-06-29 14:00:02", "8.1326"],["2014-06-29 14:15:01", "8.1326"],["2014-06-29 14:30:01", "8.1326"],["2014-06-29 14:45:01", "8.1326"],["2014-06-29 15:00:02", "8.1326"],["2014-06-29 15:15:01", "8.1326"],["2014-06-29 15:30:01", "8.1326"],["2014-06-29 15:45:01", "8.1326"],["2014-06-29 16:00:02", "8.1326"],["2014-06-29 16:15:01", "8.1326"]],"minval":"8.051274","maxval":"8.213926","mindate":"2014-06-29 13:15:01","maxdate":"2014-06-29 16:15:01"}' data-graph-nom="Peso Argentino" data-item-div="graphMonedasInicio" data-delegated="true">
+                        <span class="title"><span class="more-image"><img src="/noticias/imag/ida/iconos/more.svg" data-png="/noticias/imag/ida/iconos/more.png" alt="Ver Peso Argentino"></span>Peso Argentino</span>
+                        <span class="value">67,83</span>
+                    </li>
+                    
+                </ul>
+            </li>
+            <li data-index="1" style="width: 308.46875px; position: relative; left: -308.46875px; transition: 0ms; -webkit-transition: 0ms; -webkit-transform: translate(308.46875px, 0px) translateZ(0px);" id="graphCommoditiesInicio">
+                <h4><span class="itemName"></span></h4>
+                <!-- Gráfico, dentro de este elemento debería generarse un gráfico -->
+                <div class="chart chart-small">
+                    <div class="jqPlotGraph"></div>
+                    <div class="loading">
+                        <div class="ruedita">
+                            <p>Cargando...</p>
+                            <img src="/noticias/imag/ida/iconos/ajax-loader.gif" width="32" height="32" alt="Cargando..." />
+                        </div>
+                    </div>
+                    <div class="err-msg" style="display: none;">
+                        <p>No existen datos suficientes para graficar.</p>
+                    </div>
+                </div>
+                <!-- Fin Gráfico -->
+                <ul class="chart-ul">
+                    
+                    <li class="active" data-func="changeChartInicio" data-graph='{"data":[["2014-06-29 12:30:01", "3.164"],["2014-06-29 12:45:02", "3.164"],["2014-06-29 13:00:01", "3.164"],["2014-06-29 13:15:02", "3.164"],["2014-06-29 13:30:01", "3.164"],["2014-06-29 13:45:01", "3.164"],["2014-06-29 14:00:02", "3.164"],["2014-06-29 14:15:01", "3.164"],["2014-06-29 14:30:01", "3.164"],["2014-06-29 14:45:01", "3.164"],["2014-06-29 15:00:02", "3.164"],["2014-06-29 15:15:01", "3.164"],["2014-06-29 15:30:01", "3.164"],["2014-06-29 15:45:01", "3.164"],["2014-06-29 16:00:02", "3.164"],["2014-06-29 16:15:01", "3.164"]],"minval":"2.97","maxval":"4.04","mindate":"2014-06-29 15:15:01","maxdate":"2014-06-29 16:15:01"}' data-graph-nom="Cobre a Cash" data-item-div="graphCommoditiesInicio" data-delegated="true">
+                        <span class="title"><span class="more-image"><img src="/noticias/imag/ida/iconos/more.svg" data-png="/noticias/imag/ida/iconos/more.png" alt="Ver Cobre a Cash"></span>Cobre a Cash</span>
+                        <span class="value">3,16</span>
+                    </li>
+                    
+                    <li class="" data-func="changeChartInicio" data-graph='{"data":[["2014-06-29 12:30:01", "113.21"],["2014-06-29 12:45:02", "113.21"],["2014-06-29 13:00:01", "113.21"],["2014-06-29 13:15:02", "113.21"],["2014-06-29 13:30:01", "113.21"],["2014-06-29 13:45:01", "113.21"],["2014-06-29 14:00:02", "113.21"],["2014-06-29 14:15:01", "113.21"],["2014-06-29 14:30:01", "113.21"],["2014-06-29 14:45:01", "113.21"],["2014-06-29 15:00:02", "113.21"],["2014-06-29 15:15:01", "113.21"],["2014-06-29 15:30:01", "113.21"],["2014-06-29 15:45:01", "113.21"],["2014-06-29 16:00:02", "113.21"],["2014-06-29 16:15:01", "113.21"]],"minval":"111.87","maxval":"115.14","mindate":"2014-06-29 15:15:01","maxdate":"2014-06-29 16:15:01"}' data-graph-nom="Petróleo Brent" data-item-div="graphCommoditiesInicio" data-delegated="true">
+                        <span class="title"><span class="more-image"><img src="/noticias/imag/ida/iconos/more.svg" data-png="/noticias/imag/ida/iconos/more.png" alt="Ver Petróleo Brent"></span>Petróleo Brent</span>
+                        <span class="value">113,21</span>
+                    </li>
+                    
+                    <li class="" data-func="changeChartInicio" data-graph='{"data":[["2014-06-29 12:30:01", "105.75"],["2014-06-29 12:45:02", "105.75"],["2014-06-29 13:00:01", "105.75"],["2014-06-29 13:15:02", "105.75"],["2014-06-29 13:30:01", "105.75"],["2014-06-29 13:45:01", "105.75"],["2014-06-29 14:00:02", "105.75"],["2014-06-29 14:15:01", "105.75"],["2014-06-29 14:30:01", "105.75"],["2014-06-29 14:45:01", "105.75"],["2014-06-29 15:00:02", "105.75"],["2014-06-29 15:15:01", "105.75"],["2014-06-29 15:30:01", "105.75"],["2014-06-29 15:45:01", "105.75"],["2014-06-29 16:00:02", "105.75"],["2014-06-29 16:15:01", "105.75"]],"minval":"103.95","maxval":"107.06","mindate":"2014-06-29 15:15:01","maxdate":"2014-06-29 16:15:01"}' data-graph-nom="Petróleo WTI" data-item-div="graphCommoditiesInicio" data-delegated="true">
+                        <span class="title"><span class="more-image"><img src="/noticias/imag/ida/iconos/more.svg" data-png="/noticias/imag/ida/iconos/more.png" alt="Ver Petróleo WTI"></span>Petróleo WTI</span>
+                        <span class="value">105,75</span>
+                    </li>
+                    
+                    <li class="" data-func="changeChartInicio" data-graph='{"data":[["2014-06-29 12:30:01", "1316.90"],["2014-06-29 12:45:02", "1316.90"],["2014-06-29 13:00:01", "1316.90"],["2014-06-29 13:15:02", "1316.90"],["2014-06-29 13:30:01", "1316.90"],["2014-06-29 13:45:01", "1316.90"],["2014-06-29 14:00:02", "1316.90"],["2014-06-29 14:15:01", "1316.90"],["2014-06-29 14:30:01", "1316.90"],["2014-06-29 14:45:01", "1316.90"],["2014-06-29 15:00:02", "1316.90"],["2014-06-29 15:15:01", "1316.90"],["2014-06-29 15:30:01", "1316.90"],["2014-06-29 15:45:01", "1316.90"],["2014-06-29 16:00:02", "1316.90"],["2014-06-29 16:15:01", "1316.90"]],"minval":"1302.84","maxval":"1330.17","mindate":"2014-06-29 15:15:01","maxdate":"2014-06-29 16:15:01"}' data-graph-nom="Oro" data-item-div="graphCommoditiesInicio" data-delegated="true">
+                        <span class="title"><span class="more-image"><img src="/noticias/imag/ida/iconos/more.svg" data-png="/noticias/imag/ida/iconos/more.png" alt="Ver Oro"></span>Oro</span>
+                        <span class="value">1.316,90</span>
+                    </li>
+                    
+                    <li class="" data-func="changeChartInicio" data-graph='{"data":[["2014-06-29 12:30:01", "21.008"],["2014-06-29 12:45:02", "21.008"],["2014-06-29 13:00:01", "21.008"],["2014-06-29 13:15:02", "21.008"],["2014-06-29 13:30:01", "21.008"],["2014-06-29 13:45:01", "21.008"],["2014-06-29 14:00:02", "21.008"],["2014-06-29 14:15:01", "21.008"],["2014-06-29 14:30:01", "21.008"],["2014-06-29 14:45:01", "21.008"],["2014-06-29 15:00:02", "21.008"],["2014-06-29 15:15:01", "21.008"],["2014-06-29 15:30:01", "21.008"],["2014-06-29 15:45:01", "21.008"],["2014-06-29 16:00:02", "21.008"],["2014-06-29 16:15:01", "21.008"]],"minval":"20.79","maxval":"22.22","mindate":"2014-06-29 15:15:01","maxdate":"2014-06-29 16:15:01"}' data-graph-nom="Plata" data-item-div="graphCommoditiesInicio" data-delegated="true">
+                        <span class="title"><span class="more-image"><img src="/noticias/imag/ida/iconos/more.svg" data-png="/noticias/imag/ida/iconos/more.png" alt="Ver Plata"></span>Plata</span>
+                        <span class="value">21,01</span>
+                    </li>
+                    
+                    <li class="" data-func="changeChartInicio" data-graph='{"data":[["2014-06-29 12:30:01", "4.431"],["2014-06-29 12:45:02", "4.431"],["2014-06-29 13:00:01", "4.431"],["2014-06-29 13:15:02", "4.431"],["2014-06-29 13:30:01", "4.431"],["2014-06-29 13:45:01", "4.431"],["2014-06-29 14:00:02", "4.431"],["2014-06-29 14:15:01", "4.431"],["2014-06-29 14:30:01", "4.431"],["2014-06-29 14:45:01", "4.431"],["2014-06-29 15:00:02", "4.431"],["2014-06-29 15:15:01", "4.431"],["2014-06-29 15:30:01", "4.431"],["2014-06-29 15:45:01", "4.431"],["2014-06-29 16:00:02", "4.431"],["2014-06-29 16:15:01", "4.431"]],"minval":"3.96","maxval":"5.05","mindate":"2014-06-29 15:15:01","maxdate":"2014-06-29 16:15:01"}' data-graph-nom="Gas Natural" data-item-div="graphCommoditiesInicio" data-delegated="true">
+                        <span class="title"><span class="more-image"><img src="/noticias/imag/ida/iconos/more.svg" data-png="/noticias/imag/ida/iconos/more.png" alt="Ver Gas Natural"></span>Gas Natural</span>
+                        <span class="value">4,43</span>
+                    </li>
+                    
+                </ul>
+            </li>
+            <li data-index="2" style="width: 308.46875px; position: relative; left: -616.9375px; transition: 0ms; -webkit-transition: 0ms; -webkit-transform: translate(308.46875px, 0px) translateZ(0px);">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Indicador</th>
+                            <th>Valor</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        
+                        <tr>
+                            <td>Desempleo</td>
+                            <td> 6,10 %</td>
+                        </tr>
+                        
+                        <tr>
+                            <td>IMACEC</td>
+                            <td> 2,30 %</td>
+                        </tr>
+                        
+                        <tr>
+                            <td>IPC</td>
+                            <td> 0,30 %</td>
+                        </tr>
+                        
+                        <tr>
+                            <td>IVP</td>
+                            <td>$ 24.733,64 </td>
+                        </tr>
+                        
+                        <tr>
+                            <td>UF</td>
+                            <td>$ 24.021,21 </td>
+                        </tr>
+                        
+                        <tr>
+                            <td>UTM</td>
+                            <td>$ 42.052,00 </td>
+                        </tr>
+                        
+                    </tbody>
+                </table>       
+            </li>
+        </ul>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        cd.graph.initPortInicio('graphMonedasInicio', 0);
+        cd.graph.initPortInicio('graphCommoditiesInicio', 0);
+    });
+</script>
+
+                    </div>
+                </section>
+            </div>
+        </section>
+        <!-- Fin Sección Mercados y Market Data -->
+        <!-- Sección Tendencia y Opinión -->
+        <section class="bigbox bottom white-bg oneColumnDeploy container">
+      <h2 class="section-title doble-border up hide-on-phones">Información de Tendencias y Opinión</h2>
+            <div class="row">
+                <section class="column8 down-m"> <!-- Columna de Tendencias -->
+
+                    <!-- COLUMNA TENDENCIAS -->
+                    <h3><a class="rotulo" href="/tendencia" title="Ir a Tendencias" rel="contents">Tendencias</a></h3>
+
+<div class="inner-column4 down-m">
+
+    
+    
+    
+
+    <article class="box doble-border">
+
+        
+
+        
+            
+            <a href="/noticias/tendencias/negocios-y-mundo/chile-saca-garra-y-esta-listo-para-retaral-pentacampeon/2014-06-26/214138.html" title="Chile saca garra y está listo para retaral pentacampeón" rel="contents"><img src="/noticias/site/artic/20140626/imag/foto_0000002220140626214138.jpg" alt="Chile saca garra y está listo para retaral pentacampeón"/></a>
+            
+        
+
+        <div class="category-wrapp">
+            <h4 class="category">
+                <a href="/noticias/site/tax/port/all/taxport_5_77__1.html" title="ir a Negocios y mundo" rel="contents">Negocios y mundo</a>
+                
+            </h4>
+            <span class="date">27/06/2014</span>
+        </div>
+        <h3><a href="/noticias/tendencias/negocios-y-mundo/chile-saca-garra-y-esta-listo-para-retaral-pentacampeon/2014-06-26/214138.html" title="Chile saca garra y está listo para retaral pentacampeón" rel="contents">Chile saca garra y está listo para retaral pentacampeón</a></h3>
+        <p> El defensor Gary Medel es un “perro guardián” en la marca al igual que el mediocampista Arturo Vidal con su juego y con esa mentalidad Chile debe salir a ganarle a Brasil, dijo ayer el delantero Alexis Sánchez.</p>
+    </article>
+
+       
+    
+    
+
+    <div class="tags-wrapp hide-on-phones">
+        <p>Más sobre:
+        <a href="/noticias/site/tax/port/all/taxport_5_28__1.html" title="ver artículos relacionados a Tecnología" rel="tag">Tecnología</a>, <a href="/noticias/site/tax/port/all/taxport_5_29__1.html" title="ver artículos relacionados a Motores" rel="tag">Motores</a>, <a href="/noticias/site/tax/port/all/taxport_5_30__1.html" title="ver artículos relacionados a Gadgets" rel="tag">Gadgets</a>, <a href="/noticias/site/tax/port/all/taxport_5_31__1.html" title="ver artículos relacionados a Panorama" rel="tag">Panorama</a>, <a href="/noticias/site/tax/port/all/taxport_5_32__1.html" title="ver artículos relacionados a Gastronomía" rel="tag">Gastronomía</a>, <a href="/noticias/site/tax/port/all/taxport_5_33__1.html" title="ver artículos relacionados a Lujo" rel="tag">Lujo</a>, <a href="/noticias/site/tax/port/all/taxport_5_77__1.html" title="ver artículos relacionados a Negocios y mundo" rel="tag">Negocios y mundo</a>
+    </div>
+</div>
+
+<div class="inner-column4 last hide-on-phones">
+    <!-- Slider -->
+    <div class="slide table-wrapp">
+        <ul>
+            
+            
+            <li>
+                <article class="box">
+                     
+                    <a href="/noticias/tendencias/negocios-y-mundo/efecto-mundial-el-pib-de-brasil-subira-2-17/2014-06-26/214145.html" title="Efecto Mundial: el PIB de Brasil subirá 2,17%" rel="contents"><img src="/noticias/site/artic/20140626/imag/foto_0000000420140626214145.jpg" alt="Efecto Mundial: el PIB de Brasil subirá 2,17%"/></a>
+                    
+                    
+
+                    <div class="box-wrapp">
+                        <h4 class="category"><a href="/noticias/site/tax/port/all/taxport_5_77__1.html" title="ir a Tendencias" rel="contents">Destacado en Tendencias</a></h4>
+                        <h3><a href="/noticias/tendencias/negocios-y-mundo/efecto-mundial-el-pib-de-brasil-subira-2-17/2014-06-26/214145.html" title="Efecto Mundial: el PIB de Brasil subirá 2,17%" rel="contents">Efecto Mundial: el PIB de Brasil subirá 2,17%</a></h3>
+                        <p>La organización del campeonato generará 3,63 millones de nuevos puestos de trabajo en el país. La inmensa mayoría serán temporales, aunque contribuirán a incrementar el consumo en el mercado interno.</p>
+                    </div>
+               </article>
+            </li>
+            
+            
+            
+            <li>
+                <article class="box">
+                     
+                    <a href="/noticias/tendencias/tecnologia/microsoft-presenta-un-nuevo-nokia-basado-en-android/2014-06-24/083607.html" title="Microsoft presenta un nuevo Nokia basado en Android" rel="contents"><img src="/noticias/site/artic/20140624/imag/foto_0000000320140624083607.jpg" alt="Microsoft presenta un nuevo Nokia basado en Android"/></a>
+                    
+                    
+
+                    <div class="box-wrapp">
+                        <h4 class="category"><a href="/noticias/site/tax/port/all/taxport_5_28__1.html" title="ir a Tendencias" rel="contents">Destacado en Tendencias</a></h4>
+                        <h3><a href="/noticias/tendencias/tecnologia/microsoft-presenta-un-nuevo-nokia-basado-en-android/2014-06-24/083607.html" title="Microsoft presenta un nuevo Nokia basado en Android" rel="contents">Microsoft presenta un nuevo Nokia basado en Android</a></h3>
+                        <p>Nokia X2 es un teléfono inteligente de bajo costo con una pantalla de 4,3 pulgadas y de 800x480 pixeles de resolución.</p>
+                    </div>
+               </article>
+            </li>
+            
+            
+            
+            <li>
+                <article class="box">
+                     
+                    <a href="/noticias/tendencias/negocios-y-mundo/chile-escala-lugares-en-las-casas-de-apuestas-y-ya-paga-20-1/2014-06-23/094135.html" title="Chile escala lugares en las casas de apuestas y ya paga 20/1" rel="contents"><img src="/noticias/site/artic/20140623/imag/foto_0000000320140623094135.jpg" alt="Chile escala lugares en las casas de apuestas y ya paga 20/1"/></a>
+                    
+                    
+
+                    <div class="box-wrapp">
+                        <h4 class="category"><a href="/noticias/site/tax/port/all/taxport_5_77__1.html" title="ir a Tendencias" rel="contents">Destacado en Tendencias</a></h4>
+                        <h3><a href="/noticias/tendencias/negocios-y-mundo/chile-escala-lugares-en-las-casas-de-apuestas-y-ya-paga-20-1/2014-06-23/094135.html" title="Chile escala lugares en las casas de apuestas y ya paga 20/1" rel="contents">Chile escala lugares en las casas de apuestas y ya paga 20/1</a></h3>
+                        <p>El país está pagando casi lo mismo que selecciones como Bélgica e Italia.</p>
+                    </div>
+               </article>
+            </li>
+            
+            
+            
+            <li>
+                <article class="box">
+                     
+                    <a href="/noticias/empresas/innovacion-y-sustentabilidad/diez-universidades-toman-la-delantera-para-contar-con-ingenierias-de-clase-mundial/2014-06-20/165053.html" title="Diez universidades toman la delantera para contar con ingenierías de clase mundial" rel="contents"><img src="/noticias/site/artic/20140620/imag/foto_0000000420140620165053.jpg" alt="Diez universidades toman la delantera para contar con ingenierías de clase mundial"/></a>
+                    
+                    
+
+                    <div class="box-wrapp">
+                        <h4 class="category"><a href="/noticias/site/tax/port/all/taxport_1_9__1.html" title="ir a Empresas" rel="contents">Destacado en Empresas</a></h4>
+                        <h3><a href="/noticias/empresas/innovacion-y-sustentabilidad/diez-universidades-toman-la-delantera-para-contar-con-ingenierias-de-clase-mundial/2014-06-20/165053.html" title="Diez universidades toman la delantera para contar con ingenierías de clase mundial" rel="contents">Diez universidades toman la delantera para contar con ingenierías de clase mundial</a></h3>
+                        <p>Programa “Nueva Ingeniería para el 2030” seleccionó los cinco proyectos que buscan transformar la industria.</p>
+                    </div>
+               </article>
+            </li>
+            
+            
+        </ul>
+
+        <!-- Navegación del Slider -->
+        <div class="navigation-slide">
+            <button class="bullet prev" data-func="changeSlider">Anterior</button>
+            <div class="bullets-wrapp buttons-slide">
+        
+            
+                <button class="bullet round  active " data-func="changeTab" data-slide="0" data-type="slider"></button>
+            
+        
+            
+                <button class="bullet round " data-func="changeTab" data-slide="1" data-type="slider"></button>
+            
+        
+            
+                <button class="bullet round " data-func="changeTab" data-slide="2" data-type="slider"></button>
+            
+        
+            
+                <button class="bullet round " data-func="changeTab" data-slide="3" data-type="slider"></button>
+            
+        
+            </div>
+            <button class="bullet next" data-func="changeSlider">Siguiente</button>
+        </div>
+        <!-- Fin de la Navegación del Slider -->
+    </div>
+    <!-- Fin Slider -->
+</div>
+
+
+                </section>
+                <section class="column4 last down-m">
+
+                    <!-- Columna de Opinion -->
+                    <h3><a class="rotulo" href="/opinion" title="Ir a Opinion" rel="contents">Opinión</a></h3>
+
+
+    
+    <article class="box">
+        <div class="category-wrapp">
+            <h4 class="category"><a href="/noticias/site/tax/port/all/taxport_6_34__1.html" title="ir a Cartas" rel="contents">Cartas</a></h4>
+            <span class="date">27/06/2014</span>
+        </div>
+        <h3><a href="/noticias/opinion/cartas/cartas-al-director/2014-06-26/214043.html" title="Cartas al director" rel="contents">Cartas al director</a></h3>
+    </article>
+    
+
+    
+    <article class="box">
+        <div class="category-wrapp">
+            <h4 class="category"><a href="/noticias/site/tax/port/all/taxport_6_35__1.html" title="ir a Editorial" rel="contents">Editorial</a></h4>
+            <span class="date">27/06/2014</span>
+        </div>
+        <h3><a href="/noticias/opinion/editorial/complicaciones-parala-renta-atribuida/2014-06-26/214047.html" title="Complicaciones parala renta atribuida" rel="contents">Complicaciones parala renta atribuida</a></h3>
+    </article>
+    
+
+
+
+
+<aside class="box doble-border hide-on-phones">
+    <!-- Columnistas -->
+    <div class="table-wrapp">
+        <div class="wrp">
+            <h4 class="category"><a href="/noticias/site/edic/base/port/opinion.html" title="ir a Opinión" rel="contents">Columnistas</a></h4>
+            <p>Estos son algunos de nuestros columnistas de Diario Financiero.
+            <a href="/noticias/site/edic/base/port/opinion.html" title="Conoce el listado completo de los columnistas" rel="contents">Conoce el listado completo</a></p>
+        </div>
+
+    
+        <!--MAXITEMS=4-->
+        <div class="top-border wrp">
+    
+        
+        <article class="author-list">
+            <div class="round-image">
+                <a href="/noticias/opinion/columnistas/los-peligros-del-salario-minimo/2014-06-26/214044.html" title=""></a>
+            </div>
+            <div class="author-meta">
+                
+                <div class="meta-data">Los peligros del salario mínimo</div>
+            </div>
+        </article>
+        
+        <article class="author-list">
+            <div class="round-image">
+                <a href="/noticias/opinion/columnistas/reforma-tributaria-exceso-de-endeudamiento-y-cambio-en-reglas-del-juego/2014-06-26/214045.html" title=""></a>
+            </div>
+            <div class="author-meta">
+                
+                <div class="meta-data">Reforma tributaria, exceso de endeudamiento y cambio en reglas del juego</div>
+            </div>
+        </article>
+        
+        <article class="author-list">
+            <div class="round-image">
+                <a href="/noticias/opinion/columnistas/franco-brzovic/contribuyentes-perfectos/2014-06-26/214048.html" title="Franco Brzovic" rel="author"><img src="/custom/columnistas/franco_brzovic.jpg" alt="Franco Brzovic"></a>
+            </div>
+            <div class="author-meta">
+                <h3><a href="/noticias/opinion/columnistas/franco-brzovic/contribuyentes-perfectos/2014-06-26/214048.html" title="Franco Brzovic" rel="author">Franco Brzovic</a></h3>
+                <div class="meta-data">Contribuyentes perfectos</div>
+            </div>
+        </article>
+        
+    </div>    
+    </div>
+</aside>
+
+
+<div class="tags-wrapp hide-on-phones">
+    <p>Más sobre:
+    <a href="/noticias/site/tax/port/all/taxport_6_34__1.html" title="ver artículos relacionados a Cartas" rel="tag">Cartas</a>, <a href="/noticias/site/tax/port/all/taxport_6_35__1.html" title="ver artículos relacionados a Editorial" rel="tag">Editorial</a>, <a href="/noticias/site/tax/port/all/taxport_6_36__1.html" title="ver artículos relacionados a Columnistas" rel="tag">Columnistas</a>, <a href="/noticias/site/tax/port/all/taxport_6_37__1.html" title="ver artículos relacionados a Blog" rel="tag">Blog</a>
+</div>
+
+
+                </section>
+
+                                <!-- Banner-->
+                <div class="banner-holder full row hide-on-phones">
+                    <script type="text/javascript">eplAD4M(eplArgs.eIs[6]);</script>
+                </div>
+                <!-- Fin Banner-->
+
+            </div>
+        </section>
+        <!-- Fin Sección Tendencia y Opinión -->
+        <!-- Sección Multimedia, DF TV y Unidad de Inteligencia -->
+        <section class="bigbox bottom container">
+            <h2 class="section-title doble-border up hide-on-phones">Información de Multimedia, DF TV y Unidad de Inteligencia</h2>
+            <div class="row">
+                <section class="column3 hide-on-phones">
+                    <h3><a class="rotulo" href="/noticias/site/edic/base/port/galerias.html" title="Ir a Multimedia" rel="contents">Multimedia</a></h3>
+<div class="table-wrapp">
+    <!-- Slider -->
+    <div class="slide">
+        <ul>
+        
+            
+            <li>
+                    
+    <article>
+        
+        <a class="foto-thumb  thumb" href="/noticias/tendencias/tecnologia/encuentro-de-desarrolladores-google-i-o-en-san-francisco/2014-06-26/125213.html" title="Encuentro de desarrolladores Google I/O en San Francisco" rel="contents"><img src="/noticias/site/artic/20140626/imag/foto_0000009220140626125213.jpg" alt="Encuentro de desarrolladores Google I/O en San Francisco"></a>
+        
+        <div class="wrp">
+            <div class="category-wrapp">
+                <h4 class="category"><a href="/noticias/site/edic/base/port/galerias.html" title="ir a Galerías" rel="contents">Foto</a></h4>
+                
+                <span class="date">26/06/2014</span>
+            </div>
+            <h3><a href="/noticias/tendencias/tecnologia/encuentro-de-desarrolladores-google-i-o-en-san-francisco/2014-06-26/125213.html" title="Encuentro de desarrolladores Google I/O en San Francisco" rel="contents">Encuentro de desarrolladores Google I/O en San Francisco</a></h3>
+        </div>
+    </article>
+    
+
+            
+            
+        
+            
+            
+                    
+    <article>
+        
+        <a class="foto-thumb  thumb" href="/noticias/tendencias/panorama/hinchas-disfrutando-la-copa-del-mundo-en-brasil/2014-06-23/113531.html" title="Hinchas disfrutando la Copa del Mundo en Brasil" rel="contents"><img src="/noticias/site/artic/20140623/imag/foto_0000012320140623113531.jpg" alt="Hinchas disfrutando la Copa del Mundo en Brasil"></a>
+        
+        <div class="wrp">
+            <div class="category-wrapp">
+                <h4 class="category"><a href="/noticias/site/edic/base/port/galerias.html" title="ir a Galerías" rel="contents">Foto</a></h4>
+                
+                <span class="date">23/06/2014</span>
+            </div>
+            <h3><a href="/noticias/tendencias/panorama/hinchas-disfrutando-la-copa-del-mundo-en-brasil/2014-06-23/113531.html" title="Hinchas disfrutando la Copa del Mundo en Brasil" rel="contents">Hinchas disfrutando la Copa del Mundo en Brasil</a></h3>
+        </div>
+    </article>
+    
+
+            </li>
+            
+        
+            
+            <li>
+                    
+    <article>
+        
+        <a class="foto-thumb  thumb" href="/noticias/internacional/actualidad-internacional/proclamacion-del-nuevo-rey-de-espana-felipe-vi/2014-06-19/122111.html" title="Proclamación del nuevo Rey de España, Felipe VI" rel="contents"><img src="/noticias/site/artic/20140619/imag/foto_0000012920140619122111.jpg" alt="Proclamación del nuevo Rey de España, Felipe VI"></a>
+        
+        <div class="wrp">
+            <div class="category-wrapp">
+                <h4 class="category"><a href="/noticias/site/edic/base/port/galerias.html" title="ir a Galerías" rel="contents">Foto</a></h4>
+                
+                <span class="date">19/06/2014</span>
+            </div>
+            <h3><a href="/noticias/internacional/actualidad-internacional/proclamacion-del-nuevo-rey-de-espana-felipe-vi/2014-06-19/122111.html" title="Proclamación del nuevo Rey de España, Felipe VI" rel="contents">Proclamación del nuevo Rey de España, Felipe VI</a></h3>
+        </div>
+    </article>
+    
+
+            
+            
+        
+            
+            
+                    
+    <article>
+        
+        <a class="foto-thumb  thumb" href="/noticias/tendencias/panorama/inauguracion-del-mundial-de-futbol-de-brasil-2014/2014-06-12/162147.html" title="Inauguración del Mundial de Fútbol de Brasil 2014" rel="contents"><img src="/noticias/site/artic/20140612/imag/foto_0000018320140612162147.jpg" alt="Inauguración del Mundial de Fútbol de Brasil 2014"></a>
+        
+        <div class="wrp">
+            <div class="category-wrapp">
+                <h4 class="category"><a href="/noticias/site/edic/base/port/galerias.html" title="ir a Galerías" rel="contents">Foto</a></h4>
+                
+                <span class="date">12/06/2014</span>
+            </div>
+            <h3><a href="/noticias/tendencias/panorama/inauguracion-del-mundial-de-futbol-de-brasil-2014/2014-06-12/162147.html" title="Inauguración del Mundial de Fútbol de Brasil 2014" rel="contents">Inauguración del Mundial de Fútbol de Brasil 2014</a></h3>
+        </div>
+    </article>
+    
+
+            </li>
+            
+        
+            
+            <li>
+                    
+    <article>
+        
+        <a class="foto-thumb  thumb" href="/noticias/tendencias/tecnologia/expo-electronic-entertainment-2014/2014-06-11/153954.html" title="Expo Electronic Entertainment 2014" rel="contents"><img src="/noticias/site/artic/20140611/imag/foto_0000010920140611153954.jpg" alt="Expo Electronic Entertainment 2014"></a>
+        
+        <div class="wrp">
+            <div class="category-wrapp">
+                <h4 class="category"><a href="/noticias/site/edic/base/port/galerias.html" title="ir a Galerías" rel="contents">Foto</a></h4>
+                
+                <span class="date">11/06/2014</span>
+            </div>
+            <h3><a href="/noticias/tendencias/tecnologia/expo-electronic-entertainment-2014/2014-06-11/153954.html" title="Expo Electronic Entertainment 2014" rel="contents">Expo Electronic Entertainment 2014</a></h3>
+        </div>
+    </article>
+    
+
+            
+            
+        
+            
+            
+                    
+    <article>
+        
+        <a class="foto-thumb  thumb" href="/noticias/tendencias/panorama/marcha-por-una-ensenanza-publica-gratuita-y-de-calidad/2014-06-10/161406.html" title="Marcha por una enseñanza pública gratuita y de calidad" rel="contents"><img src="/noticias/site/artic/20140610/imag/foto_0000002020140610161406.jpg" alt="Marcha por una enseñanza pública gratuita y de calidad"></a>
+        
+        <div class="wrp">
+            <div class="category-wrapp">
+                <h4 class="category"><a href="/noticias/site/edic/base/port/galerias.html" title="ir a Galerías" rel="contents">Foto</a></h4>
+                
+                <span class="date">10/06/2014</span>
+            </div>
+            <h3><a href="/noticias/tendencias/panorama/marcha-por-una-ensenanza-publica-gratuita-y-de-calidad/2014-06-10/161406.html" title="Marcha por una enseñanza pública gratuita y de calidad" rel="contents">Marcha por una enseñanza pública gratuita y de calidad</a></h3>
+        </div>
+    </article>
+    
+
+            </li>
+            
+        
+            
+            <li>
+                    
+    <article>
+        
+        <a class="foto-thumb  thumb" href="/noticias/tendencias/panorama/nairo-quintana-primer-sudamericano-en-ganar-el-giro-de-italia/2014-06-02/111118.html" title="Nairo Quintana primer sudamericano en ganar el Giro de Italia" rel="contents"><img src="/noticias/site/artic/20140602/imag/foto_0000002520140602111118.jpg" alt="Nairo Quintana primer sudamericano en ganar el Giro de Italia"></a>
+        
+        <div class="wrp">
+            <div class="category-wrapp">
+                <h4 class="category"><a href="/noticias/site/edic/base/port/galerias.html" title="ir a Galerías" rel="contents">Foto</a></h4>
+                
+                <span class="date">02/06/2014</span>
+            </div>
+            <h3><a href="/noticias/tendencias/panorama/nairo-quintana-primer-sudamericano-en-ganar-el-giro-de-italia/2014-06-02/111118.html" title="Nairo Quintana primer sudamericano en ganar el Giro de Italia" rel="contents">Nairo Quintana primer sudamericano en ganar el Giro de Italia</a></h3>
+        </div>
+    </article>
+    
+
+            
+            
+        
+            
+            
+                    
+    <article>
+        
+        <a class="foto-thumb  thumb" href="/noticias/economia-y-politica/gobierno/primera-cuenta-publica-del-segundo-mandato-de-michelle-bachelet/2014-05-21/104147.html" title="Primera cuenta pública del segundo mandato de Michelle Bachelet" rel="contents"><img src="/noticias/site/artic/20140521/imag/foto_0000008020140521104147.jpg" alt="Primera cuenta pública del segundo mandato de Michelle Bachelet"></a>
+        
+        <div class="wrp">
+            <div class="category-wrapp">
+                <h4 class="category"><a href="/noticias/site/edic/base/port/galerias.html" title="ir a Galerías" rel="contents">Foto</a></h4>
+                
+                <span class="date">21/05/2014</span>
+            </div>
+            <h3><a href="/noticias/economia-y-politica/gobierno/primera-cuenta-publica-del-segundo-mandato-de-michelle-bachelet/2014-05-21/104147.html" title="Primera cuenta pública del segundo mandato de Michelle Bachelet" rel="contents">Primera cuenta pública del segundo mandato de Michelle Bachelet</a></h3>
+        </div>
+    </article>
+    
+
+            </li>
+            
+        
+        </ul>
+        <!-- Navegación del Slider -->
+        <div class="navigation-slide">
+            <button class="bullet prev" data-func="changeSlider">Anterior</button>
+            <div class="bullets-wrapp buttons-slide">
+            
+                <button class="bullet round active" data-func="changeTab" data-slide="0" data-type="slider"></button>
+                
+                
+                
+            
+                
+                
+                
+                
+            
+                
+                <button class="bullet round" data-func="changeTab" data-slide="1" data-type="slider"></button>
+                
+                
+            
+                
+                
+                
+                
+            
+                
+                
+                <button class="bullet round" data-func="changeTab" data-slide="2" data-type="slider"></button>
+                
+            
+                
+                
+                
+                
+            
+                
+                
+                
+                <button class="bullet round" data-func="changeTab" data-slide="3" data-type="slider"></button>
+            
+                
+                
+                
+                
+            
+            </div>
+            <button class="bullet next" data-func="changeSlider">Siguiente</button>
+        </div>
+        <!-- Fin de la Navegación del Slider -->
+    </div>
+    <!-- Fin Slider -->
+</div>
+
+                </section>
+                <section class="column5 hide-on-phones">
+                    <h3><a class="rotulo" href="/noticias/site/edic/base/port/videos.html" title="Ir a DF TV" rel="contents">DF TV</a></h3>
+
+
+
+
+    <article class="box">
+        
+            <a class="video-thumb thumb" href="/noticias/economia-y-politica/congreso-legislacion/pedro-troncoso-de-brent-abogados-comenta-sobre-algunos-aspectos-de-la-renta-atribuida/2014-06-27/153255.html" title="Pedro Troncoso, de Brent Abogados, comenta sobre algunos aspectos de la renta atribuida" rel="contents"><img src="/noticias/site/artic/20140627/imag/foto_0000000320140627153255.jpg" alt="Pedro Troncoso, de Brent Abogados, comenta sobre algunos aspectos de la renta atribuida"/></a>
+        
+        
+
+        <div class="category-wrapp">
+            <h4 class="category"><a href="/noticias/site/tax/port/all/taxport_2_12__1.html" title="ir a Congreso / Legislación" rel="contents">Congreso / Legislación</a></h4>
+            
+            <span class="date">27/06/2014</span>
+        </div>
+        <h2><a href="/noticias/economia-y-politica/congreso-legislacion/pedro-troncoso-de-brent-abogados-comenta-sobre-algunos-aspectos-de-la-renta-atribuida/2014-06-27/153255.html" title="Pedro Troncoso, de Brent Abogados, comenta sobre algunos aspectos de la renta atribuida" rel="contents">Pedro Troncoso, de Brent Abogados, comenta sobre algunos aspectos de la renta atribuida</a></h2>
+        <p>El abogado tributario analizó algunos de los aspectos que se están debatiendo sobre la reforma tributaria en la comisión de Hacienda del Senado. Este lunes continuará la discusión de la iniciativa.</p>
+    </article>
+
+
+
+
+                </section>
+                <section class="column4 last down-m">
+                    
+                    <h3><a class="rotulo" href="/dfui" title="Ir a Unidad de Inteligencia" rel="contents">DF UI | Unidad de Inteligencia</a></h3>
+<div class="locked download-items">
+    
+    
+        
+        <article class="box">
+            <h4 class="category">
+                <a href="/noticias/site/tax/port/fid_documento/taxport_2_14__1.html" title="ir a Macro" rel="contents">Macro</a>
+                
+            </h4>
+            <h3>
+                <a href="#" onclick="alert('Sólo disponible para usuarios Digital Full');" title="Informe de Política Monetaria, junio 2014 - Banco Central" rel="contents">
+                                
+                  Informe de Política Monetaria, junio 2014 - Banco Central 
+                <span class="download-data">pdf, 5.114 KB</span></a></h3>
+        </article>
+        
+    
+    
+    
+        
+        <article class="box doble-border">
+            <h4 class="category">
+                <a href="/noticias/site/tax/port/fid_documento/taxport_1_5__1.html" title="ir a Banca / Instituciones Financieras" rel="contents">Banca / Instituciones Financieras</a>
+                
+            </h4>
+            <h3>
+                <a href="#" onclick="alert('Sólo disponible para usuarios Digital Full');" title="Cartica incluye a Itaú en demanda" rel="contents">
+                                
+                  Cartica incluye a Itaú en demanda 
+                <span class="download-data">pdf, 257 KB</span></a></h3>
+        </article>
+        
+    
+    
+    
+        
+    
+    
+    
+        
+    
+    
+    
+        
+    
+    
+    
+        
+    
+    
+    
+        
+    
+    
+    
+        
+    
+    
+    
+        
+    
+    
+    
+        
+        <article class="box">
+            <h4 class="category">
+                <a href="/noticias/site/tax/port/fid_documento/taxport_2_14__1.html" title="ir a Macro" rel="contents">Macro</a>
+                
+            </h4>
+            <h3>
+                <a href="#" onclick="alert('Sólo disponible para usuarios Digital Full');" title="Agenda de productividad, innovación y crecimiento" rel="contents">
+                                
+                 Agenda pro crecimiento e innovación  
+                <span class="download-data">pdf, 1.679 KB</span></a></h3>
+        </article>
+        
+    
+    
+    
+        
+        <article class="box">
+            <h4 class="category">
+                <a href="/noticias/site/tax/port/fid_documento/taxport_7_39__1.html" title="ir a Documentos" rel="contents">Documentos</a>
+                
+            </h4>
+            <h3>
+                <a href="#" onclick="alert('Sólo disponible para usuarios Digital Full');" title="Agenda de Energía del Gobierno" rel="contents">
+                                
+                 Agenda de Energía del Gobierno  
+                <span class="download-data">pdf, 2.509 KB</span></a></h3>
+        </article>
+        
+    
+    
+
+    <p class="hide-on-phones">
+    <a class="trackevent" data-ga-category="Ingresar" data-ga_action="WidgetLogin" data-ga_opt_label="BtnLoginUI" href="/app_reg/frontend/modules/index.php?modulo=usuario&accion=VerLogin" title="Ingresa a DF" rel="nofollow" data-func="trigerIngreso">Ingresa</a> o <a class="trackevent" data-ga-category="Registrar" data-ga_action="WidgetUI" data-ga_opt_label="BtnRegUI" href="/app_reg/frontend/modules/index.php?modulo=usuario&accion=VerFicha" title="Regístrate en DF" rel="nofollow">Regístrate</a> para seguir tu <a href="/app_reg/frontend/modules/index.php?modulo=midf&accion=Inicio" title="Ingresa a tu Portafolio personal" rel="nofollow">Portafolio personal</a>
+</p>
+
+</div>
+
+
+                    
+                    <div class="banner-holder hide-on-phones">
+                        <script type="text/javascript">eplAD4M(eplArgs.eIs[10]);</script>
+                    </div>
+
+                </section>
+
+                                <!-- Banner-->
+                <div class="banner-holder full row hide-on-phones">
+                    <script type="text/javascript">eplAD4M(eplArgs.eIs[6]);</script>
+                </div>
+                <!-- Fin Banner-->
+
+            </div>
+        </section>
+        <!-- Fin Sección Multimedia, DF TV y Unidad de Inteligencia -->
+
+        
+        <section class="row hide-on-tablets hide-on-desktop zen-hide container">
+    <div class="locked box">
+        <h3>Descargar la aplicación <strong>DF Mercados</strong></h3>
+        <a href="https://play.google.com/store/apps/details?id=net.altavoz.dfinfodroid&amp;hl=es" title="Descargar en Google Play" rel="external" class="btn android download">Android app<span>Google Play</span></a>
+        <a href="https://itunes.apple.com/cl/app/df-mercados/id483602458?mt=8&amp;uo=4" target="itunes_store" title="Descargar en App Store" rel="external" class="btn mac download">Available on the <span>App Store</span></a>
+    </div>
+</section>
+
+
+        <div class="banner-holder full row hide-on-phones">
+    <script type="text/javascript">eplAD4M(eplArgs.eIs[7]);</script>
+</div>
+
+        
+        <!-- Footer -->
+        <footer class="bigbox doble-border up container zen-hide">
+  <div class="row">
+    <div class="column2 hide-on-phones">
+        <ul>
+            
+            <li>
+                
+                  <a href="/empresas" title="Ir a Empresas" rel="contents">Empresas</a>
+                  <ul>
+                    <li><a href="/noticias/site/tax/port/all/taxport_1_1__1.html" title="Ir a Retail" rel="contents" target="_top">Retail</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_1_2__1.html" title="Ir a Minería" rel="contents" target="_top">Minería</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_1_3__1.html" title="Ir a Energía" rel="contents" target="_top">Energía</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_1_4__1.html" title="Ir a Infraestructura / Inmobiliaria" rel="contents" target="_top">Infraestructura / Inmobiliaria</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_1_5__1.html" title="Ir a Banca / Instituciones Financieras" rel="contents" target="_top">Banca / Instituciones Financieras</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_1_6__1.html" title="Ir a Telecom / Tecnología" rel="contents" target="_top">Telecom / Tecnología</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_1_7__1.html" title="Ir a Industria" rel="contents" target="_top">Industria</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_1_8__1.html" title="Ir a Multinacionales" rel="contents" target="_top">Multinacionales</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_1_9__1.html" title="Ir a Innovacion y Sustentabilidad" rel="contents" target="_top">Innovacion y Sustentabilidad</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_1_10__1.html" title="Ir a Emprendimiento" rel="contents" target="_top">Emprendimiento</a></li>
+                  </ul>
+                
+            </li>
+            
+            <li>
+                
+                  <a href="/internacional" title="Ir a Internacional" rel="contents">Internacional</a>
+                  <ul>
+                    <li><a href="/noticias/site/tax/port/all/taxport_4_46__1.html" title="Ir a Actualidad internacional" rel="contents" target="_top">Actualidad internacional</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_4_25__1.html" title="Ir a Ripe" rel="contents" target="_top">Ripe</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_4_26__1.html" title="Ir a FT Español" rel="contents" target="_top">FT Español</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_4_47__1.html" title="Ir a EIU" rel="contents" target="_top">EIU</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_4_27__1.html" title="Ir a South China" rel="contents" target="_top">South China</a></li>
+                    
+                    
+                    
+                    
+                    
+                  </ul>
+                
+            </li>
+            
+
+        </ul>
+    </div>
+    <div class="column2 hide-on-phones">
+        <ul>
+            
+            <li>
+                
+                  <a href="/economia_y_politica" title="Ir a Economía y Politica" rel="contents">Economía y Politica</a>
+                  <ul>
+                    <li><a href="/noticias/site/tax/port/all/taxport_2_12__1.html" title="Ir a Congreso / Legislación" rel="contents" target="_top">Congreso / Legislación</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_2_13__1.html" title="Ir a Regulación" rel="contents" target="_top">Regulación</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_2_14__1.html" title="Ir a Macro" rel="contents" target="_top">Macro</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_2_15__1.html" title="Ir a Comercio Exterior" rel="contents" target="_top">Comercio Exterior</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_2_16__1.html" title="Ir a Gobierno" rel="contents" target="_top">Gobierno</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_2_17__1.html" title="Ir a Gremios / Laboral" rel="contents" target="_top">Gremios / Laboral</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_2_45__1.html" title="Ir a Actualidad" rel="contents" target="_top">Actualidad</a></li>
+                    
+                    
+                    
+                  </ul>
+                
+            </li>
+            
+            <li>
+                
+                  <a href="/tendencias" title="Ir a Tendencias" rel="contents">Tendencias</a>
+                  <ul>
+                    <li><a href="/noticias/site/tax/port/all/taxport_5_28__1.html" title="Ir a Tecnología" rel="contents" target="_top">Tecnología</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_5_29__1.html" title="Ir a Motores" rel="contents" target="_top">Motores</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_5_30__1.html" title="Ir a Gadgets" rel="contents" target="_top">Gadgets</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_5_31__1.html" title="Ir a Panorama" rel="contents" target="_top">Panorama</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_5_32__1.html" title="Ir a Gastronomía" rel="contents" target="_top">Gastronomía</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_5_33__1.html" title="Ir a Lujo" rel="contents" target="_top">Lujo</a></li>
+                    
+                    
+                    
+                    
+                  </ul>
+                
+            </li>
+            
+        </ul>
+    </div>
+    <div class="column2 hide-on-phones">
+        <ul>
+            
+            <li>
+                
+                  <a href="/app_df/frontend/modules/index.php?modulo=cd&amp;accion=Marketdata" title="Ir a Market Data" rel="contents">Market Data</a>
+                  <ul>
+                    <li><a href="/app_df/frontend/modules/index.php?modulo=cd&amp;accion=Bcs" title="Ir a Precio de Acciones" rel="contents" target="_top">Precio de Acciones</a></li>
+                    <li><a href="/app_df/frontend/modules/index.php?modulo=cd&amp;accion=Bolsas" title="Ir a Bolsas" rel="contents" target="_top">Bolsas</a></li>
+                    <li><a href="/app_df/frontend/modules/index.php?modulo=cd&amp;accion=FondosMutuos" title="Ir a Fondos Mutuos" rel="contents" target="_top">Fondos Mutuos</a></li>
+                    <li><a href="/app_df/frontend/modules/index.php?modulo=cd&amp;accion=Multifondos" title="Ir a Multifondos" rel="contents" target="_top">Multifondos</a></li>
+                    <li><a href="/diariofinanciero/lva-indices/2014-03-11/085134.html" title="Ir a LVA Índices" rel="contents" target="_top">LVA Índices</a></li>
+                    <li><a href="/noticias/site/list/port/doc_resultados_empresas.html" title="Ir a Resultados de Empresas" rel="contents" target="_top">Resultados de Empresas</a></li>
+                    
+                    
+                    
+                    
+                  </ul>
+                
+            </li>
+            
+            <li>
+                
+                  <a href="/dfui" title="Ir a Unidad de Inteligencia" rel="contents">Unidad de Inteligencia</a>
+                  <ul>
+                    <li><a href="/noticias/site/tax/port/all/taxport_7_38__1.html" title="Ir a Estudios" rel="contents" target="_top">Estudios</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_7_39__1.html" title="Ir a Documentos" rel="contents" target="_top">Documentos</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_7_40__1.html" title="Ir a Índice" rel="contents" target="_top">Índice</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_7_41__1.html" title="Ir a Reportes Sectoriales" rel="contents" target="_top">Reportes Sectoriales</a></li>
+                    
+                    
+                    <li><a href="/noticias/site/tax/port/all/taxport_7_44__1.html" title="Ir a Economist Inteligence Unit" rel="contents" target="_top">Economist Inteligence Unit</a></li>
+                    
+                    
+                    
+                  </ul>
+                
+            </li>
+            
+        </ul>
+    </div>
+    <div class="column2 hide-on-phones">
+        <ul>
+            
+            <li>
+                
+                  <a href="/mercados" title="Ir a Mercados" rel="contents">Mercados</a>
+                  <ul>
+                    <li><a href="/noticias/site/tax/port/all/taxport_3_18__1.html" title="Ir a Commodities" rel="contents" target="_top">Commodities</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_3_19__1.html" title="Ir a Renta Fija" rel="contents" target="_top">Renta Fija</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_3_20__1.html" title="Ir a Bolsas" rel="contents" target="_top">Bolsas</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_3_21__1.html" title="Ir a Divisas" rel="contents" target="_top">Divisas</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_3_22__1.html" title="Ir a Finanzas Personales" rel="contents" target="_top">Finanzas Personales</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_3_23__1.html" title="Ir a Mercados en Acción" rel="contents" target="_top">Mercados en Acción</a></li>
+                    
+                    
+                    
+                    
+                  </ul>
+                
+            </li>
+            
+            <li>
+                
+                  <a href="/opinion" title="Ir a Opinión" rel="contents">Opinión</a>
+                  <ul>
+                    <li><a href="/noticias/site/tax/port/all/taxport_6_34__1.html" title="Ir a Cartas" rel="contents" target="_top">Cartas</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_6_35__1.html" title="Ir a Editoriales" rel="contents" target="_top">Editoriales</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_6_36__1.html" title="Ir a Columnistas" rel="contents" target="_top">Columnistas</a></li>
+                    <li><a href="/noticias/site/tax/port/all/taxport_6_37__1.html" title="Ir a Blog" rel="contents" target="_top">Blog</a></li>
+                    
+                    
+                    
+                    
+                    
+                    
+                  </ul>
+                
+            </li>
+            
+            <li>
+                <span>DF7</span>
+                <ul>
+                    <li><a class="digital-paper trackevent" data-ga-category="BottomMenu" data-ga_action="Top_Papel" data-ga_opt_label="BtnTopPapel" href="/papeldigital/calendar3.html" title="Papel Digital" rel="external">Papel Digital</a></li>
+                    <li><a class="df-app app-df trackevent" av-data="app-bottom-desktop" data-ga-category="BottomMenu" data-ga_action="Top_AppDF" data-ga_opt_label="BtnTopAppDF" id="linkAppMercados" href="#" title="App Diario Financiero" rel="external">App Diario Financiero</a></li>
+                    <li><a class="df-app app-mercados trackevent" av-data="app-bottom-desktop" data-ga-category="BottomMenu" data-ga_action="Top_AppDFMercados" data-ga_opt_label="BtnTopAppDFMercados" id="linkAppDiarioFinanciero" href="#" title="App DF Mercados" rel="external">App DF Mercados</a></li>
+                    <li><a class="df-portafolio so-far trackevent" data-ga-category="BottomMenu" data-ga_action="Top_PR" data-ga_opt_label="BtnTopPR" href="/noticias/empresas/retail/portafolio-retail-diario-financiero/2013-04-02/130635.html" title="Portafolio Retail" rel="external">Portafolio Retail</a></li>
+                    <li><a class="df-conferencias trackevent" data-ga-category="BottomMenu" data-ga_action="Top_DFConf" data-ga_opt_label="BtnTopDFConf" href="/prontus_conferencias/site/edic/base/port/inicio.html" title="DF Conferencias" rel="external">DF Conferencias</a></li>
+                    <li><a class="df-tv far trackevent" data-ga-category="BottomMenu" data-ga_action="Top_DFTV" data-ga_opt_label="BtnTopDFTV" href="/dftv" title="DF TV" rel="external">DF TV</a></li>
+                    <li><a class="df-ui far trackevent" data-ga-category="BottomMenu" data-ga_action="Top_DFUI" data-ga_opt_label="BtnTopDFUI" href="/dfui" title="DF UI" rel="external">DF UI</a></li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+    <div class="column4 last down-m">
+        <div class="footer-list-wrapp">
+            <div class="footercol">
+                <ul>
+                    <li class="hide-on-desktop">
+                        <h4>DF7</h4>
+                        <ul>
+                            <li><a class="digital-paper trackevent" data-ga-category="BottomMenu" data-ga_action="Top_Papel" data-ga_opt_label="BtnTopPapel" href="/papeldigital/calendar3.html" title="Papel Digital" rel="external">Papel Digital</a></li>
+                            <li><a class="df-app app-df trackevent" av-data="app-bottom-mobile"  data-ga-category="BottomMenu" data-ga_action="Top_AppDF" data-ga_opt_label="BtnTopAppDF" id="linkAppMercadosFooter" href="#" title="App Diario Financiero" rel="external">App Diario Financiero</a></li>
+                            <li><a class="df-app app-mercados trackevent" av-data="app-bottom-mobile" data-ga-category="BottomMenu" data-ga_action="Top_AppDFMercados" data-ga_opt_label="BtnTopAppDFMercados" id="linkAppDiarioFinancieroFooter" href="#" title="App DF Mercados" rel="external">App DF Mercados</a></li>
+                            <li><a class="df-portafolio so-far trackevent" data-ga-category="BottomMenu" data-ga_action="Top_PR" data-ga_opt_label="BtnTopPR" href="/noticias/empresas/retail/portafolio-retail-diario-financiero/2013-04-02/130635.html" title="Portafolio Retail" rel="external">Portafolio Retail</a></li>
+                            <li><a class="df-conferencias trackevent" data-ga-category="BottomMenu" data-ga_action="Top_DFConf" data-ga_opt_label="BtnTopDFConf" href="/prontus_conferencias/site/edic/base/port/inicio.html" title="DF Conferencias" rel="external">DF Conferencias</a></li>
+                            <li><a class="df-tv far trackevent" data-ga-category="BottomMenu" data-ga_action="Top_DFTV" data-ga_opt_label="BtnTopDFTV" href="/dftv" title="DF TV" rel="external">DF TV</a></li>
+                            <li><a class="df-ui far trackevent" data-ga-category="BottomMenu" data-ga_action="Top_DFUI" data-ga_opt_label="BtnTopDFUI" href="/dfui" title="DF UI" rel="external">DF UI</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        
+                            
+                            <span>Diario Financiero</span>
+                            <ul>
+                                <li><a href="/diariofinanciero/quienes-somos/2013-12-17/113638.html" title="Ir a Quiénes Somos" rel="contents" target="_top">Quiénes Somos</a></li>
+                                <li><a href="/diariofinanciero/contacto/2013-12-17/110149.html" title="Ir a Contacto" rel="contents" target="_top">Contacto</a></li>
+                                <li><a href="/diariofinanciero/presentacion/2013-12-17/131912.html" title="Ir a Presentación Comercial" rel="contents" target="_top">Presentación Comercial</a></li>
+                                <li><a href="/diariofinanciero/tarifas/2013-12-17/104510.html" title="Ir a Tarifas de Publicidad DF" rel="contents" target="_top">Tarifas de Publicidad DF</a></li>
+                                <li><a href="diariofinanciero/tarifas-de-publicidad-df-cl/2014-06-26/125503.html" title="Ir a Tarifas de Publicidad DF.CL" rel="contents" target="_top">Tarifas de Publicidad DF.CL</a></li>
+                                
+                                
+                                
+                                
+                                
+                            </ul>
+                            
+                        
+                    </li>
+                </ul>
+            </div>
+            <div class="footercol">
+                <ul class="hide-on-phones">
+                    <li>
+                        
+                            
+                                <span>Revistas</span>
+                                <ul>
+                                    <li><a class="trackevent" data-ga-category="Outbound_Traffic" data-ga_action="Revistas" data-ga_opt_label="BtnFootCapital" href="http://www.capital.cl" title="Ir a Revista Capital" target="_top" rel="external">Revista Capital</a></li>
+                                    <li><a class="trackevent" data-ga-category="Outbound_Traffic" data-ga_action="Revistas" data-ga_opt_label="BtnFootCapital" href="http://www.ed.cl" title="Ir a Revista ED" target="_top" rel="external">Revista ED</a></li>
+                                    <li><a class="trackevent" data-ga-category="Outbound_Traffic" data-ga_action="Revistas" data-ga_opt_label="BtnFootCapital" href="http://www.thenote.cl" title="Ir a Revista The Note" target="_top" rel="external">Revista The Note</a></li>
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                            
+                            
+                        </ul>
+                    </li>
+                </ul>
+                <div class="social-links">
+                    <h4>Síguenos en</h4>
+                    <ul class="inline-list">
+                        <li><a class="social facebook trackevent" data-ga-category="Outbound_Traffic" data-ga_action="Redes" data-ga_opt_label="BtnDFFB" href="https://www.facebook.com/DiarioFinanciero" title="Ir al Facebook de Diario Finandiero" rel="external">Facebook</a></li>
+                        <li><a class="social twitter trackevent" data-ga-category="Outbound_Traffic" data-ga_action="Redes" data-ga_opt_label="BtnDFTwitter" href="https://twitter.com/DFinanciero" title="Ir al Twitter de Diario Finandiero" rel="external">Twitter</a></li>
+                        <li><a class="social youtube trackevent" data-ga-category="Outbound_Traffic" data-ga_action="Redes" data-ga_opt_label="BtnDFYoutube" href="http://www.youtube.com/user/DiarioFinancieroTV?feature=watch" title="Ir al canal de Youtube de Diario Finandiero" rel="external">Youtube</a></li>
+                        <li><a class="social rss trackevent" data-ga-category="Outbound_Traffic" data-ga_action="Redes" data-ga_opt_label="BtnDFRSS" href="/noticias/site/list/port/rss.xml" title="RSS de Diario Financiero" rel="external">RSS</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+            
+                <p>Av. Apoquindo 3885 Piso -1, Las Condes, Santiago</p>
+<p><strong>Mesa central:</strong> 56 - 2 - 23391000<br /><strong>Fax Prensa:</strong> 56 - 2 - 23313340<br /><strong>Suscripciones:</strong> 56 - 2 - 23391048<br /><strong>Fax:</strong> 56 - 2 - 23391018<br /><strong>Venta publicitaria:</strong> <a href="mailto:ventas@df.cl">ventas@df.cl</a></p>
+            
+        
+        <div class="locked-message nom hide-on-phones">
+            <p>Nuestros Titulares ofrecen las noticias más relevantes del día a primera hora de la mañana.</p>
+            <a data-ga-category="Registrar" data-ga_action="FooterReg" data-ga_opt_label="BtnFooterReg" href="/prontus_suscripciones/site/edic/base/port/suscripciones.html" title="Suscribirse" rel="help" class="btn dark-orange trackevent">Suscríbete Ahora</a>
+        </div>
+    </div>
+  </div>
+</footer>
+
+
+
+
+
+
+        <!-- Fin Footer -->
+    </body>
+</html>
+

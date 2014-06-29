@@ -1,0 +1,20158 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+ 
+
+ 
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+	
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+			
+			
+			
+			<link rel="stylesheet" href="//images.rottentomatoescdn.com/styles/rt_global.css?v=glo20140626" type="text/css"/>
+		
+	
+
+
+
+
+
+
+
+<head prefix="og: http://ogp.me/ns# flixstertomatoes: http://ogp.me/ns/apps/flixstertomatoes#">
+
+<script>
+	RT = window.RT || {};
+	RT.startTime = new Date().getTime();
+</script>
+
+
+
+
+        <meta name="p:domain_verify" content="65982d943d1732896b4137672169678b" />
+        <meta name="google-site-verification" content="VPPXtECgUUeuATBacnqnCm4ydGO99reF-xgNklSbNbc" />
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+	
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Rotten Tomatoes: Movies | TV Shows | Movie Trailers | Reviews</title>
+
+
+ 
+
+
+
+
+	<link rel="canonical" href="http://www.rottentomatoes.com" itemprop="url"/>
+
+
+
+
+	<meta name="description" content="Rotten Tomatoes is the ultimate movie and TV database, featuring thousands of Movies, TV Shows, TV &amp; Movie Reviews, Critic Scores, Showtimes and Movie Trailers!"/>
+
+
+
+
+
+
+
+
+
+<!--[if lt IE 9]>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js"></script>
+<![endif]-->
+
+	
+<meta name="msvalidate.01" content="034F16304017CA7DCF45D43850915323" />
+
+
+<link rel="apple-touch-icon" href="http://images.rottentomatoescdn.com/images/icons/apple-touch-icon.png"/>
+
+<link rel="shortcut icon" href="http://images.rottentomatoescdn.com/images/icons/favicon.ico" type="image/x-icon"/>
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		<link rel="stylesheet" href="//images.rottentomatoescdn.com/assets/v/glo20140626/styles/?f=/styles/rt_global.css&f=/styles/comp/Autocomplete.css&f=/styles/comp/MovieList.css&f=/styles/comp/Rating.css&f=/styles/comp/social.css&f=/styles/jqueryui/rt-theme/jquery-ui-1.8.13.custom-dialog.css" type="text/css"/>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		<link rel="stylesheet" href="//images.rottentomatoescdn.com/assets/v/glo20140626/styles/?f=/styles/homepage_v2.css&f=/styles/comp/MovieList.css&f=/styles/lightbox.css" type="text/css"/>
+	
+	
+ 	
+<style></style>											
+
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+
+
+<script>
+	// Log document.ready
+	$(document).ready(function(){
+		console.log("document.ready");
+	});
+
+	// Swallow console.log in IE8 to prevent JS error.
+	if (typeof console === "undefined" || typeof console.log === "undefined") {
+		console={};
+		console.log = function(msg){};
+		console.error = function(msg){};
+	}
+	
+	RT.getCookie = function(c) {
+		var d = document.cookie.indexOf(c + "=");
+		var a = d + c.length + 1;
+		if ((!d) && (c != document.cookie.substring(0, c.length))) {
+			return null
+		}
+		if (d == -1) {
+			return null
+		}
+		var b = document.cookie.indexOf(";", a);
+		if (b == -1) {
+			b = document.cookie.length
+		}
+		return unescape(document.cookie.substring(a, b))
+	};
+	window.getCookie = RT.getCookie;
+	
+	/* RT.setCookie(key, value, expires_days, path, domain, secure) */
+	RT.setCookie = function(c, e, a, h, d, g) {
+		var b = new Date();
+		b.setTime(b.getTime());
+		if (a) {
+			a = a * 1000 * 60 * 60 * 24
+		}
+		var f = new Date(b.getTime() + (a));
+		document.cookie = c + "=" + encodeURIComponent(e)
+				+ ((a) ? ";expires=" + f.toGMTString() : "")
+				+ ((h) ? ";path=" + h : "") + ((d) ? ";domain=" + d : "")
+				+ ((g) ? ";secure" : "")
+	}
+	window.setCookie = RT.setCookie;
+	
+	RT.deleteCookie = function(a, c, b) {
+		if (getCookie(a)) {
+			document.cookie = a + "=" + ((c) ? ";path=" + c : "")
+					+ ((b) ? ";domain=" + b : "")
+					+ ";expires=Thu, 01-Jan-1970 00:00:01 GMT"
+		}
+	}
+	window.deleteCookie = RT.deleteCookie;
+	
+	RT.cookieHas = function(sKey) { 
+		return (new RegExp("(?:^|;\\s*)" + escape(sKey).replace(/[\-\.\+\*]/g, "\$&") + "\\s*\\=")).test(document.cookie); 
+	}
+	
+	/* Setup interstitial deferred (resolves if interstitial shown) */
+	RT.interstitialShown = $.Deferred();
+		
+	RT.social_init = new $.Deferred(); // See http://trac.flixsterqa.com/wiki/Dev/header for detailed explanation of these 4 deferreds
+	RT.fb_ready = new $.Deferred();
+	RT.fb_connected = new $.Deferred();
+
+	/* Ad slots */
+	RT.ads=[];
+
+	/* Bring out legacy global vars */
+	window.social_init = RT.social_init;
+	window.fb_ready = RT.fb_ready;
+	window.fb_connected = RT.fb_connected;
+
+	RT.StaticHost = 'http://images.rottentomatoescdn.com';
+	RT.Host = 'http://www.rottentomatoes.com';
+	
+	/* Backbone Views and Models */
+	RT.Backbone = {};
+	RT.Backbone.Views={};
+	RT.Backbone.Models={};
+	RT.Backbone.Routers={};
+	RT.Backbone.Collections={};
+	
+	
+	/* Global actions to be taken after document.ready */
+	$(function(){
+	    // Activate component framework unless specifically disabled
+	    
+        $("[comp]").comp(); 
+        
+	});
+	
+	/* Set Krux user id */
+	flix_user_id = "";
+</script>
+
+
+<script>
+console.log("Storing preload data for LoginStatusModel");
+RT.LoginStatusModel=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"userType":"anon","flixsterId":null,"firstName":null,"lastName":null,"facebookId":null,"profileUrl":null,"accountUrl":null,"thumbnailUrl":null,"emailStatusId":"","trackingSessionType":"Anon","trackingSessionInfo":"handleAjaxFacebookLogin","loginPlatformCode":"Unknown","sourcePlatformCode":"Unknown","userSourceTypeCode":"Unknown","userPlatformCode":"Unknown","facebookShareRatingEnabled":false,"registerDate":""}
+
+;
+</script>
+
+
+<script>
+var dataLayer = dataLayer || [];
+var registration;
+
+// Registered up to 30 mins ago
+if(RT.LoginStatusModel.usertype != "anon" && Date.now() - Date.parse(RT.LoginStatusModel.registerDate > 1800000)){
+	dataLayer.push({'registration' : RT.LoginStatusModel.userType});
+} 
+dataLayer.push({'usertype' : RT.LoginStatusModel.userType});
+</script>
+
+
+
+
+
+
+<script>
+
+</script>
+
+
+</head>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+	
+	
+	
+
+
+
+
+<body class="body" id="homepage"  >
+	<script>console.groupCollapsed("Render Timing");</script>
+	<script>console.info("body-top:" + window.performance.now());</script>
+	
+	<div id="emptyPlaceholder"></div> 
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+RT.omniture = {};
+RT.omniture.pageName="RottenTomatoes Homepage";
+RT.omniture.channel="Homepage";
+RT.omniture.prop1="RottenTomatoes.us";
+RT.omniture.prop2="";
+RT.omniture.prop3="Homepage";
+RT.omniture.prop6="";
+RT.omniture.eVar1="";
+RT.omniture.eVar2="";
+RT.omniture.eVar3="";
+RT.omniture.eVar8="";
+RT.omniture.event1="";
+RT.omniture.event11="";
+RT.omniture.event12="";
+RT.omniture.event32="";
+</script> 
+	
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Google Tag Manager -->
+<script>
+var dataLayer = dataLayer || [];
+</script>
+<noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-TW7ZFZ" height="0" width="0" style="display: none; visibility: hidden"></iframe>
+</noscript>
+<script>
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start' : new Date().getTime(),
+            event : 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l='
+                + l
+                : '';
+        j.async = true;
+        j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-TW7ZFZ');
+</script>
+
+<!-- End Google Tag Manager -->
+	<script>console.info("gtm:" + window.performance.now());</script>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+	<script>console.info("gpt-script:" + window.performance.now());</script>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="fb-root"></div>
+
+<script>
+	window.fbAsyncInit = function() {
+	    FB.init({
+	        appId: '326803741017',
+	        status: true,
+	        cookie: true,
+	        xfbml: true,
+	        oauth: true
+	    });
+	
+	    // FB scripts ready. (Does not imply logged in)
+	    fb_ready.resolve();
+	
+	    FB.Event.subscribe('auth.statusChange', function(response) {
+	        if(response.status == "connected"){
+	            // Log us in to RT internally       
+	            $.post("/login/fb_ajax", {
+	                fb_id: response.authResponse.userID,
+	                fb_access_token: response.authResponse.accessToken,
+	                token_expires : response.authResponse.expiresIn
+	            }).success( function(flx_response, status) {
+	                $(function(){ // DOM ready required for backbone 
+	                    RT.LoginStatusModel.set(flx_response); 
+	                    console.log("fb_ajax returns. RT.social_init already resolved:" + RT.social_init.isResolved() + " RT.fb_connected already resolved:" + RT.fb_connected.isResolved());
+	                
+	                    RT.social_init.resolve();
+	                    RT.fb_connected.resolve();
+	                });
+	            });
+	              
+	        }
+	    });
+	};
+
+
+    // Async loading of FB JS SDK
+    (function(d, debug){
+        var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement('script'); js.id = id; js.async = true;
+        js.src = "//connect.facebook.net/en_US/all" + (debug ? "/debug" : "") + ".js";
+        ref.parentNode.insertBefore(js, ref);
+    }(document, /*debug*/ false));
+</script>
+
+	<script>console.info("facebook:" + window.performance.now());</script>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<div id="overlay_oop" style="height:0px;">
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+<script type='text/javascript'>
+RT.ads.push("overlay_oop");
+googletag.cmd.push(function() {
+	
+	
+	var slot=googletag.defineOutOfPageSlot('/6327/rt.home/prestitial', 'overlay_oop')
+	
+	
+	
+		.addService(googletag.pubads())
+	
+	
+		.setTargeting("unit", "overlay")	
+	
+	
+	
+			
+        .setCollapseEmptyDiv(true, true)
+        ;
+        
+    
+});
+</script>
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+	
+	
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<div class="head" id="head">
+	
+
+<div class="header_main">
+	<a
+		class="rt-logo "
+		href="/">Rotten Tomatoes</a>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+ 
+
+
+
+
+
+
+	
+		
+			
+			
+				 
+		<ul id="nav_primary" class="drop_menu">
+			<li class="no-js movies">
+				<ul class="subnav">
+					<li>
+						<div class="subnav_items inlineBlock fl">
+							<h3>Opening</h3>
+							<table class="movie_list">
+								
+									<tr data-movie-id="771269858">
+										<td class="media_block">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Opening" href="/m/transformers_age_of_extinction/" title="Transformers: Age of Extinction" class="media_block_image plm" >
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+    
+    
+        
+	     
+    	
+	    
+        
+    
+
+
+<img src="http://content9.flixster.com/movie/11/17/81/11178175_tmb.png" width="52" height="81" alt="" title=""  /> 
+
+											</a>
+											<div class="media_block_content">
+												<h2 class="bold block">
+													
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Opening" href="/m/transformers_age_of_extinction/"  class=""  sub="hover">Transformers: Age of Extinction</a>
+												</h2>
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">17%</span>
+				
+			
+		
+        
+		
+	
+	</span>
+												<div class="subtle small">
+													Mark Wahlberg, 
+													Jack Reynor
+													
+												</div>
+												<div class="subtle small">PG-13,2 hr. 37 min.</div>
+											</div></td>
+									</tr>
+								
+							</table>
+							<table class="movie_list">
+								
+									<tr data-movie-id="771339986">
+										<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">93%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+										<td class="middle_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Opening" href="/m/snowpiercer/"  class=""  sub="hover">Snowpiercer</a></td>
+									</tr>
+								
+									<tr data-movie-id="771362035">
+										<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">73%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+										<td class="middle_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Opening" href="/m/begin_again_2013/"  class=""  sub="hover">Begin Again</a></td>
+									</tr>
+								
+									<tr data-movie-id="771307421">
+										<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">69%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+										<td class="middle_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Opening" href="/m/they_came_together/"  class=""  sub="hover">They Came Together</a></td>
+									</tr>
+								
+								<tr>
+									<td colspan="3" class="left_col"><a data-pageheader="Opening - Show All" href="/movie/in-theaters/">Show All...</a></td>
+								</tr>
+								<tr>
+									<td colspan="3" class="left_col"></td>
+								</tr>
+							</table>
+						</div>
+						<div class="subnav_items inlineBlock fl">
+							
+								
+									
+									
+										
+									
+								
+								<h3>Top Box Office</h3>
+								<table class="movie_list">
+									
+										<tr data-movie-id="771358910">
+											<td class="media_block">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Top Box Office" href="/m/think_like_a_man_too/" title="Think Like a Man Too" class="media_block_image plm" >
+													
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+    
+    
+        
+	     
+    	
+	    
+        
+    
+
+
+<img src="http://content9.flixster.com/movie/11/17/63/11176335_tmb.jpg" width="54" height="80" alt="" title=""  /> 
+
+												</a>
+												<div class="media_block_content">
+													<h2 class="bold block">
+														
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Top Box Office" href="/m/think_like_a_man_too/"  class=""  sub="hover">Think Like a Man Too</a>
+													</h2>
+													
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">24%</span>
+				
+			
+		
+        
+		
+	
+	</span>
+													<div class="subtle small">
+														Adam Brody, 
+														Michael Ealy
+														
+													</div>
+													<div class="subtle small">PG-13,1 hr. 46 min.</div>
+												</div></td>
+										</tr>
+									
+								</table>
+								<table class="movie_list">
+									
+										<tr data-movie-id="771355226">
+											<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">85%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+											<td class="middle_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Top Box Office" href="/m/22_jump_street/"  class=""  sub="hover">22 Jump Street</a></td>
+										</tr>
+									
+										<tr data-movie-id="771040382">
+											<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">91%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+											<td class="middle_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Top Box Office" href="/m/how_to_train_your_dragon_2/"  class=""  sub="hover">How to Train Your Dragon 2</a></td>
+										</tr>
+									
+										<tr data-movie-id="771361033">
+											<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">53%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+											<td class="middle_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Top Box Office" href="/m/jersey_boys/"  class=""  sub="hover">Jersey Boys</a></td>
+										</tr>
+									
+									<tr>
+										<td colspan="2" class="left_col"><a data-pageheader="Top Box Office - Show All" href="/movie/box-office/">Show All...</a></td>
+									</tr>
+									<tr>
+										<td colspan="2" class="left_col"></td>
+									</tr>
+								</table>
+							
+
+						</div>
+						<div class="subnav_items inlineBlock fl">
+							<h3>Coming Soon</h3>
+							
+							<table class="movie_list">
+								
+									<tr data-movie-id="771355411">
+										<td class="media_block">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Coming Soon" href="/m/tammy_2014/" title="Tammy" class="media_block_image plm" >
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+    
+    
+        
+	     
+    	
+	    
+        
+    
+
+
+<img src="http://content8.flixster.com/movie/11/17/63/11176338_tmb.jpg" width="54" height="80" alt="" title=""  /> 
+
+											</a>
+											<div class="media_block_content">
+												<h2 class="bold block">
+													
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Coming Soon" href="/m/tammy_2014/"  class=""  sub="hover">Tammy</a>
+												</h2>
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+        
+		<span class="greyline right">&mdash;&mdash;</span>
+	
+	</span>
+												<div class="subtle small">
+													Melissa McCarthy, 
+													Susan Sarandon
+													
+												</div>
+												<div class="subtle small">R,1 hr. 36 min.</div>
+											</div></td>
+									</tr>
+							</table>
+							<table class="movie_list">
+							    
+									<tr data-movie-id="771356653">
+										<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">60%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+										<td class="middle_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Coming Soon" href="/m/earth_to_echo/"  class=""  sub="hover">Earth to Echo</a></td>
+									</tr>
+								
+									<tr data-movie-id="771371567">
+										<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+        
+		<span class="greyline right">&mdash;&mdash;</span>
+	
+	</span></td>
+										<td class="middle_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Coming Soon" href="/m/deliver_us_from_evil_2014/"  class=""  sub="hover">Deliver Us from Evil</a></td>
+									</tr>
+								
+									<tr data-movie-id="771308675">
+										<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">80%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+										<td class="middle_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Coming Soon" href="/m/dawn_of_the_planet_of_the_apes/"  class=""  sub="hover">Dawn Of The Planet Of The Apes</a></td>
+									</tr>
+								
+								<tr>
+									<td colspan="3" class="left_col"><a data-pageheader="Coming Soon - Show All" href="/movie/upcoming/">Show All...</a></td>
+								</tr>
+								<tr>
+									<td colspan="3" class="left_col"></td>
+								</tr>
+							</table>
+							
+
+						</div>
+						<div class="subnav_items inlineBlock fl">
+							<h3>More</h3>
+							<ul class="subnav_items">
+								<li><a href="/top/" data-pageheader="Top Movies">Top Movies</a></li>
+								<li><a href="/movie/certified-fresh/" data-pageheader="Certified Fresh">Certified Fresh</a></li>
+								<li><a href="/movie_times/" data-pageheader="Showtimes">Showtimes</a></li>
+								<li><a href="/trailers/" data-pageheader="Trailers">Trailers</a></li>
+								<li><a href="/movie/photos/" data-pageheader="Photos">Photos</a></li>
+							</ul>
+						</div>
+					</li>
+				</ul>
+				<h2 class="menu_label">
+					<a href="/">Movies <span class="icon dropdown_arrows"></span></a><span class="crossover"></span>
+				</h2>
+			</li>
+			<li class="no-js dvd">
+				<ul class="subnav">
+					<li>
+						<div class="subnav_items inlineBlock fl">
+							<h3>New Releases</h3>
+							<table class="movie_list">
+								
+									<tr data-movie-id="771355933">
+										<td class="media_block">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="New Releases" href="/m/the_lunchbox/" title="The Lunchbox" class="media_block_image plm" >
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+    
+    
+        
+	     
+    	
+	    
+        
+    
+
+
+<img src="http://content9.flixster.com/movie/11/17/63/11176303_tmb.jpg" width="54" height="80" alt="" title=""  /> 
+
+											</a>
+											<div class="media_block_content">
+												<h2 class="bold block">
+													
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="New Releases" href="/m/the_lunchbox/"  class=""  sub="hover">The Lunchbox</a>
+												</h2>
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">95%</span>
+				
+			
+		
+        
+		
+	
+	</span>
+												<div class="subtle small">
+													Irfan Khan, 
+													Nimrat Kaur
+													
+												</div>
+												<div class="subtle small">PG,1 hr. 45 min.</div>
+											</div></td>
+									</tr>
+								
+							</table>
+							<table class="movie_list">
+								
+									<tr data-movie-id="771363419">
+										<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">83%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+										<td class="middle_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="New Releases" href="/m/afflicted_2013/"  class=""  sub="hover">Afflicted</a></td>
+									</tr>
+								
+									<tr data-movie-id="771355264">
+										<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">87%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+										<td class="middle_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="New Releases" href="/m/like_father_like_son_2013/"  class=""  sub="hover">Like Father, Like Son</a></td>
+									</tr>
+								
+									<tr data-movie-id="771362049">
+										<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">83%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+										<td class="middle_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="New Releases" href="/m/the_unknown_known/"  class=""  sub="hover">The Unknown Known</a></td>
+									</tr>
+								
+								<tr>
+									<td colspan="3" class="left_col"><a data-pageheader="New Releases - Show All" href="/dvd/new-releases/">Show All...</a></td>
+								</tr>
+								<tr>
+									<td colspan="3" class="left_col"></td>
+								</tr>
+							</table>
+						</div>
+						<div class="subnav_items inlineBlock fl">
+							<h3>Top Rentals</h3>
+							<table class="movie_list">
+								
+									<tr data-movie-id="771249085">
+										<td class="media_block">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Top Rentals" href="/m/300_rise_of_an_empire/" title="300: Rise of an Empire" class="media_block_image plm" >
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+    
+    
+        
+	     
+    	
+	    
+        
+    
+
+
+<img src="http://content6.flixster.com/movie/11/17/87/11178752_tmb.jpg" width="54" height="81" alt="" title=""  /> 
+
+											</a>
+											<div class="media_block_content">
+												<h2 class="bold block">
+													
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Top Rentals" href="/m/300_rise_of_an_empire/"  class=""  sub="hover">300: Rise of an Empire</a>
+												</h2>
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">41%</span>
+				
+			
+		
+        
+		
+	
+	</span>
+												<div class="subtle small">
+													Sullivan Stapleton, 
+													Eva Green
+													
+												</div>
+												<div class="subtle small">R,1 hr. 43 min.</div>
+											</div></td>
+									</tr>
+								
+							</table>
+							<table class="movie_list">
+								
+									<tr data-movie-id="771305753">
+										<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">96%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+										<td class="middle_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Top Rentals" href="/m/the_lego_movie/"  class=""  sub="hover">The LEGO Movie</a></td>
+									</tr>
+								
+									<tr data-movie-id="770803774">
+										<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">49%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+										<td class="middle_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Top Rentals" href="/m/1200731-robocop/"  class=""  sub="hover">RoboCop</a></td>
+									</tr>
+								
+									<tr data-movie-id="771356130">
+										<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">75%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+										<td class="middle_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Top Rentals" href="/m/lone_survivor/"  class=""  sub="hover">Lone Survivor</a></td>
+									</tr>
+								
+								<tr>
+									<td colspan="3" class="left_col"><a data-pageheader="Top Rentals - Show All" href="/dvd/top-rentals/">Show All...</a></td>
+								</tr>
+								<tr>
+									<td colspan="3" class="left_col"></td>
+								</tr>
+							</table>
+						</div>
+						<div class="subnav_items inlineBlock fl">
+							<h3>Coming Soon to DVD</h3>
+							<table class="movie_list">
+								
+									<tr data-movie-id="771355933">
+										<td class="media_block">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Coming Soon to DVD" href="/m/the_lunchbox/" title="The Lunchbox" class="media_block_image plm" >
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+    
+    
+        
+	     
+    	
+	    
+        
+    
+
+
+<img src="http://content9.flixster.com/movie/11/17/63/11176303_tmb.jpg" width="54" height="80" alt="" title=""  /> 
+
+											</a>
+											<div class="media_block_content">
+												<h2 class="bold block">
+													
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Coming Soon to DVD" href="/m/the_lunchbox/"  class=""  sub="hover">The Lunchbox</a>
+												</h2>
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">95%</span>
+				
+			
+		
+        
+		
+	
+	</span>
+												<div class="subtle small">
+													Irfan Khan, 
+													Nimrat Kaur
+													
+												</div>
+												<div class="subtle small">PG,1 hr. 45 min.</div>
+											</div></td>
+									</tr>
+								
+							</table>
+							<table class="movie_list">
+								
+									<tr data-movie-id="771363419">
+										<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">83%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+										<td class="middle_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Coming Soon to DVD" href="/m/afflicted_2013/"  class=""  sub="hover">Afflicted</a></td>
+									</tr>
+								
+									<tr data-movie-id="771355264">
+										<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">87%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+										<td class="middle_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Coming Soon to DVD" href="/m/like_father_like_son_2013/"  class=""  sub="hover">Like Father, Like Son</a></td>
+									</tr>
+								
+									<tr data-movie-id="771362049">
+										<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">83%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+										<td class="middle_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Coming Soon to DVD" href="/m/the_unknown_known/"  class=""  sub="hover">The Unknown Known</a></td>
+									</tr>
+								
+								<tr>
+									<td colspan="3" class="left_col"><a data-pageheader="Coming Soon to DVD - Show All" href="/dvd/upcoming">Show All...</a></td>
+								</tr>
+								<tr>
+									<td colspan="3" class="left_col"></td>
+								</tr>
+							</table>
+						</div>
+						<div class="subnav_items inlineBlock fl">
+							<h3>More</h3>
+							<ul class="subnav_items">
+								<li><a href="/dvd/netflix/" data-pageheader="Netflix Watch Instantly">Netflix Watch Instantly</a></li>
+								<li><a href="/dvd/current_releases/" data-pageheader="Current Releases">Current Releases</a></li>
+								<li><a href="/dvd/upcoming/" data-pageheader="Upcoming">Upcoming</a></li>
+								<li><a href="/dvd/certified_fresh/" data-pageheader="Certified Fresh">Certified Fresh</a></li>
+							</ul>
+						</div>
+					</li>
+				</ul>
+				<h2 class="menu_label">
+					<a href="/dvd/">DVD <span class="icon dropdown_arrows"></span></a><span class="crossover"></span>
+				</h2>
+			</li>
+			
+			<li class="no-js news">
+				<ul class="subnav">
+					<li>
+						<div class="subnav_items inlineBlock fl">
+							<h3>Guides</h3>
+							<table class="movie_list">
+								
+									
+										<tr>
+											<td class="media_block">
+													
+														<a href="/hub/summer-movie-guide-2014" data-pageheader="Guides" class="media_block_image plm"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="" alt="" src="http://content9.flixster.com/site/10/26/46/10264611_tmb.jpg" width="80" height="80"  />
+														</a>
+													
+												
+
+												<div class="media_block_content">
+													<h2 class="bold block">
+														<a href="/hub/summer-movie-guide-2014" data-pageheader="Guides">Summer Movie Guide 2014</a>
+													</h2>
+												</div></td>
+										</tr>
+									
+									
+										<tr>
+											<td class="media_block">
+												<div class="media_block_content">
+													<span class="block"><a href="/hub/awards-tour-2014" data-pageheader="Guides">Awards Tour 2014</a></span>
+												</div>
+											</td>
+										</tr>
+									
+										<tr>
+											<td class="media_block">
+												<div class="media_block_content">
+													<span class="block"><a href="/hub/holiday-guide-2013" data-pageheader="Guides">Holiday Guide 2013</a></span>
+												</div>
+											</td>
+										</tr>
+									
+										<tr>
+											<td class="media_block">
+												<div class="media_block_content">
+													<span class="block"><a href="/hub/scare-central" data-pageheader="Guides">Scare Central</a></span>
+												</div>
+											</td>
+										</tr>
+									
+								
+
+							</table>
+						</div>
+						<div class="subnav_items inlineBlock fl">
+							<h3>Featured on RT</h3>
+							<table class="movie_list">
+								
+									<tr>
+										<td class="media_block">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<a data-pageheader="Featured on RT" href="/m/rotten_tomatoes_podcast/news/1930836/rt_podcast_ep_024_-_transformers_age_of_extinction_the_leftovers/"    class="media_block_image plm">
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+    
+    
+        
+	     
+    	
+	    
+        
+    
+
+
+<img src="http://content6.flixster.com/movie/11/17/73/11177312_tmb.jpg" width="54" height="81" alt="" title=""  /> 
+
+												 
+											</a>
+	
+    	
+	
+
+
+											<div class="media_block_content">
+												<h2 class="bold block">
+													
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<a data-pageheader="Featured on RT" href="/m/rotten_tomatoes_podcast/news/1930836/rt_podcast_ep_024_-_transformers_age_of_extinction_the_leftovers/"    >RT Podcast: Ep. 024 - <em>Transformers: Age of Extinction</em>, <em>The Leftovers</em></a>
+	
+    	
+	
+
+
+												</h2>
+											</div></td>
+									</tr>
+								
+								
+									<tr>
+										<td class="media_block">
+											<div class="media_block_content">
+												<span class="block">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+    
+        
+        
+        <a data-pageheader="Featured on RT" href="/tv/the-walking-dead/news/1930810/tv_talk_walking_dead_writer_promises_a_ton_of_answers/"    >TV Talk: <em>Walking Dead</em> Writer Promises a 'Ton of Answers'</a>
+    	
+	
+
+</span>
+											</div>
+										</td>
+									</tr>
+								
+									<tr>
+										<td class="media_block">
+											<div class="media_block_content">
+												<span class="block">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+    
+        
+        
+        <a data-pageheader="Featured on RT" href="/tv/the-leftovers/news/1930832/picture_gallery_42_wtf_tv_shows/"    >Picture Gallery: 42 WTF TV Shows</a>
+    	
+	
+
+</span>
+											</div>
+										</td>
+									</tr>
+								
+									<tr>
+										<td class="media_block">
+											<div class="media_block_content">
+												<span class="block">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+    
+        
+        
+        <a data-pageheader="Featured on RT" href="/tv/ray-donovan/news/1930811/weekly_binge_ray_donovan/"    >Weekly Binge: <em>Ray Donovan</em></a>
+    	
+	
+
+</span>
+											</div>
+										</td>
+									</tr>
+								
+								<tr>
+									<td class="left_col"><a data-pageheader="Featured on RT - Show All" href="/features/">Show All...</a></td>
+								</tr>
+								<tr>
+									<td class="left_col"></td>
+								</tr>
+							</table>
+						</div>
+						<div class="subnav_items inlineBlock fl">
+							<h3>Best and Worst</h3>
+							<table class="movie_list">
+								
+									<tr>
+										<td class="media_block">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a data-pageheader="Best and Worst" href="/guides/summer-movie-scorecard-2014/" class="media_block_image">
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://content7.flixster.com/site/10/26/42/10264293_ori.jpg" style="border:0px;"    />
+											</a>
+											<div class="media_block_content">
+												<h2 class="bold block">
+													
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a data-pageheader="Best and Worst" href="/guides/summer-movie-scorecard-2014/" >Summer Movie Scorecard 2014</a>
+												</h2>
+											</div></td>
+									</tr>
+								
+								
+									<tr>
+										<td class="media_block">
+											<div class="media_block_content">
+												<span class="block">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a data-pageheader="Best and Worst" href="/guides/best_and_worst_best_pictures/" >Best and Worst Best Pictures</a></span>
+											</div>
+										</td>
+									</tr>
+								
+									<tr>
+										<td class="media_block">
+											<div class="media_block_content">
+												<span class="block">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a data-pageheader="Best and Worst" href="/guides/best_romantic_comedies/" >Best Romantic Comedies</a></span>
+											</div>
+										</td>
+									</tr>
+								
+									<tr>
+										<td class="media_block">
+											<div class="media_block_content">
+												<span class="block">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a data-pageheader="Best and Worst" href="/guides/best-christmas-movies/" >Best Christmas Movies</a></span>
+											</div>
+										</td>
+									</tr>
+								
+								<tr>
+									<td class="left_col"><a data-pageheader="Best and Worst - Show All" href="/guides/">Show All...</a></td>
+								</tr>
+								<tr>
+									<td class="left_col"></td>
+								</tr>
+							</table>
+						</div>
+						<div class="subnav_items inlineBlock fl">
+							<h3>Columns</h3>
+							<ul class="subnav_items">
+								<li><a href="/news/columns/24_frames" data-pageheader="24 Frames">24 Frames</a></li>
+								<li><a href="/news/columns/box_office" data-pageheader="Box Office Guru">Box Office Guru</a></li>
+								<li><a href="/news/columns/critics_consensus" data-pageheader="Critics Consensus">Critics Consensus</a></li>
+								<li><a href="/news/columns/five_favorite_films" data-pageheader="Five Favorite Films">Five Favorite Films</a></li>
+								<li><a href="/news/columns/now_streaming" data-pageheader="Now Streaming">Now Streaming</a></li>
+								<li><a href="/news/columns/parental_guidance" data-pageheader="Parental Guidance">Parental Guidance</a></li>
+								<li><a href="/news/columns/red_carpet_round_up" data-pageheader="Red Carpet Roundup">Red Carpet Roundup</a></li>
+								<li><a href="/news/columns/rotten_tomatoes_podcast" data-pageheader="Rotten Tomatoes Podcast">Rotten Tomatoes Podcast</a></li>
+								<li><a href="/news/columns/rt_on_dvd" data-pageheader="RT on DVD">RT on DVD</a></li>
+								<li><a href="/news/columns/total_recall" data-pageheader="Total Recall">Total Recall</a></li>
+								<li><a href="/news/columns/tv_talk" data-pageheader="TV Talk">TV Talk</a></li>
+								<li><a href="/news/columns/video_interviews" data-pageheader="Video Interviews">Video Interviews</a></li>
+								<li><a href="/news/columns/weekly_binge" data-pageheader="Weekly Binge">Weekly Binge</a></li>
+								<li><a href="/news/columns/weekly_ketchup" data-pageheader="Weekly Ketchup">Weekly Ketchup</a></li>
+							</ul>
+						</div>
+					</li>
+				</ul>
+				<h2 class="menu_label">
+					<a href="/news/">News <span class="icon dropdown_arrows"></span></a><span class="crossover"></span>
+				</h2>
+			</li>
+			<li class="no-js critics">
+				<ul class="subnav">
+					<li>
+						<div class="subnav_items inlineBlock fl">
+							<h3>Latest Movie Reviews</h3>
+							<table class="movie_list">
+								
+									
+										
+										
+											
+											
+												
+											
+											
+										
+										<tr data-movie-id="771269858">
+											<td class="media_block">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Latest Movie Reviews" href="/m/transformers_age_of_extinction/" title="Transformers: Age of Extinction" class="media_block_image plm" >
+													
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+    
+    
+        
+	     
+    	
+	    
+        
+    
+
+
+<img src="http://content9.flixster.com/movie/11/17/81/11178175_tmb.png" width="52" height="81" alt="" title=""  /> 
+
+												</a>
+												<div class="media_block_content">
+													<h2 class="bold block nowrap">
+														
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Latest Movie Reviews" href="/m/transformers_age_of_extinction/"  class=""  sub="hover">Transformers: Age of Extinction</a>
+													</h2>
+													<div class="quote_contents media_block mbs">
+														<div class="media_block_image icon tiny rotten">
+															
+														</div>
+														<div class="media_block_content">
+															<span class="block">Andrea Chase</span>
+															<div class="subtle italic">Killer Movie Reviews</div>
+														</div>
+													</div>
+													<span class="subtle small">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+	
+		The ploy Bay has used, unsuccessfully, is that as the story becomes more and more stupid,...
+	
+
+
+</span>
+												</div></td>
+										</tr>
+									
+								
+
+							</table>
+							<table class="movie_list">
+								
+									
+										
+										
+											
+												
+											
+											
+											
+										
+										<tr data-movie-id="771339986">
+											<td>
+												<div class="quote_contents media_block">
+													<div class="media_block_image icon tiny fresh">
+														
+													</div>
+													<div class="media_block_content nowrap">
+														<span class="block">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Latest Movie Reviews" href="/m/snowpiercer/"  class=""  sub="hover">Snowpiercer</a></span> <span>Devin Faraci</span>, <span
+															class="subtle italic">Badass Digest</span>
+													</div>
+												</div>
+											</td>
+										</tr>
+									
+										
+										
+											
+												
+											
+											
+											
+										
+										<tr data-movie-id="771362035">
+											<td>
+												<div class="quote_contents media_block">
+													<div class="media_block_image icon tiny fresh">
+														
+													</div>
+													<div class="media_block_content nowrap">
+														<span class="block">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Latest Movie Reviews" href="/m/begin_again_2013/"  class=""  sub="hover">Begin Again</a></span> <span>Fred Topel</span>, <span
+															class="subtle italic">CraveOnline</span>
+													</div>
+												</div>
+											</td>
+										</tr>
+									
+								
+
+								<tr>
+									<td></td>
+								</tr>
+							</table>
+						</div>
+						<div class="subnav_items inlineBlock fl">
+							<h3>Latest DVD Reviews</h3>
+							<table class="movie_list">
+								
+									
+										
+										
+											
+												
+											
+											
+											
+										
+										<tr data-movie-id="771363451">
+											<td class="media_block">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Latest DVD Reviews" href="/m/enemy_2013/" title="Enemy" class="media_block_image plm" >
+													
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+    
+    
+        
+	     
+    	
+	    
+        
+    
+
+
+<img src="http://content7.flixster.com/movie/11/17/87/11178749_tmb.jpg" width="54" height="81" alt="" title=""  /> 
+
+												</a>
+												<div class="media_block_content">
+													<h2 class="bold block nowrap">
+														
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Latest DVD Reviews" href="/m/enemy_2013/"  class=""  sub="hover">Enemy</a>
+													</h2>
+													<div class="quote_contents media_block mbs">
+														<div class="media_block_image icon tiny fresh">
+															
+														</div>
+														<div class="media_block_content">
+															<span class="block">Blake Howard</span>
+															<div class="subtle italic">2UE That Movie Show</div>
+														</div>
+													</div>
+													<span class="subtle small">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+	
+		In one of the most striking and perplexing final scenes of a film in recent memory,...
+	
+
+
+</span>
+												</div></td>
+										</tr>
+									
+								
+
+							</table>
+							<table class="movie_list">
+								
+									
+										
+										
+											
+												
+											
+											
+											
+										
+										<tr data-movie-id="771363583">
+											<td>
+												<div class="quote_contents media_block">
+													<div class="media_block_image icon tiny fresh">
+														
+													</div>
+													<div class="media_block_content nowrap">
+														<span class="block">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Latest DVD Reviews" href="/m/wolf_creek_2/"  class=""  sub="hover">Wolf Creek 2</a></span> <span>Dustin Putman</span>, <span
+															class="subtle italic">DustinPutman.com</span>
+													</div>
+												</div>
+											</td>
+										</tr>
+									
+										
+										
+											
+											
+												
+											
+											
+										
+										<tr data-movie-id="771362775">
+											<td>
+												<div class="quote_contents media_block">
+													<div class="media_block_image icon tiny rotten">
+														
+													</div>
+													<div class="media_block_content nowrap">
+														<span class="block">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="Latest DVD Reviews" href="/m/winters_tale_2014/"  class=""  sub="hover">Winter's Tale</a></span> <span>Mike McGranaghan</span>, <span
+															class="subtle italic">Aisle Seat</span>
+													</div>
+												</div>
+											</td>
+										</tr>
+									
+								
+
+								<tr>
+									<td></td>
+								</tr>
+							</table>
+						</div>
+						<div class="subnav_items inlineBlock fl">
+							<h3>Latest TV Reviews</h3>
+							<table class="movie_list">
+								
+									
+										
+										
+										
+											
+												
+											
+											
+											
+										
+										<tr>
+											<td class="media_block">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<a data-pageheader="Latest TV Reviews" href="/tv/power/"  class="media_block_image plm">
+													
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <img src="http://content8.flixster.com/tv/10/86/108686_tmb.jpg" alt="Power: Season 1"  />
+    
+    
+
+
+												</a>
+	
+
+
+												<div class="media_block_content">
+													<h2 class="bold block nowrap">
+														
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<a data-pageheader="Latest TV Reviews" href="/tv/power/" >Power: Season 1</a>
+	
+
+
+													</h2>
+													<div class="quote_contents media_block mbs">
+														<div class="media_block_image icon tiny fresh">
+															
+														</div>
+														<div class="media_block_content">
+															<span class="block">Joyce Slaton</span>
+															<div class="subtle italic">Common Sense Media</div>
+														</div>
+													</div>
+													<span class="subtle small">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+	
+		Twisty drama has too much sex, drugs, violence for teens.
+	
+
+
+</span>
+												</div></td>
+										</tr>
+									
+								
+
+							</table>
+							<table class="movie_list">
+								
+									
+										
+										
+										
+											
+												
+											
+											
+											
+										
+										<tr>
+											<td>
+												<div class="quote_contents media_block">
+													<div class="media_block_image icon tiny fresh">
+														
+													</div>
+													<div class="media_block_content nowrap">
+														<span class="block">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<a data-pageheader="Latest TV Reviews" href="/tv/the-assets/" >The Assets: Season 1</a>
+	
+
+</span> <span>Dorothy Rabinowitz</span>,
+														<span class="subtle italic">Wall Street Journal</span>
+													</div>
+												</div>
+											</td>
+										</tr>
+									
+								
+
+							</table>
+						</div>
+						<div class="subnav_items inlineBlock fl">
+							<h3>More</h3>
+							<ul class="subnav_items">
+								<li><a href="/critics/authors" data-pageheader="Critics List">Critics List</a></li>
+								<li><a href="/critics/sources" data-pageheader="Publications List">Publications List</a></li>
+								
+								<li><a href="/help_desk/critics" data-pageheader="Become a Critic">Become a Critic</a></li>
+							</ul>
+						</div>
+					</li>
+				</ul>
+				<h2 class="menu_label">
+					<a href="/critics/">Critics <span class="icon dropdown_arrows"></span></a><span class="crossover"></span>
+				</h2>
+			</li>
+		</ul>
+	
+			
+		
+	
+	
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="searchBar">
+    <form style="position:relative;" id="searchformnew" name="searchformnew" method="get" action="/search/">
+        <fieldset comp="Autocomplete" tabindex="-1">
+            <div class="searchBox" sub="searchBox">
+            	<input sub="input" type="text" name="search" placeholder="Search Movies, TV, Actors..." id="mini_searchbox" name="search" gtbfieldid="27" autocomplete="off" />
+            	<button sub="submitbutton" type="submit"><span class="icon magnify"></span></button>
+            </div>
+            <ul sub="result" class="autocomplete subnav"></ul>
+            <input type="hidden" value="rt" name="sitesearch"/>
+        </fieldset>
+    </form>
+    <div id="searchBar_right"></div>
+</div>
+
+	
+	<div id="top_header_bar" class="clearfix fr">
+		
+		
+		<div id="wtsBar"></div>				
+
+		<div id="header-login-block" class="clearfix" style="display: none;">
+			<a id="header-login-link" href="/login/" style="margin-right: 10px;">RT Login</a> <a class="fb_button fb_button_medium rt_fblogin" href="javascript:void(0);"><span class="fb_button_text">Log In</span></a>
+		</div>
+
+		<ul id="header-user-dropdown" class="secondary_nav clearfix drop_menu" style="display:none;">
+			<li class="no-js user">
+				<ul class="subnav media_block">
+					<li class="media_block_content subnav_items">
+						<ul>
+							<li><a id="header-profile-link" href="#">Profile</a></li>
+							<li><a id="header-community-link" href="/community/">Community</a></li>
+							<li><a id="header-account-link" href="#">Account</a></li>
+							<li><a id="header-existing-link" href="/logout/">Existing RT Member?</a></li>
+							<li><a id="header-logout-link" href="/logout/">Logout</a></li>
+						</ul></li>
+				</ul>
+				<div class="menu_label clearfix">
+					<a id="header-user-link" href="#"> <img class="user-icon" src="" width="27" height="27" /> <span class="icon dropdown_arrows"></span>
+					</a> <span class="crossover"></span>
+				</div>
+			</li>
+		</ul>
+	</div>
+</div>
+</div>
+
+	
+	<script>console.info("body pageHeader:" + window.performance.now());</script>
+	
+	
+
+        
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+	
+
+
+    
+	<div class="center" style="width:970px;margin:0px auto;">
+	    <script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&affiliateId=1002516552&adSize=970x66"></script>
+	</div>
+
+
+
+<div class="body_main container " >
+	
+	
+	
+			<div class="col col_267 col_first">
+
+                <div id="homepageSidebar">
+					             
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+ 
+
+
+
+
+
+
+	
+		
+			
+			
+				    
+					    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content_box "  id="movies_sidebar" style="padding:0 0 10px 0;">
+	<div class="content_header clearfix">
+		
+			
+			
+				<h3>Movies</h3>	
+			
+		
+		
+		
+	</div>
+	<div class="content_body clearfix">
+		
+    
+    
+        
+		<h4>Opening</h4>
+		<table class="movie_list opening">
+			
+				<tr class="sidebarInTheaterOpening"  data-movie-id="771269858">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">17%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/transformers_age_of_extinction/"  class=""  sub="hover">Transformers: Age of Extinction</a></td>
+					<td class="right_col right">27/6</td>
+				</tr>
+			
+				<tr class="sidebarInTheaterOpening"  data-movie-id="771339986">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">93%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/snowpiercer/"  class=""  sub="hover">Snowpiercer</a></td>
+					<td class="right_col right">27/6</td>
+				</tr>
+			
+				<tr class="sidebarInTheaterOpening"  data-movie-id="771362035">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">73%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/begin_again_2013/"  class=""  sub="hover">Begin Again</a></td>
+					<td class="right_col right">27/6</td>
+				</tr>
+			
+				<tr class="sidebarInTheaterOpening"  data-movie-id="771307421">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">69%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/they_came_together/"  class=""  sub="hover">They Came Together</a></td>
+					<td class="right_col right">27/6</td>
+				</tr>
+			
+				<tr class="sidebarInTheaterOpening"  data-movie-id="771372109">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">45%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/yves_saint_laurent/"  class=""  sub="hover">Yves Saint Laurent</a></td>
+					<td class="right_col right">25/6</td>
+				</tr>
+			
+				<tr class="sidebarInTheaterOpening" style="display:none;" data-movie-id="771219921">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">95%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/archipelago/"  class=""  sub="hover">Archipelago</a></td>
+					<td class="right_col right">27/6</td>
+				</tr>
+			
+				<tr class="sidebarInTheaterOpening" style="display:none;" data-movie-id="771372023">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">90%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/the_internets_own_boy_the_story_of_aaron_swartz/"  class=""  sub="hover">The Internet's Own Boy: The Story of Aaron Swartz</a></td>
+					<td class="right_col right">27/6</td>
+				</tr>
+			
+				<tr class="sidebarInTheaterOpening" style="display:none;" data-movie-id="771356571">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">47%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/postman_pat_the_movie/"  class=""  sub="hover">Postman Pat: The Movie</a></td>
+					<td class="right_col right">27/6</td>
+				</tr>
+			
+				<tr class="sidebarInTheaterOpening" style="display:none;" data-movie-id="771371775">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">69%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/whitey_united_states_of_america_v_james_j_bulger/"  class=""  sub="hover">Whitey: United States of America v. James J. Bulger</a></td>
+					<td class="right_col right">27/6</td>
+				</tr>
+			
+				<tr class="sidebarInTheaterOpening" style="display:none;" data-movie-id="771217675">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">17%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/radio_free_albemuth_2011/"  class=""  sub="hover">Radio Free Albemuth</a></td>
+					<td class="right_col right">27/6</td>
+				</tr>
+			
+		</table>
+		<div class="movie-list-more openingShortMore">
+			<a href="javascript:void(0)" onclick="$('.sidebarInTheaterOpening').show(); $('.movie-list-more.openingMore').show(); $('.movie-list-more.openingShortMore').hide();">Show More</a>
+		</div>
+		<div class="movie-list-more openingMore" style="display: none;">
+			<a href="/movie/in-theaters/">Show All</a>
+		</div>
+		<div style="margin: 0px 8px;">
+			
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="box_office_buzz_ad">
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+<script type='text/javascript'>
+RT.ads.push("box_office_buzz_ad");
+googletag.cmd.push(function() {
+	
+	
+	
+	var slot=googletag.defineSlot('/6327/rt.home/box_office_buzz', [[250,40]], 'box_office_buzz_ad')
+	
+	
+		.addService(googletag.pubads())
+	
+	
+		.setTargeting("unit", "box_office_buzz")	
+	
+	
+	
+			
+        .setCollapseEmptyDiv(true, true)
+        ;
+        
+    
+});
+</script>
+
+
+
+
+
+
+
+
+
+</div>
+
+			
+		</div>
+		
+		
+	       
+	       
+		
+		<h4>Top Box Office</h4>
+		<table class="movie_list top_box_office">
+			
+ 				<tr class="sidebarInTheaterTopBoxOffice"  data-movie-id="771358910">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">24%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/think_like_a_man_too/"  class=""  sub="hover">Think Like a Man Too</a>
+					</td>
+					<td class="right_col right">
+						
+							
+							$29.2M
+						
+					</td>
+				</tr>
+			
+ 				<tr class="sidebarInTheaterTopBoxOffice"  data-movie-id="771355226">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">85%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/22_jump_street/"  class=""  sub="hover">22 Jump Street</a>
+					</td>
+					<td class="right_col right">
+						
+							
+							$27.5M
+						
+					</td>
+				</tr>
+			
+ 				<tr class="sidebarInTheaterTopBoxOffice"  data-movie-id="771040382">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">91%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/how_to_train_your_dragon_2/"  class=""  sub="hover">How to Train Your Dragon 2</a>
+					</td>
+					<td class="right_col right">
+						
+							
+							$24.7M
+						
+					</td>
+				</tr>
+			
+ 				<tr class="sidebarInTheaterTopBoxOffice"  data-movie-id="771361033">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">53%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/jersey_boys/"  class=""  sub="hover">Jersey Boys</a>
+					</td>
+					<td class="right_col right">
+						
+							
+							$13.3M
+						
+					</td>
+				</tr>
+			
+ 				<tr class="sidebarInTheaterTopBoxOffice"  data-movie-id="771304593">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">50%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/maleficent_2014/"  class=""  sub="hover">Maleficent</a>
+					</td>
+					<td class="right_col right">
+						
+							
+							$12.9M
+						
+					</td>
+				</tr>
+			
+ 				<tr class="sidebarInTheaterTopBoxOffice"  data-movie-id="771317257">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">90%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/edge_of_tomorrow/"  class=""  sub="hover">Edge of Tomorrow</a>
+					</td>
+					<td class="right_col right">
+						
+							
+							$9.8M
+						
+					</td>
+				</tr>
+			
+ 				<tr class="sidebarInTheaterTopBoxOffice"  data-movie-id="771365948">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">80%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/the_fault_in_our_stars/"  class=""  sub="hover">The Fault In Our Stars</a>
+					</td>
+					<td class="right_col right">
+						
+							
+							$8.6M
+						
+					</td>
+				</tr>
+			
+ 				<tr class="sidebarInTheaterTopBoxOffice"  data-movie-id="771308692">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">92%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/x_men_days_of_future_past/"  class=""  sub="hover">X-Men: Days of Future Past</a>
+					</td>
+					<td class="right_col right">
+						
+							
+							$6.2M
+						
+					</td>
+				</tr>
+			
+ 				<tr class="sidebarInTheaterTopBoxOffice"  data-movie-id="771225175">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">73%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/godzilla_2014/"  class=""  sub="hover">Godzilla</a>
+					</td>
+					<td class="right_col right">
+						
+							
+							$1.9M
+						
+					</td>
+				</tr>
+			
+ 				<tr class="sidebarInTheaterTopBoxOffice"  data-movie-id="771357104">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">87%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/chef_2014/"  class=""  sub="hover">Chef</a>
+					</td>
+					<td class="right_col right">
+						
+							
+							$1.7M
+						
+					</td>
+				</tr>
+			
+ 				<tr class="sidebarInTheaterTopBoxOffice" style="display:none;" data-movie-id="771350283">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">33%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/a_million_ways_to_die_in_the_west/"  class=""  sub="hover">A Million Ways to Die in the West</a>
+					</td>
+					<td class="right_col right">
+						
+							
+							$1.6M
+						
+					</td>
+				</tr>
+			
+ 				<tr class="sidebarInTheaterTopBoxOffice" style="display:none;" data-movie-id="771308254">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">73%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/neighbors_2014/"  class=""  sub="hover">Neighbors</a>
+					</td>
+					<td class="right_col right">
+						
+							
+							$1.4M
+						
+					</td>
+				</tr>
+			
+ 				<tr class="sidebarInTheaterTopBoxOffice" style="display:none;" data-movie-id="771377343">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">14%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/blended/"  class=""  sub="hover">Blended</a>
+					</td>
+					<td class="right_col right">
+						
+							
+							$1.0M
+						
+					</td>
+				</tr>
+			
+ 				<tr class="sidebarInTheaterTopBoxOffice" style="display:none;" data-movie-id="771249926">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">53%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/the_amazing_spider_man_2/"  class=""  sub="hover">The Amazing Spider-Man 2</a>
+					</td>
+					<td class="right_col right">
+						
+							
+							$0.6M
+						
+					</td>
+				</tr>
+			
+ 				<tr class="sidebarInTheaterTopBoxOffice" style="display:none;" data-movie-id="771357481">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">61%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/million_dollar_arm/"  class=""  sub="hover">Million Dollar Arm</a>
+					</td>
+					<td class="right_col right">
+						
+							
+							$0.5M
+						
+					</td>
+				</tr>
+			
+ 				<tr class="sidebarInTheaterTopBoxOffice" style="display:none;" data-movie-id="771312867">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">65%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/the_rover/"  class=""  sub="hover">The Rover</a>
+					</td>
+					<td class="right_col right">
+						
+							
+							$0.5M
+						
+					</td>
+				</tr>
+			
+ 				<tr class="sidebarInTheaterTopBoxOffice" style="display:none;" data-movie-id="771305205">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">47%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/rio_2/"  class=""  sub="hover">Rio 2</a>
+					</td>
+					<td class="right_col right">
+						
+							
+							$0.4M
+						
+					</td>
+				</tr>
+			
+ 				<tr class="sidebarInTheaterTopBoxOffice" style="display:none;" data-movie-id="771361103">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">83%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/belle_2014/"  class=""  sub="hover">Belle</a>
+					</td>
+					<td class="right_col right">
+						
+							
+							$0.3M
+						
+					</td>
+				</tr>
+			
+ 				<tr class="sidebarInTheaterTopBoxOffice" style="display:none;" data-movie-id="771315918">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">41%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/divergent/"  class=""  sub="hover">Divergent</a>
+					</td>
+					<td class="right_col right">
+						
+							
+							$0.3M
+						
+					</td>
+				</tr>
+			
+ 				<tr class="sidebarInTheaterTopBoxOffice" style="display:none;" data-movie-id="771362047">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">94%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/ida_2013/"  class=""  sub="hover">Ida</a>
+					</td>
+					<td class="right_col right">
+						
+							
+							$0.3M
+						
+					</td>
+				</tr>
+			
+		</table>
+		<div class="movie-list-more topBoxOfficeShortMore">
+			<a href="javascript:void(0)" onclick="$('.sidebarInTheaterTopBoxOffice').show(); $('.movie-list-more.topBoxOfficeMore').show(); $('.movie-list-more.topBoxOfficeShortMore').hide();">Show More</a>
+		</div>
+		<div class="movie-list-more topBoxOfficeMore" style="display: none;">
+			<a href="/movie/box-office/">Show All</a>
+		</div>
+		<h4>Coming Soon</h4>
+		<table class="movie_list comingSoon">
+			
+				<tr class="sidebarInTheaterComingSoon"  data-movie-id="771355411">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+        
+		<span class="greyline right">&mdash;&mdash;</span>
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/tammy_2014/"  class=""  sub="hover">Tammy</a></td>
+					<td class="right_col right">02/7</td>
+				</tr>
+			
+				<tr class="sidebarInTheaterComingSoon"  data-movie-id="771356653">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">60%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/earth_to_echo/"  class=""  sub="hover">Earth to Echo</a></td>
+					<td class="right_col right">02/7</td>
+				</tr>
+			
+				<tr class="sidebarInTheaterComingSoon"  data-movie-id="771371567">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+        
+		<span class="greyline right">&mdash;&mdash;</span>
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/deliver_us_from_evil_2014/"  class=""  sub="hover">Deliver Us from Evil</a></td>
+					<td class="right_col right">02/7</td>
+				</tr>
+			
+				<tr class="sidebarInTheaterComingSoon"  data-movie-id="771308675">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">80%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/dawn_of_the_planet_of_the_apes/"  class=""  sub="hover">Dawn Of The Planet Of The Apes</a></td>
+					<td class="right_col right">11/7</td>
+				</tr>
+			
+				<tr class="sidebarInTheaterComingSoon"  data-movie-id="771358674">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+        
+		<span class="greyline right">&mdash;&mdash;</span>
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/the_purge_anarchy_2014/"  class=""  sub="hover">The Purge: Anarchy</a></td>
+					<td class="right_col right">18/7</td>
+				</tr>
+			
+				<tr class="sidebarInTheaterComingSoon" style="display:none;" data-movie-id="771355227">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+        
+		<span class="greyline right">&mdash;&mdash;</span>
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/sex_tape_2014/"  class=""  sub="hover">Sex Tape</a></td>
+					<td class="right_col right">18/7</td>
+				</tr>
+			
+				<tr class="sidebarInTheaterComingSoon" style="display:none;" data-movie-id="771324950">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+        
+		<span class="greyline right">&mdash;&mdash;</span>
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/hercules_the_thracian_wars/"  class=""  sub="hover">Hercules</a></td>
+					<td class="right_col right">25/7</td>
+				</tr>
+			
+				<tr class="sidebarInTheaterComingSoon" style="display:none;" data-movie-id="771360863">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+        
+		<span class="greyline right">&mdash;&mdash;</span>
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/lucy_2014/"  class=""  sub="hover">Lucy</a></td>
+					<td class="right_col right">25/7</td>
+				</tr>
+			
+				<tr class="sidebarInTheaterComingSoon" style="display:none;" data-movie-id="771311818">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+        
+		<span class="greyline right">&mdash;&mdash;</span>
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/guardians_of_the_galaxy/"  class=""  sub="hover">Guardians of the Galaxy</a></td>
+					<td class="right_col right">01/8</td>
+				</tr>
+			
+				<tr class="sidebarInTheaterComingSoon" style="display:none;" data-movie-id="771191433">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+        
+		<span class="greyline right">&mdash;&mdash;</span>
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/teenage_mutant_ninja_turtles_2013/"  class=""  sub="hover">Teenage Mutant Ninja Turtles</a></td>
+					<td class="right_col right">08/8</td>
+				</tr>
+			
+				<tr class="sidebarInTheaterComingSoon" style="display:none;" data-movie-id="771371934">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+        
+		<span class="greyline right">&mdash;&mdash;</span>
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/step_up_all_in/"  class=""  sub="hover">Step Up: All In</a></td>
+					<td class="right_col right">08/8</td>
+				</tr>
+			
+				<tr class="sidebarInTheaterComingSoon" style="display:none;" data-movie-id="771320888">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+        
+		<span class="greyline right">&mdash;&mdash;</span>
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/the_expendables_3/"  class=""  sub="hover">The Expendables 3</a></td>
+					<td class="right_col right">15/8</td>
+				</tr>
+			
+				<tr class="sidebarInTheaterComingSoon" style="display:none;" data-movie-id="771365263">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+        
+		<span class="greyline right">&mdash;&mdash;</span>
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/the_giver/"  class=""  sub="hover">The Giver</a></td>
+					<td class="right_col right">15/8</td>
+				</tr>
+			
+				<tr class="sidebarInTheaterComingSoon" style="display:none;" data-movie-id="686049251">
+					<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+        
+		<span class="greyline right">&mdash;&mdash;</span>
+	
+	</span></td>
+					<td class="middle_col"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/sin_city_a_dame_to_kill_for/"  class=""  sub="hover">Sin City: A Dame to Kill For</a></td>
+					<td class="right_col right">22/8</td>
+				</tr>
+			
+		</table>
+		<div class="movie-list-more comingSoonShortMore">
+			<a href="javascript:void(0)" onclick="$('tr.sidebarInTheaterComingSoon').show(); $('.movie-list-more.comingSoonMore').show(); $('.movie-list-more.comingSoonShortMore').hide();">Show More</a>
+		</div>
+		<div class="movie-list-more comingSoonMore" style="display: none;">
+			<a href="/movie/upcoming/">Show All</a>
+		</div>
+    
+
+
+	
+		
+
+    <h4>Top Rentals</h4>
+    
+    	
+	<table class="movie_list top_rentals">
+	
+	
+	    <tr data-movie-id="771249085">                   
+	       <td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">41%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+	       <td class="middle_col">
+	            
+	            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/300_rise_of_an_empire/"  class=""  sub="hover">300: Rise of an Empire</a>
+	       </td>
+	    </tr>               
+	
+	    <tr data-movie-id="771305753">                   
+	       <td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">96%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+	       <td class="middle_col">
+	            
+	            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/the_lego_movie/"  class=""  sub="hover">The LEGO Movie</a>
+	       </td>
+	    </tr>               
+	
+	    <tr data-movie-id="770803774">                   
+	       <td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">49%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+	       <td class="middle_col">
+	            
+	            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/1200731-robocop/"  class=""  sub="hover">RoboCop</a>
+	       </td>
+	    </tr>               
+	
+	    <tr data-movie-id="771356130">                   
+	       <td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">75%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+	       <td class="middle_col">
+	            
+	            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/lone_survivor/"  class=""  sub="hover">Lone Survivor</a>
+	       </td>
+	    </tr>               
+	
+	    <tr data-movie-id="771356295">                   
+	       <td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">94%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+	       <td class="middle_col">
+	            
+	            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/her/"  class=""  sub="hover">Her</a>
+	       </td>
+	    </tr>               
+	
+	    <tr data-movie-id="771323155">                   
+	       <td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">32%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+	       <td class="middle_col">
+	            
+	            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/the_monuments_men/"  class=""  sub="hover">The Monuments Men</a>
+	       </td>
+	    </tr>               
+	
+	    <tr data-movie-id="771312437">                   
+	       <td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">92%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+	       <td class="middle_col">
+	            
+	            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/the_grand_budapest_hotel/"  class=""  sub="hover">The Grand Budapest Hotel</a>
+	       </td>
+	    </tr>               
+	
+	    <tr data-movie-id="771304322">                   
+	       <td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">59%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+	       <td class="middle_col">
+	            
+	            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/non_stop_2013/"  class=""  sub="hover">Non-Stop</a>
+	       </td>
+	    </tr>               
+	
+	    <tr data-movie-id="771314857">                   
+	       <td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">55%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+	       <td class="middle_col">
+	            
+	            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/jack_ryan_shadow_recruit/"  class=""  sub="hover">Jack Ryan: Shadow Recruit</a>
+	       </td>
+	    </tr>               
+	
+	    <tr data-movie-id="771257268">                   
+	       <td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">4%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+	       <td class="middle_col">
+	            
+	            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/i_frankenstein/"  class=""  sub="hover">I, Frankenstein</a>
+	       </td>
+	    </tr>               
+	
+	    <tr data-movie-id="771242147">                   
+	       <td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">28%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+	       <td class="middle_col">
+	            
+	            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/pompeii_2013/"  class=""  sub="hover">Pompeii</a>
+	       </td>
+	    </tr>               
+	
+	    <tr data-movie-id="771366740">                   
+	       <td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">21%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+	       <td class="middle_col">
+	            
+	            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/son_of_god_2014/"  class=""  sub="hover">Son Of God</a>
+	       </td>
+	    </tr>               
+	
+	
+	</table>
+    <div class="movie-list-more"><a href="/dvd/top-rentals/">Show All</a></div>    
+    
+    
+     
+
+	
+	<script class="hoverBubbleTmpl" type="text/html">
+            <!-- Activate Rating Widget -->
+<div class="bubbleContent">
+      <div class="media_block">
+          <img class="media_block_image" src="{{ thumbnail }}" />
+          <div class="media_block_content">
+              <div class="title">{{ title }}</div>
+              <div class="cast">
+              {% $.each(cast, function(idx, val){ %}
+                  <span>{{ val.name }}</span>{{ idx < cast.length -1 ? "," : "" }} 
+              {% }); %}               
+              </div>               
+              {% if(type == 'movie') { %}
+              <div class="mpaa">{{ mpaa }}, {{ runtime }}</div>              
+              <div class="mpaa"><a href="{{ url }}trailer/" class="trailer_play_action_button">Trailer</a> - <a href="{{ url }}movie_times/">Showtimes</a></div>
+              {% } %}
+          </div>
+      </div>
+      <div class="synopsis">{{ synopsis }}</div>
+      
+	<div class="rating_widget facebook_manager" data-media-id="{{ id }}" data-type="{{ type }}" data-location="Hoverbubble" data-facepile="true" data-hide-wtsni="true">		    
+	    <div class="media_block_content">
+	        <div class="rating_buttons">
+	            <input type="button" value="+" class="wts clear" /><input type="button" value="-" class="ni clear" />
+	            <span class="socialMsg fr like_status small subtle" style="display:none;"></span>   
+	            <a href="javascript:void(0);" class="fb_button true" style="display:none;"></a> 
+	        </div>
+	        <div class="facepile"></div>
+	    </div>
+	</div>        
+</div>
+
+
+	</script>
+
+	</div>
+	<div class="content_footer clearfix">
+		
+	</div>
+</div>
+
+
+
+	                
+			
+		
+	
+	
+
+
+	                
+	                
+	                
+			    </div>
+			    
+			    
+				
+				
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			</div>
+						
+			<div class="col col_423"> 
+				
+					
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+ 
+
+
+
+
+
+
+	
+		
+			
+			
+									
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content_box "  id="carousel-layout-box">
+	<div class="content_header clearfix">
+		
+			
+			
+					
+			
+		
+		
+		
+	</div>
+	<div class="content_body clearfix">
+		
+	<div class="carousel-outer-wrapper">
+		<div class="carousel-wrapper">				
+			<div class="carousel" >
+			<ul>
+			
+			<li>
+				<a href="http://www.rottentomatoes.com/gallery/42-wtf-television-mysteries/" >
+					<span class="poster_box" style="background-image: url('http://content7.flixster.com/site/10/26/49/10264965_ori.jpg')">						
+						<span class="poster_caption">
+							<h3>42 WTF TV Shows</h3>
+							<p>A picture gallery of TV shows with insane overarching mysteries that kept us hooked. </p>
+						</span>
+					</span>
+				</a>
+			</li>
+			
+			<li>
+				<a href="http://www.rottentomatoes.com/gallery/red-carpet-roundup-mark-wahlberg-nicola-peltz-tilda-swinton/" >
+					<span class="poster_box" style="background-image: url('http://content9.flixster.com/site/10/26/49/10264967_ori.jpg')">						
+						<span class="poster_caption">
+							<h3>Red Carpet Roundup</h3>
+							<p>See red carpet pictures for <eM>Transformers: Age of Extinction</em> and <em>Snowpiercer</em>!</p>
+						</span>
+					</span>
+				</a>
+			</li>
+			
+			<li>
+				<a href="/m/transformers_age_of_extinction/news/1920412/mark_wahlbergs_10_best_movies/" >
+					<span class="poster_box" style="background-image: url('http://content9.flixster.com/site/10/26/49/10264955_ori.jpg')">						
+						<span class="poster_caption">
+							<h3>Mark Wahlberg's 10 Best Movies</h3>
+							<p>In this week's Total Recall, we count down the best-reviewed work of the <em>Transformers: Age of Extinction</em> star.</p>
+						</span>
+					</span>
+				</a>
+			</li>
+			
+			<li>
+				<a href="/news/1930811/weekly_binge_ray_donovan/" >
+					<span class="poster_box" style="background-image: url('http://content9.flixster.com/site/10/26/49/10264951_ori.jpg')">						
+						<span class="poster_caption">
+							<h3>Weekly Binge: <em>Ray Donovan</em></h3>
+							<p>Here's what you need to know before you get acquainted with Showtime's professional "fixer."</p>
+						</span>
+					</span>
+				</a>
+			</li>
+			
+			<li>
+				<a href="http://www.rottentomatoes.com/gallery/24-frames-certified-fresh-sci-fi-action-movies/" >
+					<span class="poster_box" style="background-image: url('http://content7.flixster.com/site/10/26/49/10264937_ori.jpg')">						
+						<span class="poster_caption">
+							<h3>24 Frames: Certified Fresh Sci-Fi Action</h3>
+							<p>Set your peepers to 'stun' with this gallery of acclaimed science fiction action movies.</p>
+						</span>
+					</span>
+				</a>
+			</li>
+			
+			<li>
+				<a href="http://www.rottentomatoes.com/m/fury_2015/trailers/" >
+					<span class="poster_box" style="background-image: url('http://content7.flixster.com/site/10/26/49/10264945_ori.jpg')">						
+						<span class="poster_caption">
+							<h3>War Never Ends Quietly</h3>
+							<p>Brad Pitt commands an ensemble World War II cast in the <eM>Fury</eM> trailer.</p>
+						</span>
+					</span>
+				</a>
+			</li>
+			
+			<li>
+				<a href="http://www.rottentomatoes.com/hub/summer-movie-guide-2014/" >
+					<span class="poster_box" style="background-image: url('http://content7.flixster.com/site/10/26/45/10264525_ori.jpg')">						
+						<span class="poster_caption">
+							<h3>Summer Movie Guide!</h3>
+							<p>The Summer Guide is your place for blockbuster news, reviews, galleries, and features!</p>
+						</span>
+					</span>
+				</a>
+			</li>
+			
+			<li>
+				<a href="http://www.rottentomatoes.com/m/teenage_mutant_ninja_turtles_2013/trailers/" >
+					<span class="poster_box" style="background-image: url('http://content6.flixster.com/site/10/26/49/10264932_ori.jpg')">						
+						<span class="poster_caption">
+							<h3><em>Teenage Mutant Ninja</em> Trailer</h3>
+							<p>Our heroes in a half shell battle Shredder in the latest <eM>Teenage Mutant Ninja Turtles</em> trailer!</p>
+						</span>
+					</span>
+				</a>
+			</li>
+			
+			<li>
+				<a href="http://www.rottentomatoes.com/hub/tv-zone/" >
+					<span class="poster_box" style="background-image: url('http://content9.flixster.com/site/10/26/39/10263987_ori.jpg')">						
+						<span class="poster_caption">
+							<h3>Rotten Tomatoes on TV</h3>
+							<p>Reviews, pictures, and original features on primetime television.</p>
+						</span>
+					</span>
+				</a>
+			</li>
+			
+			<li>
+				<a href="http://www.rottentomatoes.com/features/newsletter/" >
+					<span class="poster_box" style="background-image: url('http://content9.flixster.com/site/10/26/49/10264915_ori.jpg')">						
+						<span class="poster_caption">
+							<h3>Rotten Tomatoes For Your Inbox</h3>
+							<p>Subscribe to our email newsletter for weekly Tomatometers and original features.</p>
+						</span>
+					</span>
+				</a>
+			</li>
+			
+			</ul>
+			</div>
+		</div>
+		
+		<div class="mini-carousel-wrapper">					
+			<button class="prev"></button>
+			
+			<div class="mini-carousel">
+			<ul>
+			
+				<li>
+				<a href="http://www.rottentomatoes.com/gallery/42-wtf-television-mysteries/" >		
+					<span class="carousel-thumb" style="background-image: url('http://content7.flixster.com/site/10/26/49/10264965_ori.jpg')"></span>					 
+					<span class="carousel-thumb-caption">42 WTF TV Shows</span>
+				</a>					 
+				</li>
+			
+				<li>
+				<a href="http://www.rottentomatoes.com/gallery/red-carpet-roundup-mark-wahlberg-nicola-peltz-tilda-swinton/" >		
+					<span class="carousel-thumb" style="background-image: url('http://content9.flixster.com/site/10/26/49/10264967_ori.jpg')"></span>					 
+					<span class="carousel-thumb-caption">Red Carpet Roundup</span>
+				</a>					 
+				</li>
+			
+				<li>
+				<a href="/m/transformers_age_of_extinction/news/1920412/mark_wahlbergs_10_best_movies/" >		
+					<span class="carousel-thumb" style="background-image: url('http://content9.flixster.com/site/10/26/49/10264955_ori.jpg')"></span>					 
+					<span class="carousel-thumb-caption">Mark Wahlberg</span>
+				</a>					 
+				</li>
+			
+				<li>
+				<a href="/news/1930811/weekly_binge_ray_donovan/" >		
+					<span class="carousel-thumb" style="background-image: url('http://content9.flixster.com/site/10/26/49/10264951_ori.jpg')"></span>					 
+					<span class="carousel-thumb-caption">Ray Donovan</span>
+				</a>					 
+				</li>
+			
+				<li>
+				<a href="http://www.rottentomatoes.com/gallery/24-frames-certified-fresh-sci-fi-action-movies/" >		
+					<span class="carousel-thumb" style="background-image: url('http://content7.flixster.com/site/10/26/49/10264937_ori.jpg')"></span>					 
+					<span class="carousel-thumb-caption">Certified Fresh Sci-Fi Action</span>
+				</a>					 
+				</li>
+			
+				<li>
+				<a href="http://www.rottentomatoes.com/m/fury_2015/trailers/" >		
+					<span class="carousel-thumb" style="background-image: url('http://content7.flixster.com/site/10/26/49/10264945_ori.jpg')"></span>					 
+					<span class="carousel-thumb-caption">Fury Trailer</span>
+				</a>					 
+				</li>
+			
+				<li>
+				<a href="http://www.rottentomatoes.com/hub/summer-movie-guide-2014/" >		
+					<span class="carousel-thumb" style="background-image: url('http://content7.flixster.com/site/10/26/45/10264525_ori.jpg')"></span>					 
+					<span class="carousel-thumb-caption">Summer Movie Guide</span>
+				</a>					 
+				</li>
+			
+				<li>
+				<a href="http://www.rottentomatoes.com/m/teenage_mutant_ninja_turtles_2013/trailers/" >		
+					<span class="carousel-thumb" style="background-image: url('http://content6.flixster.com/site/10/26/49/10264932_ori.jpg')"></span>					 
+					<span class="carousel-thumb-caption">Teenage Mutant Ninja Turtles</span>
+				</a>					 
+				</li>
+			
+				<li>
+				<a href="http://www.rottentomatoes.com/hub/tv-zone/" >		
+					<span class="carousel-thumb" style="background-image: url('http://content9.flixster.com/site/10/26/39/10263987_ori.jpg')"></span>					 
+					<span class="carousel-thumb-caption">TV Zone</span>
+				</a>					 
+				</li>
+			
+				<li>
+				<a href="http://www.rottentomatoes.com/features/newsletter/" >		
+					<span class="carousel-thumb" style="background-image: url('http://content9.flixster.com/site/10/26/49/10264915_ori.jpg')"></span>					 
+					<span class="carousel-thumb-caption">RT Newsletter</span>
+				</a>					 
+				</li>
+			
+			</ul>
+			</div>
+		
+			<button class="next"></button>
+			
+			<div class="mini-carousel-overlay">
+				<div class="mini-carousel-overlay-arrow"></div>
+			</div>        
+		</div>
+	</div>
+
+	
+	<script>	        	
+	/*
+		$(".carousel li").show();
+		$(".mini-carousel-wrapper").show();
+	*/
+	$(function(){
+	    $(".carousel").jCarouselLite({       
+	        btnNext: ".next",
+	        btnPrev: ".prev",
+	        visible: 1,
+	        speed: 300,
+	        auto: 10000
+	    });       		
+	    
+		$(".mini-carousel").jCarouselLite({       
+	        btnNext: ".next",
+	        btnPrev: ".prev",
+	        visible: 4,
+	        speed: 300,
+	        auto: 10000
+		}); 		
+	});
+	</script>
+
+	</div>
+	<div class="content_footer clearfix">
+		
+	</div>
+</div>
+
+
+			
+                
+               	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+				
+			
+		
+	
+	
+
+ 
+                   
+                
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>#spotlight_ad { margin-bottom: 5px; }</style>
+
+<div id="spotlight_ad">
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+<script type='text/javascript'>
+RT.ads.push("spotlight_ad");
+googletag.cmd.push(function() {
+	
+	
+	
+	var slot=googletag.defineSlot('/6327/rt.home/spotlight', [[423,200]], 'spotlight_ad')
+	
+	
+		.addService(googletag.pubads())
+	
+	
+		.setTargeting("unit", "spotlight")	
+	
+	
+	
+			
+        .setCollapseEmptyDiv(true, true)
+        ;
+        
+    
+});
+</script>
+
+
+
+
+
+
+
+
+
+</div>
+
+		
+                
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+ 
+
+
+
+
+
+
+	
+		
+			
+			
+				
+
+					
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content_box center"  id="features_sidebar">
+	<div class="content_header clearfix">
+		
+			
+			
+				<h3>What's Hot on RT</h3>	
+			
+		
+		
+		
+	</div>
+	<div class="content_body clearfix">
+		
+	
+	
+	<a href="/m/predator/news/1930844/weekly_ketchup_shane_black_signs_on_for_new_predator_film/" class="poster_box" pi="2833" >
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="poster_content" alt="Weekly Ketchup: Shane Black to Helm New <em>Predator</em>" src="http://content7.flixster.com/site/10/26/50/10265005_ori.jpg" width="190px" height="140px"  height="140px" width="190px" />
+		<div class="poster_caption">
+			<p>Weekly Ketchup: Shane Black to Helm New <em>Predator</em></p>
+		</div>
+	</a>
+	
+	<a href="/m/transformers_age_of_extinction/news/1930833/critics_consensus_transformers_age_of_extinction_is_loud_long_and_lackluster/" class="poster_box" pi="2828" >
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="poster_content" alt="Critics Consensus: <em>Transformers</em> is Loud, Long, and Lackluster" src="http://content7.flixster.com/site/10/26/49/10264977_ori.jpg" width="190px" height="140px"  height="140px" width="190px" />
+		<div class="poster_caption">
+			<p>Critics Consensus: <em>Transformers</em> is Loud, Long, and Lackluster</p>
+		</div>
+	</a>
+	
+	<a href="http://www.rottentomatoes.com/tv/the-walking-dead/news/1930810/tv_talk_walking_dead_writer_promises_a_ton_of_answers/" class="poster_box" pi="2806" >
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="poster_content" alt="TV Talk: <eM>Walking Dead</em> writer promises answers" src="http://content8.flixster.com/site/10/26/49/10264974_ori.jpg" width="190px" height="140px"  height="140px" width="190px" />
+		<div class="poster_caption">
+			<p>TV Talk: <eM>Walking Dead</em> writer promises answers</p>
+		</div>
+	</a>
+	
+	<a href="http://www.rottentomatoes.com/m/the_guest_2014/trailers/" class="poster_box" pi="2808" >
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="poster_content" alt="<em>The Guest</em> trailer: Home invasion thriller" src="http://content9.flixster.com/site/10/26/50/10265011_ori.jpg" width="190px" height="140px"  height="140px" width="190px" />
+		<div class="poster_caption">
+			<p><em>The Guest</em> trailer: Home invasion thriller</p>
+		</div>
+	</a>
+	
+	
+
+
+	</div>
+	<div class="content_footer clearfix">
+		
+	</div>
+</div>
+
+
+				
+					
+					
+
+				    
+					<div id="friendsActivityWrapper"></div>
+                    <script>
+                    RT.social_init.done(function(){
+                        $.ajax({ url : '/home/friendsActivity/', dataType : "html" }).success(function(response) {                
+                            $("#friendsActivityWrapper").html(response);      
+                        });
+                    });                 
+                    </script>
+
+					
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+	#homepagenews ul {margin-bottom: 5px;}
+	#homepagenews .newslink { white-space:nowrap; overflow:hidden; text-overflow:ellipsis; display:inline-block; width:360px;}	
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content_box "  id="homepagenews">
+	<div class="content_header clearfix">
+		
+			
+			
+				<h3><a href="/news/">Movie & TV News</a></h3>	
+			
+		
+		
+		<div class="float_right"><a href="/news/">View All</a></div>
+	</div>
+	<div class="content_body clearfix">
+		
+		<div class="fr">Comments</div>
+		<h4>Featured on RT</h4>		
+		<ul class="bullets rtnews">
+			
+			<li class="columned">
+				<span class="newslink">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<a data-pageheader="" href="/m/predator/news/1930844/weekly_ketchup_shane_black_signs_on_for_new_predator_film/" title="Source: Rotten Tomatoes"   >Weekly Ketchup: Shane Black Signs on for New <em>Predator</em> Film</a>
+	
+    	
+	
+
+
+				</span>
+				<span class="fr">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+	 
+		<a href="/m/predator/news/1930844/weekly_ketchup_shane_black_signs_on_for_new_predator_film/" title="34 Comments" class="comments">34</a>
+	
+	
+
+				</span>
+			</li>
+			
+			<li class="columned">
+				<span class="newslink">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+    
+        
+        
+        <a data-pageheader="" href="/tv/masters-of-sex/news/1930845/masters_of_sex_season_two_trailer/" title="Source: Rotten Tomatoes"   ><em>Masters of Sex</em>: Season Two Trailer</a>
+    	
+	
+
+
+				</span>
+				<span class="fr">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+	 
+		<a href="/news/1930845/masters_of_sex_season_two_trailer/" title="2 Comments" class="comments">2</a>
+	
+	
+
+				</span>
+			</li>
+			
+			<li class="columned">
+				<span class="newslink">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<a data-pageheader="" href="/m/transformers_age_of_extinction/news/1930843/parental_guidance_transformers_age_of_extinction_and_winters_tale_/" title="Source: Rotten Tomatoes"   >Parental Guidance: <em>Transformers: Age of Extinction</em> and <em>Winter's Tale</em> </a>
+	
+    	
+	
+
+
+				</span>
+				<span class="fr">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+	 
+		<a href="/m/transformers_age_of_extinction/news/1930843/parental_guidance_transformers_age_of_extinction_and_winters_tale_/" title="2 Comments" class="comments">2</a>
+	
+	
+
+				</span>
+			</li>
+			
+			<li class="columned">
+				<span class="newslink">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<a data-pageheader="" href="/m/transformers_age_of_extinction/news/1930833/critics_consensus_transformers_age_of_extinction_is_loud_long_and_lackluster/" title="Source: Rotten Tomatoes"   >Critics Consensus: <em>Transformers: Age of Extinction</em> Is Loud, Long, and Lackluster</a>
+	
+    	
+	
+
+
+				</span>
+				<span class="fr">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+	 
+		<a href="/m/transformers_age_of_extinction/news/1930833/critics_consensus_transformers_age_of_extinction_is_loud_long_and_lackluster/" title="51 Comments" class="comments">51</a>
+	
+	
+
+				</span>
+			</li>
+			
+			<li class="columned">
+				<span class="newslink">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<a data-pageheader="" href="/m/rotten_tomatoes_podcast/news/1930836/rt_podcast_ep_024_-_transformers_age_of_extinction_the_leftovers/" title="Source: Rotten Tomatoes"   >RT Podcast: Ep. 024 - <em>Transformers: Age of Extinction</em>, <em>The Leftovers</em></a>
+	
+    	
+	
+
+
+				</span>
+				<span class="fr">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+	 
+		<a href="/m/rotten_tomatoes_podcast/news/1930836/rt_podcast_ep_024_-_transformers_age_of_extinction_the_leftovers/" title="5 Comments" class="comments">5</a>
+	
+	
+
+				</span>
+			</li>
+			
+			<li class="columned">
+				<span class="newslink">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+    
+        
+        
+        <a data-pageheader="" href="/tv/the-walking-dead/news/1930810/tv_talk_walking_dead_writer_promises_a_ton_of_answers/" title="Source: Rotten Tomatoes"   >TV Talk: <em>Walking Dead</em> Writer Promises a 'Ton of Answers'</a>
+    	
+	
+
+
+				</span>
+				<span class="fr">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+	 
+		<a href="/news/1930810/tv_talk_walking_dead_writer_promises_a_ton_of_answers/" title="3 Comments" class="comments">3</a>
+	
+	
+
+				</span>
+			</li>
+			
+			<li class="columned">
+				<span class="newslink">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<a data-pageheader="" href="/m/transformers_age_of_extinction/news/1930835/red_carpet_roundup_with_mark_wahlberg_nicola_peltz_tilda_swinton_and_more/" title="Source: Rotten Tomatoes"   >Red Carpet Roundup with Mark Wahlberg, Nicola Peltz, Tilda Swinton and More</a>
+	
+    	
+	
+
+
+				</span>
+				<span class="fr">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+	 
+		<a href="/m/transformers_age_of_extinction/news/1930835/red_carpet_roundup_with_mark_wahlberg_nicola_peltz_tilda_swinton_and_more/" title="0 Comments" class="comments">0</a>
+	
+	
+
+				</span>
+			</li>
+			
+		</ul>
+<!-- 		<p class="fr"><a href="/news/?filter=rt">More RT Features...</a></p> -->
+		
+		<h4>Top Headlines</h4>		
+		<ul class="bullets extnews">
+			
+			<li class="columned">
+				<span class="newslink">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<a data-pageheader="" href="/m/tv_editorial/news/1930842/big_brother_scores_thursday_ratings_victory/" title="Source: Variety" target="_blank"  ><i>Big Brother</i> Scores Thursday Ratings Victory <img src="http://images.rottentomatoes.com/images/icons/offsite.gif" alt="Variety in new window" width="10" height="8" border="0" /></a>
+	
+    	
+	
+
+
+				</span>
+				<span class="fr">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+	
+			
+		<a href="/m/tv_editorial/news/1930842/comments/big_brother_scores_thursday_ratings_victory/" title="0 Comments" class="comments">0</a>
+	
+
+				</span>
+			</li>
+			
+			<li class="columned">
+				<span class="newslink">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<a data-pageheader="" href="/m/star_trek_3/news/1930841/roberto_orci_teases_star_trek_3_details/" title="Source: Collider.com" target="_blank"  >Roberto Orci Teases <i>Star Trek 3</i> Details <img src="http://images.rottentomatoes.com/images/icons/offsite.gif" alt="Collider.com in new window" width="10" height="8" border="0" /></a>
+	
+    	
+	
+
+
+				</span>
+				<span class="fr">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+	
+			
+		<a href="/m/star_trek_3/news/1930841/comments/roberto_orci_teases_star_trek_3_details/" title="0 Comments" class="comments">0</a>
+	
+
+				</span>
+			</li>
+			
+			<li class="columned">
+				<span class="newslink">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<a data-pageheader="" href="/m/bond_24/news/1930840/bond_24_getting_a_rewrite_production_start_reportedly_delayed/" title="Source: Collider.com" target="_blank"  ><i>Bond 24</i> Getting a Rewrite; Production Start Reportedly Delayed <img src="http://images.rottentomatoes.com/images/icons/offsite.gif" alt="Collider.com in new window" width="10" height="8" border="0" /></a>
+	
+    	
+	
+
+
+				</span>
+				<span class="fr">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+	
+			
+		<a href="/m/bond_24/news/1930840/comments/bond_24_getting_a_rewrite_production_start_reportedly_delayed/" title="0 Comments" class="comments">0</a>
+	
+
+				</span>
+			</li>
+			
+			<li class="columned">
+				<span class="newslink">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<a data-pageheader="" href="/m/pacific_rim_2013/news/1930839/universal_greenlights_pacific_rim_2/" title="Source: Variety" target="_blank"  >Universal Greenlights <i>Pacific Rim 2</i> <img src="http://images.rottentomatoes.com/images/icons/offsite.gif" alt="Variety in new window" width="10" height="8" border="0" /></a>
+	
+    	
+	
+
+
+				</span>
+				<span class="fr">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+	
+			
+		<a href="/m/pacific_rim_2013/news/1930839/comments/universal_greenlights_pacific_rim_2/" title="0 Comments" class="comments">0</a>
+	
+
+				</span>
+			</li>
+			
+			<li class="columned">
+				<span class="newslink">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<a data-pageheader="" href="/m/snow_white_and_the_huntsman/news/1930838/frank_darabont_in_talks_to_direct_snow_white_and_the_huntsman_spinoff/" title="Source: Variety" target="_blank"  >Frank Darabont in Talks to Direct <i>Snow White and the Huntsman</i> Spinoff <img src="http://images.rottentomatoes.com/images/icons/offsite.gif" alt="Variety in new window" width="10" height="8" border="0" /></a>
+	
+    	
+	
+
+
+				</span>
+				<span class="fr">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+	
+			
+		<a href="/m/snow_white_and_the_huntsman/news/1930838/comments/frank_darabont_in_talks_to_direct_snow_white_and_the_huntsman_spinoff/" title="0 Comments" class="comments">0</a>
+	
+
+				</span>
+			</li>
+			
+			<li class="columned">
+				<span class="newslink">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<a data-pageheader="" href="/m/tv_editorial/news/1930831/big_brother_season_debut_posts_year-to-year_ratings_gain/" title="Source: Deadline Hollywood Daily" target="_blank"  ><i>Big Brother</i> Season Debut Posts Year-to-Year Ratings Gain <img src="http://images.rottentomatoes.com/images/icons/offsite.gif" alt="Deadline Hollywood Daily in new window" width="10" height="8" border="0" /></a>
+	
+    	
+	
+
+
+				</span>
+				<span class="fr">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+	
+			
+		<a href="/m/tv_editorial/news/1930831/comments/big_brother_season_debut_posts_year-to-year_ratings_gain/" title="0 Comments" class="comments">0</a>
+	
+
+				</span>
+			</li>
+			
+			<li class="columned">
+				<span class="newslink">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<a data-pageheader="" href="/m/transformers_age_of_extinction/news/1930830/the_touch_the_bizarre_history_of_the_transformers_soundtrack_anthem/" title="Source: Vulture" target="_blank"  >"The Touch": The Bizarre History of the <i>Transformers</i> Soundtrack Anthem <img src="http://images.rottentomatoes.com/images/icons/offsite.gif" alt="Vulture in new window" width="10" height="8" border="0" /></a>
+	
+    	
+	
+
+
+				</span>
+				<span class="fr">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+	
+			
+		<a href="/m/transformers_age_of_extinction/news/1930830/comments/the_touch_the_bizarre_history_of_the_transformers_soundtrack_anthem/" title="0 Comments" class="comments">0</a>
+	
+
+				</span>
+			</li>
+			
+		</ul>
+<!-- 		<p class="fr"><a href="/news/?filter=external">More Headlines...</a></p> -->
+
+	
+	</div>
+	<div class="content_footer clearfix">
+		
+	</div>
+</div>
+
+
+
+					
+					
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content_box media_block"  id="homepage_celebrity_main">
+	<div class="content_header clearfix">
+		
+			
+			
+				<h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/celebrity/" >Celebrities</a></h3>	
+			
+		
+		
+		<div class="float_right">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/celebrity/" >View All</a></div>
+	</div>
+	<div class="content_body clearfix">
+					
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="" href="/celebrity/markymark/" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="media_block_image big" alt="Mark Wahlberg" src="http://content9.flixster.com/site/10/26/49/10264991_ori.jpg" width="180" height="292"  /></a>
+		<div class="media_block_content">
+			<h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="" href="/celebrity/markymark/" >Mark Wahlberg</a></h2>
+
+			<h4>Highest Rated:</h4>
+			<table class="movie_list"><tbody>
+				<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">94%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+				<td class="middle_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/three_kings/"  class="" >Three Kings</a></td>
+			</tbody></table>
+			
+			<h4>Lowest Rated:</h4>
+			<table class="movie_list"><tbody>
+				<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">16%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+				<td class="middle_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/max_payne/"  class="" >Max Payne</a></td>
+			</tbody></table>
+
+			<h4>Filmography</h4>
+			<table class="movie_list"><tbody>
+			<tr>
+				
+				<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">75%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+				<td class="middle_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/lone_survivor/" title="A true account of military courage and survival, Lone Survivor wields enough visceral power to mitigate its heavy-handed jingoism." class="" >Lone Survivor</a></td>	
+			</tr><tr>
+				
+				<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">50%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+				<td class="middle_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/pain_and_gain/" title="It may be his most thought-provoking film to date, but Michael Bay's Pain & Gain ultimately loses its satirical edge in a stylized..." class="" >Pain & Gain</a></td>	
+			</tr><tr>
+				
+				<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">68%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+				<td class="middle_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/ted_2012/" title="Ted's "romance versus bromance" plot is familiar, but the film's held aloft by the high-concept central premise and a very funny (..." class="" >Ted</a></td>	
+			</tr><tr>
+				
+				<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">79%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+				<td class="middle_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/other_guys/" title="A clever parody of cop-buddy action-comedies, The Other Guys delivers several impressive action set pieces and lots of big laughs,..." class="" >The Other Guys</a></td>	
+			</tr><tr>
+				
+				<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">91%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+				<td class="middle_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/the-fighter/" title="Led by a trio of captivating performances from Mark Wahlberg, Christian Bale, and Amy Adams, The Fighter is a solidly entertaining..." class="" >The Fighter</a></td>	
+			</tr><tr>
+				
+				<td class="left_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Rotten" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+
+tiny rotten"></span><span class="tMeterScore">17%</span>
+				
+			
+		
+        
+		
+	
+	</span></td>
+				<td class="middle_col">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/10007985-happening/" title="<i>The Happening</i> begins with promise, but unfortunately descends into an incoherent and unconvincing trifle." class="" >The Happening</a></td>	
+			</tr>
+			</tbody></table>
+		</div>		
+	
+	</div>
+	<div class="content_footer clearfix">
+		
+	</div>
+</div>
+
+
+
+
+				
+					
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content_box center_box"  id="around_the_community">
+	<div class="content_header clearfix">
+		
+			
+			
+				<h3>Around the Community</h3>	
+			
+		
+		
+		<div class="float_right"><a href="http://www.rottentomatoes.com/community/">RT Community</a></div>
+	</div>
+	<div class="content_body clearfix">
+		
+		
+		
+		
+		<!-- 
+		
+			<h4>Featured Review of the Day</h4>
+			<div class="media_block bottom_divider featuredReview">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+<a href="/user/id/911682859/"  class="media_block_image">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+	
+
+
+
+	
+
+
+
+
+	<img src="//graph.facebook.com/1355504783/picture" width="80" height="80"  alt="Wilman Aboss" />
+
+
+					<div class="center">Wilman Aboss</div>
+				</a>
+
+
+				<div class="media_block_content">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/tracks_2013/"  class="" >Tracks</a> (2014)
+					<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="tMeterIcon tiny" >
+	
+		
+			
+				
+				
+					
+				
+			
+			
+			
+			
+			
+				
+				
+					<span title="Fresh" class="icon 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+
+tiny fresh"></span><span class="tMeterScore">80%</span>
+				
+			
+		
+        
+		
+	
+	</span></p>
+					<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mia Wasikowska was sensational in this movie. Sensational story with sensational performance!<br/><br/>Full review : http://harianfilm.wordpress.com/
+</p>
+				</div>
+			</div>
+		
+        -->
+		
+		
+
+        <h4>Today's Hot List Entries</h4>
+		<div class="media_block bottom_divider hotList">
+			
+		        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/dazed_and_confused/"  class="media_block_image" >
+		            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+    
+    
+        
+	     
+    	
+	    
+        
+    
+
+
+<img src="http://content9.flixster.com/movie/11/16/40/11164087_tmb.jpg" width="54" height="81" alt="Dazed and Confused" title="Dazed and Confused"  /> 
+
+		        </a>
+			
+			<div class="media_block_content">
+				<ol class="decimal">
+				
+					<li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/dazed_and_confused/"  class="" >Dazed and Confused</a> (1993)</li>
+				
+					<li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/the_dark_knight/"  class="" >The Dark Knight</a> (2008)</li>
+				
+					<li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/the_lord_of_the_rings_the_two_towers/"  class="" >The Lord of the Rings: The Two Towers</a> (2002)</li>
+				
+					<li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/the_fault_in_our_stars/"  class="" >The Fault In Our Stars</a> (2014)</li>
+				
+					<li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a target="_top" data-pageheader="" href="/m/silence_of_the_lambs/"  class="" >The Silence of the Lambs</a> (1991)</li>
+				
+				</ol>
+			</div>
+		</div>
+
+        <h4>Contributors' Hub</h4>
+        <ul class="bullets">
+        	<li><a class="community" href="/users/">Community</a>
+        	<li><a class="movie_quotes" href="/users/movie-quotes/">Movie Quotes</a>
+			
+        </ul>
+	
+	</div>
+	<div class="content_footer clearfix">
+		
+	</div>
+</div>
+
+
+					
+				
+			
+		
+	
+	
+
+
+					
+			</div>			
+
+            
+			
+			<div class="col col_300 col_last">
+					
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="medrec_top_ad" class="page_ad">
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+<script type='text/javascript'>
+RT.ads.push("medrec_top_ad");
+googletag.cmd.push(function() {
+	
+	
+	
+	var slot=googletag.defineSlot('/6327/rt.home/homepage', [[300,250],[300,600]], 'medrec_top_ad')
+	
+	
+		.addService(googletag.pubads())
+	
+	
+		.setTargeting("unit", "medrec_top")	
+	
+	
+		.setTargeting("pos", "top")	
+	
+	
+			
+        .setCollapseEmptyDiv(true, true)
+        ;
+        
+    
+});
+</script>
+
+
+
+
+
+
+
+
+
+</div>
+ 
+			
+			    
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="iframePoll_ad">
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+<script type='text/javascript'>
+RT.ads.push("iframePoll_ad");
+googletag.cmd.push(function() {
+	
+	
+	
+	var slot=googletag.defineSlot('/6327/rt.home/iframe_poll', [[1300, 409]], 'iframePoll_ad')
+	
+	
+		.addService(googletag.pubads())
+	
+	
+		.setTargeting("unit", "iframePoll")	
+	
+	
+	
+			
+        .setCollapseEmptyDiv(true, true)
+        ;
+        
+    
+});
+</script>
+
+
+
+
+
+
+
+
+
+</div>
+
+			
+					
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+ 
+
+
+
+
+
+
+	
+		
+			
+			
+				
+					
+                	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+	
+#trailer_sidebar .poster_box {margin-bottom: 10px;}
+
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content_box "  id="trailer_sidebar">
+	<div class="content_header clearfix">
+		
+			
+			
+				<h3>Featured <a href="/trailers/">Trailers & Clips</a></h3>	
+			
+		
+		
+		<div class="float_right"><a href="/trailers/">View All</a></div>
+	</div>
+	<div class="content_body clearfix">
+		
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="sponsored_video_top_ad">
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+<script type='text/javascript'>
+RT.ads.push("sponsored_video_top_ad");
+googletag.cmd.push(function() {
+	
+	
+	
+	var slot=googletag.defineSlot('/6327/rt.home/trailer_sponsor', [[278,50]], 'sponsored_video_top_ad')
+	
+	
+		.addService(googletag.pubads())
+	
+	
+		.setTargeting("unit", "sponsored_video_top")	
+	
+	
+	
+			
+        .setCollapseEmptyDiv(true, true)
+        ;
+        
+    
+});
+</script>
+
+
+
+
+
+
+
+
+
+</div>
+
+			
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/transformers_age_of_extinction/trailers/11197255"  title="Transformers: Age of Extinction" class="poster_box" pi="2716">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="poster_content" alt="Transformers: Age of Extinction" src="http://content7.flixster.com/site/10/26/49/10264985_ori.jpg" width="278" height="135"  id="trailer_sidebar_771269858Img" border="0" />
+				<div class="poster_caption single_line">
+					<div class="media_block"><span class="play_button media_block_image"></span><div class="play_button_label media_block_content"> Transformers: Age of Extinction</div></div>
+				</div>
+			</a>
+		
+
+		<ul id="featuredTrailers">
+			
+				
+				<li pi="170" class="media_block">
+					<div class="media_block_image"> 
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/snowpiercer/trailers/11200760"  class="videoLink" alt="Snowpiercer" style="display:block; position:relative;">
+	
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://content.internetvideoarchive.com/content/photos/9062/5654_025.jpg" alt="Snowpiercer" width="80" height="53"  border="0" />
+
+
+						
+	<span style="position:absolute;bottom:10px;right:8px;" class='play_button'></span>
+</a>
+
+					</div>
+					<div class="media_block_content small subtle">
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/snowpiercer/trailers/11200760" ><strong>Snowpiercer</strong></a>
+						<div>							
+							
+							
+							
+							2 minutes 9 seconds
+						</div>
+						<div>
+							Added: May 30, 2014
+						</div>
+					</div>
+				</li>
+			
+				
+				<li pi="171" class="media_block">
+					<div class="media_block_image"> 
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/begin_again_2013/trailers/11199023"  class="videoLink" alt="Begin Again" style="display:block; position:relative;">
+	
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://sites.psu.edu/lreenglish015/wp-content/uploads/sites/8383/2014/04/Begin-Again-5.jpg" alt="Begin Again" width="80" height="53"  border="0" />
+
+
+						
+	<span style="position:absolute;bottom:10px;right:8px;" class='play_button'></span>
+</a>
+
+					</div>
+					<div class="media_block_content small subtle">
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/begin_again_2013/trailers/11199023" ><strong>Begin Again</strong></a>
+						<div>							
+							
+							
+							
+							1 minutes 35 seconds
+						</div>
+						<div>
+							Added: Mar 31, 2014
+						</div>
+					</div>
+				</li>
+			
+				
+				<li pi="172" class="media_block">
+					<div class="media_block_image"> 
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/they_came_together/trailers/11199957"  class="videoLink" alt="They Came Together" style="display:block; position:relative;">
+	
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://content.internetvideoarchive.com/content/photos/7890/9704_043.jpg" alt="They Came Together" width="80" height="53"  border="0" />
+
+
+						
+	<span style="position:absolute;bottom:10px;right:8px;" class='play_button'></span>
+</a>
+
+					</div>
+					<div class="media_block_content small subtle">
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/m/they_came_together/trailers/11199957" ><strong>They Came Together</strong></a>
+						<div>							
+							
+							
+							
+							2 minutes 22 seconds
+						</div>
+						<div>
+							Added: May 1, 2014
+						</div>
+					</div>
+				</li>
+			
+		</ul>
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="sponsored_video_bottom_ad">
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+<script type='text/javascript'>
+RT.ads.push("sponsored_video_bottom_ad");
+googletag.cmd.push(function() {
+	
+	
+	
+	var slot=googletag.defineSlot('/6327/rt.home/sponsored_video', [[278,63]], 'sponsored_video_bottom_ad')
+	
+	
+		.addService(googletag.pubads())
+	
+	
+		.setTargeting("unit", "sponsored_video_bottom")	
+	
+	
+	
+			
+        .setCollapseEmptyDiv(true, true)
+        ;
+        
+    
+});
+</script>
+
+
+
+
+
+
+
+
+
+</div>
+
+	
+	
+	</div>
+	<div class="content_footer clearfix">
+		
+	</div>
+</div>
+
+
+
+
+					
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+#pictureGalleries > li  {
+	float:left; width:50%;
+	margin-bottom:10px;
+	text-align:center;
+}
+</STYLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content_box "  id="picture_galleries">
+	<div class="content_header clearfix">
+		
+			
+			
+				<h3><a href="/movie/photos/">Picture Galleries</a></h3>	
+			
+		
+		
+		<div class="float_right"><a href="/movie/photos/">View All</a></div>
+	</div>
+	<div class="content_body clearfix">
+		
+	
+		<div class="media_block" pi="165">
+		
+		
+			
+			
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+<a href="/m/the_hunger_games_mockingjay_part_1/pictures/"  class="" >
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="media_block_image" alt="The Hunger Games: Mockingjay District posters" src="http://content9.flixster.com/site/10/26/49/10264943_ori.jpg" width="120" height="60"  />
+				<div class="media_block_content">
+					<h5><em>The Hunger Games: Mockingjay</eM> District posters</h5>					
+				</div>
+				</a>
+
+			
+			
+			
+			
+			
+		
+		</div>
+	
+		<div class="media_block" pi="2422">
+		
+		
+			
+			
+			
+			
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/celebrity/keira_knightley/pictures/" >
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="media_block_image" alt="Begin Again's Keira Knightley" src="http://content6.flixster.com/site/10/26/49/10264992_ori.jpg" width="120" height="60"  />
+				<div class="media_block_content">
+					<h5><em>Begin Again</eM>'s Keira Knightley</h5>
+				</div>
+				</a>
+
+
+			
+			
+			
+		
+		</div>
+	
+		<div class="media_block" pi="167">
+		
+		
+			
+			
+			
+			
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="/celebrity/cobie_smulders/pictures/" >
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="media_block_image" alt="They Came Together's Cobie Smulders" src="http://content9.flixster.com/site/10/26/49/10264911_ori.jpg" width="120" height="60"  />
+				<div class="media_block_content">
+					<h5><em>They Came Together</em>'s Cobie Smulders</h5>
+				</div>
+				</a>
+
+
+			
+			
+			
+		
+		</div>
+	
+		<div class="media_block" pi="597">
+		
+		
+			
+				<a href="http://www.rottentomatoes.com/gallery/100-movies-to-see-in-2014/">
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="media_block_image" alt="100 Movies to See in 2014" src="http://content8.flixster.com/site/10/26/47/10264782_ori.jpg" width="120" height="60"  />
+					<div class="media_block_content">
+						<h5>100 Movies to See in 2014</h5>
+					</div>
+				</a>
+			
+			
+			
+			
+			
+			
+			
+		
+		</div>
+	
+	
+	</div>
+	<div class="content_footer clearfix">
+		
+	</div>
+</div>
+
+
+
+				
+			
+		
+	
+	
+
+
+				
+				
+				
+				
+				<div id="fbkCriticsMatchingContent">
+										
+				</div>									
+									               
+                
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content_box freshlinks_sidebar"  id="freshlinks_sidebar">
+	<div class="content_header clearfix">
+		
+			
+			
+				<h3>Fresh Links</h3>	
+			
+		
+		
+		
+	</div>
+	<div class="content_body clearfix">
+		
+	
+		<h4 id="freshlinks_featured_header">Featured</h4>
+		<div class="featured">
+		
+		<div class="media_block" pi="2832">
+			
+			<a class="media_block_image" href="http://www.hitfix.com/galleries/superhero-movies-for-people-who-hate-superhero-movies/" target="_blank">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="" alt="Superhero Movies for People Who Don't Like Superhero Movies" src="http://content8.flixster.com/site/10/26/49/10264998_ori.jpg" width="55" height="55"  />
+			</a>
+			
+			<div class="media_block_content">
+				
+				<a target="_blank" href="http://www.hitfix.com/galleries/superhero-movies-for-people-who-hate-superhero-movies/">
+					<h5>Superhero Movies for People Who Don't Like Superhero Movies 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="External Link" alt="External Link"/></h5>
+				</a>
+				
+				
+				Not a fan of the typical superhero fare these days? Try these alternatives!
+				
+			</div>
+		</div>
+		
+		<div class="media_block" pi="2819">
+			
+			<a class="media_block_image" href="http://www.buzzsugar.com/Game-Thrones-Cast-Out-Costume-29215934" target="_blank">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="" alt="<em>Game of Thrones</em> Cast Out of Costume" src="http://content7.flixster.com/site/10/26/49/10264997_ori.jpg" width="55" height="55"  />
+			</a>
+			
+			<div class="media_block_content">
+				
+				<a target="_blank" href="http://www.buzzsugar.com/Game-Thrones-Cast-Out-Costume-29215934">
+					<h5><em>Game of Thrones</em> Cast Out of Costume 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="External Link" alt="External Link"/></h5>
+				</a>
+				
+				
+				Where else can you see the <em>GoT</em> actors? PopSugar lets you know!
+				
+			</div>
+		</div>
+		
+		<div class="media_block" pi="2816">
+			
+			<a class="media_block_image" href="http://www.rollingstone.com/movies/lists/it-takes-two-top-25-best-buddy-comedies-20140612" target="_blank">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="" alt="Top 25 Buddy Comedies" src="http://content8.flixster.com/site/10/26/48/10264846_ori.jpg" width="55" height="55"  />
+			</a>
+			
+			<div class="media_block_content">
+				
+				<a target="_blank" href="http://www.rollingstone.com/movies/lists/it-takes-two-top-25-best-buddy-comedies-20140612">
+					<h5>Top 25 Buddy Comedies 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="External Link" alt="External Link"/></h5>
+				</a>
+				
+				
+				Rolling Stone looks at the best comedic duos on film.
+				
+			</div>
+		</div>
+		
+		<div class="media_block" pi="2815">
+			
+			<a class="media_block_image" href="http://www.thecinemasource.com/blog/news/set-visit-rizzoli-isles-season-5/" target="_blank">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="" alt="Angie Harmon talks <em>Rizzoli & Isles</em>" src="http://content6.flixster.com/site/10/26/48/10264844_ori.jpg" width="55" height="55"  />
+			</a>
+			
+			<div class="media_block_content">
+				
+				<a target="_blank" href="http://www.thecinemasource.com/blog/news/set-visit-rizzoli-isles-season-5/">
+					<h5>Angie Harmon talks <em>Rizzoli & Isles</em> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="External Link" alt="External Link"/></h5>
+				</a>
+				
+				
+				The star of TNT's hit series chats with CinemaSource.
+				
+			</div>
+		</div>
+		
+		<div class="media_block" pi="2673">
+			
+			<a class="media_block_image" href="http://www.timeout.com/newyork/film/the-100-best-animated-movies" target="_blank">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="" alt="100 Best Animated Movies" src="http://content7.flixster.com/site/10/26/37/10263709_ori.jpg" width="55" height="55"  />
+			</a>
+			
+			<div class="media_block_content">
+				
+				<a target="_blank" href="http://www.timeout.com/newyork/film/the-100-best-animated-movies">
+					<h5>100 Best Animated Movies 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="External Link" alt="External Link"/></h5>
+				</a>
+				
+				
+				From anime to Disney, TimeOut NY breaks it all down.
+				
+			</div>
+		</div>
+		
+		</div>
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="fresh_links_ad">
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+<script type='text/javascript'>
+RT.ads.push("fresh_links_ad");
+googletag.cmd.push(function() {
+	
+	
+	
+	var slot=googletag.defineSlot('/6327/rt.home/fresh_links', [[245,65]], 'fresh_links_ad')
+	
+	
+		.addService(googletag.pubads())
+	
+	
+		.setTargeting("unit", "fresh_links")	
+	
+	
+	
+			
+        .setCollapseEmptyDiv(true, true)
+        ;
+        
+    
+});
+</script>
+
+
+
+
+
+
+
+
+
+</div>
+
+		
+		<h4 id="freshlinks_promos_header">Promos</h4>
+		<div class="promos">
+		
+		
+		<div class="media_block" pi="8">
+			
+			<a class="media_block_image" href="http://twitter.com/RottenTomatoes" target="_blank">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img class="" alt="Follow RT on Twitter!" src="http://content7.flixster.com/site/10/23/48/10234829_ori.jpg" width="55" height="55"  />
+			</a>
+			
+			<div class="media_block_content">
+				
+				<a target="_blank" href="http://twitter.com/RottenTomatoes">
+					<h5>Follow RT on Twitter! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="http://images.rottentomatoescdn.com/images/icons/offsite.gif"  title="External Link" alt="External Link"/></h5>
+				</a>
+				
+				
+				Spice up your feed with hourly Tomatometer updates!
+				
+			</div>
+		</div>
+		
+		
+		</div>
+ 	
+	
+	</div>
+	<div class="content_footer clearfix">
+		
+	</div>
+</div>
+
+
+
+									
+				
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="medrec_bottom_ad" class="page_ad">
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+<script type='text/javascript'>
+RT.ads.push("medrec_bottom_ad");
+googletag.cmd.push(function() {
+	
+	
+	
+	var slot=googletag.defineSlot('/6327/rt.home/homepage', [[300,250],[300,600]], 'medrec_bottom_ad')
+	
+	
+		.addService(googletag.pubads())
+	
+	
+		.setTargeting("unit", "medrec_bottom")	
+	
+	
+		.setTargeting("pos", "bottom")	
+	
+	
+			
+        .setCollapseEmptyDiv(true, true)
+        ;
+        
+    
+});
+</script>
+
+
+
+
+
+
+
+
+
+</div>
+
+
+			</div>
+			
+			
+			
+		
+</div>
+
+
+
+    
+    
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="foot">
+	<div class="foot_nav">
+		
+        
+        
+            
+        <form id="newsletterSignup" action="/promo/newsletter-signup-confirm" method="POST" style="margin-bottom:20px;" target="_blank">
+            <img src="http://images.rottentomatoescdn.com/images/social/tomatoenvelope.png" style="position:absolute; top:4px; height:45px; margin-left:-15px;" />
+            <input name="email" id="email" placeholder="Enter email to receive our newsletter" value="" type="email" size="38" 
+                style="padding-left:20px; line-height:20px;" />  
+            <input name="userId" id="userId" value="" style="display:none;" /> 
+            <button type="submit" class="primary btn btn-rt btn-sm center" style="margin-left:-10px;" id="footerNewsletterSubmit"><span>Join Newsletter!</span></button>
+            <span name="hint" id="hint" style="color:#fff; font-size:13px; margin-left:10px; position:absolute; text-align:left;"></span>
+        </form>
+        
+        <script src="http://images.rottentomatoescdn.com/js/lib/mailcheck.js"></script>
+        <script>
+            $("#email").on('blur',function() {
+              $("#hint").css('display', 'none'); // Hide the hint
+              $(this).mailcheck({
+                suggested: function(element, suggestion) {
+                	var email = suggestion.address + "@" + suggestion.domain;
+                    var suggestion = "Did you mean " + suggestion.address + "@<b>" + suggestion.domain + "</b>?<br /> " 
+                        + "<a href='javascript:void(0);' onclick=$('#email').val('" + email + "');$('#hint').css('display','none');$('#newsletterSignup').submit();>Yes</a> | "
+                        + "<a href='javascript:void(0);' onclick=$('#hint').css('display','none');$('#newsletterSignup').submit();>No</a>"
+                    $("#hint").html(suggestion).fadeIn(150);
+                }
+              });
+            });
+            $("#newsletterSignup").submit(function() {
+            	if ($("#hint").is(":visible")) {
+            	    return false;
+            	}
+            });
+        </script>
+        
+        <div style="color:#FFF; font-size:110%; padding-bottom:20px;">
+            Find us on:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="http://twitter.com/rottentomatoes" target="_blank" id="footer_tw"><img src="http://images.rottentomatoescdn.com/images/social/footer_tw.png" />&nbsp;&nbsp;&nbsp;</a>
+            <a href="http://www.facebook.com/rottentomatoes" target="_blank" id="footer_fb"><img src="http://images.rottentomatoescdn.com/images/social/footer_fb.png" />&nbsp;&nbsp;&nbsp;</a>
+            <a href="http://www.youtube.com/user/rottentomatoes" target="_blank" id="footer_yt"><img src="http://images.rottentomatoescdn.com/images/social/footer_yt.png" />&nbsp;&nbsp;&nbsp;</a>
+            <a href="http://rottentomatoes.tumblr.com" target="_blank" id="footer_tb"><img src="http://images.rottentomatoescdn.com/images/social/footer_tb.gif" />&nbsp;&nbsp;&nbsp;</a>
+        </div>
+
+	    <div>
+	        <a href="/help_desk/">Help</a> | <a href="http://www.flixster.com/about/" target="_blank">About</a> | <a href="http://www.flixster.com/careers/" target="_blank">Jobs</a> | <a href="/help_desk/critics">Critics Submission</a> | <a href="/press">Press</a> | <a href="http://developer.rottentomatoes.com">API</a> | <a href="/help_desk/licensing">Licensing</a> | <a href="/mobile/info/" >Mobile</a>
+	    </div> 
+	</div>
+	<div class="copyright">
+		
+
+		<span class="easteregg">Copyright &copy;</span> Flixster, Inc. All rights reserved.
+		<script>
+		$(".easteregg").click(function(){
+			var str="http://www.rottentomatoes.com/\n /home/homepage.jsp\n web512.flixster.com (cl)\n GA:empty\n release: glo20140626\n rt-git-desc:RTRELEASE.2014-06-26.12-22-51 00a5745\n flixster-git-desc:RTRELEASE.2014-06-26.12-22-51 c9bacdc";
+			alert(str);
+		});
+		</script>		 
+		<a href="/copyright">Copyright Policy</a> 
+		| <a href="/privacy">Privacy Policy</a>
+		| <a href="/terms">Terms of Service</a>
+		| <a href="/privacy#id.6x3busrdhxyw">Ad Choices</a>
+	</div>
+</div>
+<div id="hover-tip" class="hover_tip"><span sub="tip"></span></div>
+
+
+
+
+<script>
+// Hack to fix last pageHeader column for IE8
+$(document).ready(function() {
+  var ver = getInternetExplorerVersion();
+  if (ver == 8) { 
+    $(".subnav").width("1000px");
+  }
+});
+
+function getInternetExplorerVersion() {
+	  var rv = -1; // Return value assumes failure.
+	  if (navigator.appName == 'Microsoft Internet Explorer') {
+	    var ua = navigator.userAgent;
+	    var re  = new RegExp("MSIE ([0-9]{1,}[\.0-9]{0,})");
+	    if (re.exec(ua) != null)
+	      rv = parseFloat( RegExp.$1 );
+	    }
+	  return rv;
+	}
+</script>
+
+
+
+
+		
+		
+		
+		
+<style> 
+    .fade { opacity: 0; -webkit-transition: opacity .15s linear; transition: opacity .15s linear; } 
+    .fade.in { opacity: 1; }
+    .modal.fade .modal-dialog {-webkit-transform: none !important; -ms-transform: none !important; transform: none !important; -moz-transform: none !important;}
+    .modal-backdrop { position: fixed; top: 0; right: 0; bottom: 0; left: 0; z-index: 65534; background-color: #000; } 
+    .modal-backdrop.fade { opacity: 0; filter: alpha(opacity=0); } .modal-backdrop.in { opacity: .8; filter: alpha(opacity=80); } 
+    .modal-open { overflow: hidden; } 
+    .modal { display: none; overflow: auto; position: fixed; top: 0; right: 0; bottom: 0; left: 0; z-index: 65535; -webkit-overflow-scrolling: touch; outline: 0; } 
+    .modal-dialog { width:704px; width: 90vw; height: 396px; height: 51vw; background: black; max-height: 90vh; max-width: 160vh;  margin: auto; position: absolute; top:0;bottom:0;  left:0;right:0; border-radius: 6px; -webkit-box-shadow: 0 5px 15px rgba(0,0,0,.5); box-shadow: 0 5px 15px rgba(0,0,0,.5); } 
+    #videoPlayer { width:100%; height:100%;}
+    .closebutton{ display: block;overflow: hidden;height: 30px;width: 30px;background: transparent url("http://images.rottentomatoescdn.com/images/tbs/closebox.png?v=20130225") no-repeat;right: -15px;top: -15px;position: absolute; cursor:pointer;}
+</style>
+<div class="modal fade" tabindex="-1" id="newTrailerModal">
+    <div class="modal-dialog modal-lg">
+        <div class="closebutton"></div>
+        <iframe id="videoPlayer" src="about:none"></iframe>
+    </div>
+</div>
+
+<script>
+//Bind close event (stop trailer)
+$('#newTrailerModal .closebutton').click(function(){ 
+    $("#newTrailerModal").modal('hide');
+});
+$('#newTrailerModal').on('hidden.bs.modal', function () {
+	console.log("Destroying video iframe");
+	$("#videoPlayer").attr("src", "about:blank");
+})
+
+$(document).on("click", ".trailer_play_action_button", function(event){
+	event.preventDefault();
+	$("#newTrailerModal").modal();  
+	$("#videoPlayer").attr("src", $(this).attr("href"));
+});
+</script>
+
+        
+        
+        
+        <script>
+        $(function(){
+        	var hoverBubbleView = new RT.Backbone.Views.HoverBubble({el : $("#homepageSidebar") });	
+        });        
+        </script>
+	
+	
+	<script>console.info("body content:" + window.performance.now());</script>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN Krux Control Tag for "Rotten Tomatoes" -->
+<!-- Source: /snippet/controltag?confid=I4vlHnrf&site=Rotten%20Tomatoes&edit=1 -->
+<script class="kxct" data-id="I4vlHnrf" data-timing="async" data-version="1.9" type="text/javascript">
+  window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+  (function(){
+    var k=document.createElement('script');k.type='text/javascript';k.async=true;
+    var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+    k.src = /^https?:\/\/([^\/]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+      (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=I4vlHnrf"
+  ;
+    var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+  }());
+</script>
+<!-- END Krux Controltag -->
+
+<script>
+window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]); (function(){
+function retrieve(n){
+var m, k='kx'+n;
+if (window.localStorage) {
+return window.localStorage[k] || ""; } else if (navigator.cookieEnabled) {
+m = document.cookie.match(k+'=([^;]*)');
+return (m && unescape(m[1])) || ""; } else {
+return ''; }
+}
+Krux.user = retrieve('user');
+Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+})();
+</script> 	
+	<script>console.info("krux:" + window.performance.now());</script>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+  var _qevents = _qevents || [];
+  (function() {
+   var elem = document.createElement('script');
+   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge")
+               + ".quantserve.com/quant.js";
+   elem.async = true;
+   elem.type = "text/javascript";
+   var scpt = document.getElementsByTagName('script')[0];
+   scpt.parentNode.insertBefore(elem, scpt);  
+  })();
+</script> 
+<script type="text/javascript">
+    var _qevents = _qevents || [];
+    _qevents.push( { qacct:"p-0fuRlG_jy3lfA"} );
+</script>
+<noscript> 
+    <div style="display: none;"><img src="http://pixel.quantserve.com/pixel/p-0fuRlG_jy3lfA.gif" height="1" width="1" alt="Quantcast"/></div>
+</noscript>
+
+
+ 
+
+	
+	<script>        
+	   console.log("JSONP request for quantcast segments");
+	    $.ajax({
+	    	  type: 'GET',
+	          url: 'http://pixel.quantserve.com/api/segments.json?a=p-0fuRlG_jy3lfA',
+	          dataType: 'jsonp',
+	    }).done(function( result ){
+	        var quantSegs="";
+	        for (var i = 0; i < result.segments.length; i++) {
+	            quantSegs += result.segments[i].id;
+	            if (i<result.segments.length-1) { 
+	                quantSegs += ',';
+	            }
+	        }   
+	        setCookie("qcs",quantSegs,90,"/");
+	    });
+	</script>
+ 
+	<script>console.info("qc:" + window.performance.now());</script>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+	<script>console.info("criteo:" + window.performance.now());</script>
+	
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+googletag.cmd.push(function() {
+	googletag.pubads()
+	.setTargeting("qcs", RT.getCookie("qcs") ? RT.getCookie("qcs").split(",") : null)  
+	.setTargeting("env", "prod")
+	
+	
+	
+	
+	
+	
+			
+	
+	
+	
+		.setTargeting("url", "/")
+		.setTargeting("ksg", Krux.segments)
+		.setTargeting("kuid", Krux.user)
+	;
+	
+	
+		
+	googletag.pubads().collapseEmptyDivs();
+	googletag.pubads().enableSingleRequest();
+	
+	googletag.pubads().addEventListener('slotRenderEnded', function(event) {		
+		console.log('Slot rendered:' + event.slot.getAdUnitPath());		
+	});
+	
+	googletag.enableServices();	
+});
+
+$.each(RT.ads, function(idx, val){
+	googletag.cmd.push(function() { googletag.display(val); });	
+});
+</script>
+
+
+
+
+
+
+	<script>console.info("gpt-global:" + window.performance.now());</script>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+<script type="text/javascript">
+  (function() {
+    window._pa = window._pa || {};
+    // _pa.orderId = "myCustomer@email.com"; // OPTIONAL: attach user email or order ID to conversions
+    // _pa.revenue = "19.99"; // OPTIONAL: attach dynamic purchase values to conversions
+    var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+    pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.perfectaudience.com/serve/5217989902d12f984b0000c3.js";
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+  })();
+</script>   
+	<script>console.info("perfectAudience:" + window.performance.now());</script>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+var _comscore = _comscore || [];    
+_comscore.push({ c1: "2", c2: "3000013" });
+
+(function() {   
+  var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;    
+  s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";    
+  el.parentNode.insertBefore(s, el);    
+})();
+</script>
+<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=3000013&cv=2.0&cj=1" /></noscript>
+
+
+ 
+	<script>console.info("comScore:" + window.performance.now());</script>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+<!-- START Nielsen Online SiteCensus V6.0 --> 
+<!-- COPYRIGHT 2010 Nielsen Online --> 
+<script type="text/javascript"> 
+ (function () { 
+ var d = new Image(1, 1); 
+ d.onerror = d.onload = function () { 
+ d.onerror = d.onload = null; 
+ }; 
+ d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-203323h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", 
+escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join(''); 
+ })(); 
+</script> 
+<noscript> 
+ <div> 
+ <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-203323h&amp;cg=0&amp;cc=1&amp;ts=noscript" 
+ width="1" height="1" alt="" /> 
+ </div> 
+</noscript> 
+<!-- END Nielsen Online SiteCensus V6.0 -->
+	<script>console.info("nielsen:" + window.performance.now());</script>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<script>console.info("brightroll:" + window.performance.now());</script>
+	
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		<script type="text/javascript" src="//images.rottentomatoescdn.com/assets/v/glo20140626/scripts/?f=/js/backbone/underscore-min.js&f=/js/backbone/backbone-min.js&f=/js/globals.js&f=/js/lib/json2.js&f=/js/jquery/ui/jquery-ui-1.10.0.custom.min.js&f=/js/jquery/plugins/jquery.flixster.js&f=/js/jquery/plugins/jquery.rt_showMoreLink.js&f=/js/jquery/plugins/jquery.tmpl.js&f=/js/comp/Autocomplete.js&f=/js/comp/HoverTip.js&f=/js/app/GAEvents.js&f=/js/app/views/PageHeader.js"></script>
+	
+	
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		<script type="text/javascript" src="//images.rottentomatoescdn.com/assets/v/glo20140626/scripts/?f=/js/jquery/plugins/jcarousellite_1.0.1.js&f=/js/app/ui/lightbox.js&f=/js/app/views/HoverBubble.js&f=/js/comp/RatingV2.js"></script>
+	
+	
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				<script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js" ></script> 
+			
+			
+			
+		
+	
+ 
+    		    
+	<script>console.info("body-bottom" + window.performance.now());</script>
+	<script>console.groupEnd();</script>
+</body>
+
+
+
+</html>
+
+
