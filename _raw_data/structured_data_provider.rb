@@ -9,7 +9,7 @@ class StructuredDataProvider
                     text += line
                 end
             end
-            data_providers << StructuredDataProvider.new(file_name, text)
+            data_providers << StructuredDataProvider.new(to_utf8(file_name), to_utf8(text))
         end
         data_providers
     end
@@ -28,4 +28,11 @@ class StructuredDataProvider
         @text = text
     end    
 
+    def self.to_utf8 text
+        if text.respond_to?(:encoding)
+            text.encode('utf-8')
+        else
+            text
+        end
+    end
 end
