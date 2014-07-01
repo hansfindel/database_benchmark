@@ -23,4 +23,26 @@ class ThreadManager
         return nil
     end
 
+
+    def map(number, object_instances, method_attribute, method_value)
+        list = []
+        object_instances.each do |instance|
+            number.times do |i|
+                object_attribute = sanitize_text(instance.send(method_attribute) + "-#{i}")
+                list << Thread.new do |t|
+                    object_value = instance.send(method_value)
+                    list << Thread.new { yield(object_attribute, object_value) }
+                end
+            end
+        end
+        list.each do |t|
+            t.join
+        end
+        return nil
+    end
+
+    private 
+    def sanitize_text(text)
+         text[text.rindex("/")+1..-1]
+    end
 end

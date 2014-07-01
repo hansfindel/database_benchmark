@@ -10,7 +10,6 @@ puts redis.get("mykey")
 
 ###################################
 ###################################
-###################################
 
 require "json"
 
@@ -38,3 +37,5 @@ end
 puts multi
 # => ["OK", 1]
 
+# display all available keys
+puts redis.keys.join(", ")
