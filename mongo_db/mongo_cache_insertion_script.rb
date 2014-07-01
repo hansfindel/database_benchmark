@@ -24,7 +24,7 @@ data_providers = StructuredDataProvider.factory
 testRunner.run("insert #{repetitions_per_document} documents") do 
 	threadManager.map(repetitions_per_document, data_providers, :getName, :getHTML) do |name, html|  
 		key_name = "cached_#{name}"
-		doc = {name: key_name, html: html.force_encoding("ISO-8859-1").encode("UTF-8")}
+		doc = {name: key_name, html: html}
 		ok = false 
 		while !ok
 			begin 

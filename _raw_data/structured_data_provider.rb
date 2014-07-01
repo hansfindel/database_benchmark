@@ -30,7 +30,7 @@ class StructuredDataProvider
 
     def self.to_utf8 text
         if text.respond_to?(:encoding)
-            text.encode('utf-8')
+            text.force_encoding("ISO-8859-1").encode("UTF-8")
         else
             text
         end
