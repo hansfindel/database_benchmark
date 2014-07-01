@@ -19,4 +19,3 @@ testRunner.run("insert #{thread_count} random files") do
 
 end
 
-
