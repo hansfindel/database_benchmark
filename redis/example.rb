@@ -19,6 +19,15 @@ redis.set "foo", [1, 2, 3].to_json
 puts JSON.parse(redis.get("foo"))
 # => [1, 2, 3]
 
+#lists
+redis.lpush('mylist', 'a')
+# => 1
+redis.lpush('mylist', 'b')
+# => 2
+redis.rpush('mylist', 'c')
+# => 3
+redis.lrange("mylist",0,2)
+# => ["b", "a", "c"]
 
 ## async
 pipe = redis.pipelined do
