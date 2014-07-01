@@ -7,8 +7,7 @@
 
 
 
-
-##Scenario 2 - Project Manager
+##Scenario 2 - Project Management System
 
 ###User
 
@@ -45,6 +44,7 @@
 *	completed_at:datetime
 *	column_id:integer
 *	priority:float
+*	seconds_worked:integer
 
 ###Column
 
@@ -56,6 +56,11 @@
 
 
 
-##Scenario 3 - HTML Cache
+##Scenario 3 - Find tasks by user
 
-###
+*Identical*
+
+
+##Scenario 4 - Average worked time per task
+
+*Identical*
