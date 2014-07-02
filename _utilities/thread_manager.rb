@@ -28,6 +28,7 @@ class ThreadManager
         list = []
         object_instances.each do |instance|
             number.times do |i|
+                # puts i
                 object_attribute = sanitize_text(instance.send(method_attribute) + "-#{i}")
                 list << Thread.new do |t|
                     object_value = instance.send(method_value)
