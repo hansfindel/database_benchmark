@@ -1,4 +1,4 @@
-# gem install 'cql-rb'
+# gem install 'cql-rb'  - in ruby 2.0.0
 require 'cql'
 
 require "../_raw_data/structured_data_provider.rb"
