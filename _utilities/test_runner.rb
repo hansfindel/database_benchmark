@@ -13,6 +13,8 @@ class TestRunner
             task_duration = end_time - start_time
             time_array << task_duration
             puts "It took #{task_duration} to excecute #{script_name}"
+            
+            sleep 1
         end
         puts time_array.join(";")
         print_usefull_data(time_array)
