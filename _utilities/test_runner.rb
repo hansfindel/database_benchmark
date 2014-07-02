@@ -8,7 +8,7 @@ class TestRunner
 
         experiment_count.times do |time|
             start_time = Time.now 
-            yield 
+            yield time
             end_time = Time.now
             task_duration = end_time - start_time
             time_array << task_duration
