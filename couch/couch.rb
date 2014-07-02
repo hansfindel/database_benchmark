@@ -20,6 +20,8 @@ module Couch
     def put(uri, json)
       req = Net::HTTP::Put.new(uri)
       req["content-type"] = "application/json"
+      # req["content-type"] = "text/plain"
+      req["X-Couch-Full-Commit"] = true
       req.body = json
       request(req)
     end

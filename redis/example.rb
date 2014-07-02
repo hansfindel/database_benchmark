@@ -1,6 +1,6 @@
 require "redis"
 
-redis = Redis.new
+redis = Redis.new  # port == 6379
 
 redis.set("mykey", "hello world")
 # => "OK"
