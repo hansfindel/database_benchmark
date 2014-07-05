@@ -13,9 +13,9 @@ testRunner = TestRunner.new
 
 # data required && the script itself
 data_providers = StructuredDataProvider.factory
-testRunner.run("insert #{repetitions_per_document} files") do 
+testRunner.run("insert #{repetitions_per_document} files") do |t|
 	threadManager.map(repetitions_per_document, data_providers, :getName, :getHTML) do |name, html|  
-		key_name = "cached_#{name}"
+		key_name = "cached_#{name}_#{t}"
 		redis.set(key_name, html)	
 	end
 end

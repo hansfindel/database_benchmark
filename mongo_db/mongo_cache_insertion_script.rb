@@ -21,9 +21,9 @@ testRunner = TestRunner.new
 
 # data required && the script itself
 data_providers = StructuredDataProvider.factory
-testRunner.run("insert #{repetitions_per_document} documents") do 
+testRunner.run("insert #{repetitions_per_document} documents") do |t|
 	threadManager.map(repetitions_per_document, data_providers, :getName, :getHTML) do |name, html|  
-		key_name = "cached_#{name}"
+		key_name = "cached_#{name}_#{t}"
 		doc = {name: key_name, html: html}
 		ok = false 
 		while !ok
