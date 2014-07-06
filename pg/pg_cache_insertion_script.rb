@@ -35,14 +35,10 @@ require "../_utilities/test_runner.rb"
 		threadManager.map(repetitions_per_document, data_providers, :getName, :getHTML) do |name, html|  
 			PGconn.connect( hostaddr: "127.0.0.1", port: 5432, dbname: "pg_example_db") do |conn|
 				key_name = "cached_#{name}_#{t}"
-				conn.exec_params( 'INSERT INTO mycaches (name, html) VALUES ($1, $2)', [key_name, html] )
+				conn.exec_params( "INSERT INTO mycaches#{sufix} (name, html) VALUES ($1, $2)", [key_name, html] )
 			end
-			# conn.flush() unless conn.finished?
-			
 		end
-		
 	end
-
 end
 
 # conn.close
