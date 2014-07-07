@@ -19,7 +19,7 @@ require "../_utilities/test_runner.rb"
 	    html TEXT )" );
 	# add index on name
 	# conn.exec_params("CREATE UNIQUE INDEX name_btree ON mycaches (name)")
-	conn.exec_params("CREATE INDEX name_hash ON mycaches (name)") if do_hash
+	conn.exec_params("CREATE INDEX name_hash ON mycaches#{sufix} (name)") if do_hash
 	## conn.exec_params("CREATE INDEX CONCURRENTLY name_hash ON mycaches (name)")
 
 	conn.close
