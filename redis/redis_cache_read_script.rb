@@ -1,5 +1,5 @@
 require "redis"
-require "../_raw_data/structured_data_provider.rb"
+require "../_raw_data/structured_data_retriever.rb"
 require "../_utilities/thread_manager.rb"
 require "../_utilities/test_runner.rb"
 
@@ -12,10 +12,10 @@ threadManager = ThreadManager.new
 testRunner = TestRunner.new 
 
 # data required && the script itself
-data_providers = StructuredDataProvider.factory
-testRunner.run("insert #{repetitions_per_document} files") do |t|
-	threadManager.map(repetitions_per_document, data_providers, :getName, :getHTML) do |name, html|  
+data_retrievers = StructuredDataRetriever.factory
+testRunner.run("read #{repetitions_per_document} files") do |t|
+	threadManager.map(repetitions_per_document, data_retrievers, :getName, :void) do |name, v|  
 		key_name = "cached_#{name}_#{t}"
-		redis.set(key_name, html)	
+		html = redis.get(key_name)
 	end
 end
