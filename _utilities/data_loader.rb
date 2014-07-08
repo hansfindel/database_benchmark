@@ -38,41 +38,81 @@ class DataLoader
 
     def self.nested_document_factory(magnitud_order = 1)
         data = self.default_factory(magnitud_order)                
+        
+        project_users_by_user = {}
+        project_users_by_proj = {}
+        data[:project_users].each do |project_data|
+            # project_array << project_data[2].to_i if project_data[1].to_i == user[:id].to_i # add id to user if has matches with its id
+            arr1 = project_users_by_user[project_data[1]] || []
+            arr2 = project_users_by_proj[project_data[2]] || []
+            arr1 << project_data[2]
+            arr2 << project_data[1]
+            project_users_by_user[project_data[1]] = arr1
+            project_users_by_proj[project_data[2]] = arr2
+        end
+        puts "project_users_by_"
+
+        tasks_by_columns = {}
+        data[:tasks].each do |task_data|
+            task = { id: task_data[0], name: task_data[1], description: task_data[2], difficulty: task_data[3], created_by: task_data[4], assigned_to: task_data[5], column_id: task_data[6], completed_at: task_data[7], column_id: task_data[8], priority: task_data[9], seconds_worked: task_data[10] } 
+            arr = tasks_by_columns[task[:column_id]] || []
+            arr << task 
+            tasks_by_columns[task[:column_id]] = arr
+        end
+        puts "tasks_by_columns"        
+
+        columns_by_project_id = {}
+        data[:columns].each do |column_data|
+            column = { id: column_data[0], name: column_data[1], description: column_data[2], color: column_data[3], order: column_data[4], project_id: column_data[5] }
+            column[:tasks] = tasks_by_columns[column[:id]]
+            arr = columns_by_project_id[column[:project_id]] || []
+            arr << column 
+            columns_by_project_id[column[:project_id]] = arr
+        end
+        puts "columns_by_project_id"
+        
+
         users = []
         data[:users].each do |user_data|
             user = { id: user_data[0], first_name: user_data[1], last_name: user_data[2], email: user_data[3], password_hash: user_data[4], password_salt: user_data[5], active: user_data[6], deleted: user_data[7] }
-            project_array = []
-            data[:project_users].each do |project_data|
-                project_array << project_data[2].to_i if project_data[1].to_i == user[:id].to_i # add id to user if has matches with its id
-            end
-            user[:project_ids] = project_array
+            # project_array = []
+            # data[:project_users].each do |project_data|
+            #     project_array << project_data[2].to_i if project_data[1].to_i == user[:id].to_i # add id to user if has matches with its id
+            # end
+            # user[:project_ids] = project_array
+            user[:project_ids] = project_users_by_user[user[:id]] || []
             users << user
         end
+        puts "users"
 
         projects = []
         data[:projects].each do |project_data|
             project = { id: project_data[0], name: project_data[1], description: project_data[2], created_by: project_data[3], active: project_data[4] }
-            project_users_array = []
-            data[:project_users].each do |project_user_data|
-                project_users_array << project_user_data[1].to_i if project_user_data[2].to_i == project[:id].to_i
-            end    
-            project[:user_ids] = project_users_array
-            columns = []
-            data[:columns].each do |column_data|
-                column = { id: column_data[0], name: column_data[1], description: column_data[2], color: column_data[3], order: column_data[4], project_id: column_data[5] }
-                if column[:project_id] = project[:id]
-                    tasks = []
-                    data[:tasks].each do |task_data|
-                        task = { id: task_data[0], name: task_data[1], description: task_data[2], difficulty: task_data[3], created_by: task_data[4], assigned_to: task_data[5], column_id: task_data[6], completed_at: task_data[7], column_id: task_data[8], priority: task_data[9], seconds_worked: task_data[10] } 
-                        tasks << task if task[:column_id] == column[:id]
-                    end
-                    column[:tasks] = tasks
-                    columns << column
-                end
-            end
-            project[:columns] = columns
+            # project_users_array = []
+            # data[:project_users].each do |project_user_data|
+            #     project_users_array << project_user_data[1].to_i if project_user_data[2].to_i == project[:id].to_i
+            # end    
+            # project[:user_ids] = project_users_array
+            project[:user_ids] = project_users_by_proj[project[:id]] || []
+            # columns = []
+            # data[:columns].each do |column_data|
+            #     column = { id: column_data[0], name: column_data[1], description: column_data[2], color: column_data[3], order: column_data[4], project_id: column_data[5] }
+            #     if column[:project_id] = project[:id]
+            #         # tasks = []
+            #         # data[:tasks].each do |task_data|
+            #         #     task = { id: task_data[0], name: task_data[1], description: task_data[2], difficulty: task_data[3], created_by: task_data[4], assigned_to: task_data[5], column_id: task_data[6], completed_at: task_data[7], column_id: task_data[8], priority: task_data[9], seconds_worked: task_data[10] } 
+            #         #     tasks << task if task[:column_id] == column[:id]
+            #         # end
+            #         # column[:tasks] = tasks
+            #         column[:tasks] = tasks_by_columns[column[:id]]
+            #         columns << column
+            #     end
+            # end
+            # project[:columns] = columns
+            project[:columns] = columns_by_project_id[project[:id]]
             projects << project
         end
+        puts "projects"
         
         { users: users, projects: projects } # return value
     end
