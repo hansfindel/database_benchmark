@@ -86,11 +86,11 @@ class DataLoader
         # end
         # output
         {
-            users: self.get_users(magnitud_order * 1000), 
-            projects: self.get_projects(magnitud_order * 200), 
-            project_users: self.get_project_users(magnitud_order * 1000), 
-            columns: self.get_columns(magnitud_order * 800), 
-            tasks: self.get_tasks(magnitud_order * 2000)
+            users: self.get_users((magnitud_order * 1000).to_i), 
+            projects: self.get_projects((magnitud_order * 200).to_i), 
+            project_users: self.get_project_users((magnitud_order * 1000).to_i), 
+            columns: self.get_columns((magnitud_order * 800).to_i), 
+            tasks: self.get_tasks((magnitud_order * 2000).to_i)
         }
     end
 

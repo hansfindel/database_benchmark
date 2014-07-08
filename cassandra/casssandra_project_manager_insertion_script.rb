@@ -94,6 +94,7 @@ puts "created task"
 client.execute(table_definition5)
 puts "created column"
 
+# client.close
 puts "database created"
 
 
@@ -116,6 +117,9 @@ testRunner.run("insert magnitude:#{magnitude_order} cassandra-rows") do |t|
     threadManager.project_manager_map(data_providers, queries, targets) do |query, query_data|  
     	# client.execute("INSERT INTO casscaches (name, html) VALUES (?,?)",  key_name, html)
     	# client.execute(query, query_data)
+  		# Cql::Client.connect(hosts: ['127.0.0.1']) do |client|
+		# client.use('project_manager')
+
     	if query_data.size == 4
     		client.execute(query, query_data[0], query_data[1], query_data[2], query_data[3])
     	elsif query_data.size == 5
@@ -128,6 +132,8 @@ testRunner.run("insert magnitude:#{magnitude_order} cassandra-rows") do |t|
 			client.execute(query, query_data[0], query_data[1], query_data[2], query_data[3], query_data[4], query_data[5], query_data[6], query_data[7], query_data[8], query_data[9])
     	end
     	# puts [query, query_data].join("-_-")
+
+    	# end #do client 
     end
 end
 
