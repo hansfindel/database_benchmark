@@ -16,7 +16,7 @@ data_providers = StructuredDataProvider.factory
 client = Cql::Client.connect(hosts: ['127.0.0.1'])
 client.use('cache_measurements')
 
-testRunner.run("insert #{repetitions_per_document} pg-rows") do |t|	
+testRunner.run("insert #{repetitions_per_document} cass-files") do |t|	
 	threadManager.map(repetitions_per_document, data_providers, :getName, :getHTML) do |name, html|  
 		key_name = "cached_#{name}_#{t}"
 		client.execute("INSERT INTO casscaches (name, html) VALUES (?,?)",  key_name, html  )
