@@ -11,6 +11,7 @@ KSDEF
 keyspace_destruction2 = <<-KSDEF
   DROP KEYSPACE IF EXISTS measurements
 KSDEF
+
 client.execute(keyspace_destruction2)
 client.execute(keyspace_destruction1)
 
