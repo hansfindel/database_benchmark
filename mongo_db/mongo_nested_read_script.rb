@@ -34,6 +34,7 @@ testRunner.run("insert magnitude:#{magnitude_order} mongo-docs") do |t|
 			# query_hash = {columns: {tasks: {assigned_to: 0}}} #query_data
 			query_hash = {user_ids: 0} #query_data
 			obj = collection.find(query_hash)
+			count = obj.count
 			# puts obj.count
 		end
 	end
