@@ -71,6 +71,7 @@ table_definition4 = <<-TABLEDEF
   )
 TABLEDEF
 
+
 table_definition5 = <<-TABLEDEF
   CREATE TABLE colun (
   	id bigint, 
@@ -94,6 +95,7 @@ puts "created task"
 client.execute(table_definition5)
 puts "created column"
 
+# client.create_index()
 # client.close
 puts "database created"
 
