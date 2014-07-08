@@ -14,6 +14,7 @@ require "../_utilities/test_runner.rb"
     conn=PGconn.connect( hostaddr: "127.0.0.1", port: 5432, dbname: "pg_example_db")
     conn.exec_params("DROP TABLE IF EXISTS users#{sufix}") # should skip this if doesn't exist
     conn.exec_params("CREATE TABLE users#{sufix} (
+        id INTEGER, 
         first_name VARCHAR(50) NOT NULL,
         last_name VARCHAR(50) NOT NULL,
         email VARCHAR(50) NOT NULL,
@@ -28,6 +29,7 @@ require "../_utilities/test_runner.rb"
     conn=PGconn.connect( hostaddr: "127.0.0.1", port: 5432, dbname: "pg_example_db")
     conn.exec_params("DROP TABLE IF EXISTS projects#{sufix}") # should skip this if doesn't exist
     conn.exec_params("CREATE TABLE projects#{sufix} (
+        id INTEGER, 
         name VARCHAR(50) NOT NULL,
         description TEXT,
         organization_id INTEGER NOT NULL,
@@ -42,6 +44,7 @@ require "../_utilities/test_runner.rb"
     conn=PGconn.connect( hostaddr: "127.0.0.1", port: 5432, dbname: "pg_example_db")
     conn.exec_params("DROP TABLE IF EXISTS user_project#{sufix}") # should skip this if doesn't exist
     conn.exec_params("CREATE TABLE user_project#{sufix} (
+        id INTEGER, 
         user_id INTEGER NOT NULL,
         project_id INTEGER NOT NULL,
         admin BOOLEAN)" );
@@ -53,6 +56,7 @@ require "../_utilities/test_runner.rb"
     conn=PGconn.connect( hostaddr: "127.0.0.1", port: 5432, dbname: "pg_example_db")
     conn.exec_params("DROP TABLE IF EXISTS task#{sufix}") # should skip this if doesn't exist
     conn.exec_params("CREATE TABLE task#{sufix} (
+        id INTEGER, 
         name VARCHAR(50) NOT NULL,
         description TEXT NOT NULL,
         difficulty INTEGER,
@@ -72,6 +76,7 @@ require "../_utilities/test_runner.rb"
     conn=PGconn.connect( hostaddr: "127.0.0.1", port: 5432, dbname: "pg_example_db")
     conn.exec_params("DROP TABLE IF EXISTS colun#{sufix}") # should skip this if doesn't exist
     conn.exec_params("CREATE TABLE colun#{sufix} (
+        id INTEGER, 
         name VARCHAR(50) NOT NULL,
         description TEXT NOT NULL,
         color VARCHAR(25) NOT NULL,

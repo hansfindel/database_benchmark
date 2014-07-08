@@ -23,6 +23,7 @@ client.use('project_manager')
 
 table_definition1 = <<-TABLEDEF
   CREATE TABLE users (
+  	id INT, 
     first_name VARCHAR,
     last_name VARCHAR,
     email VARCHAR,
@@ -30,29 +31,32 @@ table_definition1 = <<-TABLEDEF
     password_salt VARCHAR,
     active BOOLEAN,
     deleted BOOLEAN,
-    PRIMARY KEY (email)
+    PRIMARY KEY (id)
   )
 TABLEDEF
 table_definition2 = <<-TABLEDEF
   CREATE TABLE projects (
+  	id INT, 
     name VARCHAR,
     description TEXT,
     organization_id INT,
     created_by INT,
     active BOOLEAN,
-    PRIMARY KEY (name)
+    PRIMARY KEY (id)
   )
 TABLEDEF
 table_definition3 = <<-TABLEDEF
   CREATE TABLE user_project (
+  	id INT, 
     user_id INT,
 	project_id INT,
 	admin BOOLEAN,
-    PRIMARY KEY (user_id, project_id)
+    PRIMARY KEY (id)
   )
 TABLEDEF
 table_definition4 = <<-TABLEDEF
   CREATE TABLE task (
+  	id INT, 
     name VARCHAR,
     description TEXT,
     difficulty INT,
@@ -62,18 +66,19 @@ table_definition4 = <<-TABLEDEF
 	priority FLOAT,
 	seconds_worked INT,
 	completed_at TIMESTAMP,
-    PRIMARY KEY (name)
+    PRIMARY KEY (id)
   )
 TABLEDEF
 
 table_definition5 = <<-TABLEDEF
   CREATE TABLE colun (
+  	id INT, 
     name VARCHAR,
     description TEXT,
     color VARCHAR,
     orden INT,
     project_id INT, 
-    PRIMARY KEY (name)
+    PRIMARY KEY (id)
   )
 TABLEDEF
 

@@ -47,7 +47,3 @@ class DataLoader
     end
 
 end
-
-
-
-
