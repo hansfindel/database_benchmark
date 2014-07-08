@@ -24,7 +24,9 @@ data_providers = DataLoader.relational_document_factory magnitude_order
 puts "about to start"
 testRunner.run("insert magnitude:#{magnitude_order} couch-docs") do |t|
 	threadManager.project_manager_map(data_providers, queries, targets) do |query, query_data|  
-		key_name = "#{query}_#{query_data[:id]}_#{t}"
-		server.put("/#{query}_#{magnitude_order}/#{key_name}", query_data.to_json)
+		Thread.new do |thread|
+			key_name = "#{query}_#{query_data[:id]}_#{t}"
+			server.put("/#{query}_#{magnitude_order}/#{key_name}", query_data.to_json)
+		end
 	end
 end

@@ -26,7 +26,8 @@ testRunner.run("insert magnitude:#{magnitude_order} couch-docs") do |t|
 	threadManager.project_manager_map(data_providers, queries, targets) do |query, query_data|  
 		Thread.new do |thread|
 			key_name = "#{query}_#{query_data[:id]}_#{t}"
-			server.put("/nested_#{query}_#{magnitude_order}/#{key_name}", query_data.to_json)
+			k = server.put("/nested_#{query}_#{magnitude_order}/#{key_name}", query_data.to_json)
+			puts k
 		end
 	end
 end
