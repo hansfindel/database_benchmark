@@ -126,7 +126,8 @@ class DataLoader
     def self.get_columns(num = 800)
         arr = []
         num.to_i.times do |i|
-            arr << [i,"Lorem ipsum dolor sit amet","#FAFAFA",i%5,(i.to_f/4.0).floor]
+            # name:string description:text color:string order:integer project_id:integer
+            arr << [i, "column_#{i}", "Lorem ipsum dolor sit amet", "#FAFAFA", i%5, (i.to_f/4.0).floor]
         end
         return arr.shuffle
     end
@@ -136,7 +137,7 @@ class DataLoader
         arr = []
         hours_worked = [0.5,1,2,3,4]
         num.to_i.times do |i|
-            arr << [i,'task_name '+i.to_s,"Lorem ipsum dolor sit amet",i%3,i/2,i/2,i*4/10,Time.now.to_i,hours_worked.sample.to_i,(hours_worked.sample*60*60).to_i]
+            arr << [i,'task_name '+i.to_s,"Lorem ipsum dolor sit amet",i%3,i/2,i/2,i*4/10,Time.now.to_i,hours_worked.sample.to_i, (hours_worked.sample*60*60).to_i]
         end
         return arr.shuffle
     end

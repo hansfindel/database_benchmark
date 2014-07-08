@@ -32,7 +32,6 @@ require "../_utilities/test_runner.rb"
         id INTEGER, 
         name VARCHAR(50) NOT NULL,
         description TEXT,
-        organization_id INTEGER NOT NULL,
         created_by INTEGER NOT NULL,
         active BOOLEAN)" );
     conn.exec_params("CREATE INDEX projects_name_hash ON projects#{sufix} (name)") if do_hash
@@ -65,7 +64,7 @@ require "../_utilities/test_runner.rb"
         column_id INTEGER NOT NULL,
         priority FLOAT NOT NULL,
         seconds_worked INTEGER NOT NULL,
-        completed_at TIMESTAMP NOT NULL)" );
+        completed_at INTEGER NOT NULL)" );
     conn.exec_params("CREATE INDEX task_name_hash ON task#{sufix} (name)") if do_hash
     conn.exec_params("CREATE INDEX task_created_by_hans ON task#{sufix} (created_by)") if do_hash
     conn.exec_params("CREATE INDEX task_assigned_to_hans ON task#{sufix} (assigned_to)") if do_hash
@@ -97,22 +96,25 @@ require "../_utilities/test_runner.rb"
 
      queries = [
         "INSERT INTO users#{sufix} (id, first_name, last_name, email, password_hash, password_salt, active, deleted) VALUES ($1, $2, $3, $4, $5, $6, $7, $8)", 
-        "INSERT INTO projects#{sufix} (id, name, description, organization_id, created_by, active) VALUES ($1, $2, $3, $4, $5, $6)", 
+        "INSERT INTO projects#{sufix} (id, name, description, created_by, active) VALUES ($1, $2, $3, $4, $5)", 
         "INSERT INTO user_project#{sufix} (id, user_id, project_id, admin) VALUES ($1, $2, $3, $4)", 
         "INSERT INTO task#{sufix} (id, name, description, difficulty, created_by, assigned_to, column_id, priority, seconds_worked, completed_at) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10)",
         "INSERT INTO colun#{sufix} (id, name, description, color, orden, project_id) VALUES ($1, $2, $3, $4, $5, $6)"
      ]
-     targets = [:users, :projects, :project_users, :columns, :tasks]
+     targets = [:users, :projects, :project_users, :tasks, :columns]
 
-    testRunner.run("insert #{repetitions_per_document} pg#{sufix}-rows") do |t|
+    testRunner.run("insert magnitude:#{magnitude_order} pg#{sufix}-rows") do |t|
         threadManager.project_manager_map(data_providers, queries, targets) do |query, query_data|  
+            # if Time.now.to_i % 3 == 0
+            # puts "+"
             PGconn.connect( hostaddr: "127.0.0.1", port: 5432, dbname: "pg_example_db") do |conn|
-                # key_name = "cached_#{name}_#{t}"
-                # conn.exec_params( "INSERT INTO mycaches#{sufix} (name, html) VALUES ($1, $2)", [key_name, html] )
                 # insertion work... 
-                conn.exec_params( query, query_data )
+                
                 puts query + " ---------- " + query_data.to_s
+                conn.exec_params( query, query_data ) 
             end
+            # puts "-"
+            # end
         end
     end
 end

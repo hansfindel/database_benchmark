@@ -45,12 +45,14 @@ class ThreadManager
     def project_manager_map(data, command_queries, command_targets)
         list = []
         target_count = command_targets.size
-        target_count.times.do |i|
+        target_count.times do |i|
             list << Thread.new do |t|
                 target = command_targets[i]
                 query  = command_queries[i]
                 data[target].each do |query_data|
-                    list << Thread.new { yield(query, query_data) }
+                    # list << Thread.new do |tt| 
+                        yield(query, query_data) 
+                    # end
                 end
             end
         end
