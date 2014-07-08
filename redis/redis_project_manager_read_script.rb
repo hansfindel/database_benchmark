@@ -34,7 +34,13 @@ testRunner.run("read #{magnitude_order} files in redis") do |t|
 				cols_ids = proj[proj.rindex(":columns=>").to_i+9..-3].to_s.split(",")
 				cols_ids.each do |col_id|
 					col_key = "columns_#{col_id}_#{t}"
-					redis.get(col_key)
+					col = redis.get(col_key).to_s
+					# puts col
+					task_ids = col[col.rindex(":tasks=>").to_i+9..-3].to_s.split(",")
+					task_ids.each do |task_id|
+						task_key = "tasks_#{task_id}_#{t}"
+						task = redis.get(task_key).to_s
+					end
 				end
 			end
 			# JSON.parse(redis.get("foo"))
