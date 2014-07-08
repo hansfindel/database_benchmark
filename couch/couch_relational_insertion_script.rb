@@ -1,6 +1,6 @@
 # enconding: utf-8
 require "./couch.rb" 
-require "JSON"
+require "json"
 require "../_utilities/data_loader.rb"
 require "../_utilities/thread_manager.rb"
 require "../_utilities/test_runner.rb"

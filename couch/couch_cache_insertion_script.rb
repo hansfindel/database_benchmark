@@ -1,5 +1,5 @@
 require "./couch.rb" 
-require "JSON"
+require "json"
 require "../_raw_data/structured_data_provider.rb"
 require "../_utilities/thread_manager.rb"
 require "../_utilities/test_runner.rb"
