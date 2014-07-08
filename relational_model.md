@@ -23,7 +23,6 @@
 
 *	name:sting
 *	description:text
-*	organization_id:integer
 *	created_by:integer
 *	active:boolean
 
@@ -32,6 +31,14 @@
 *	user_id:integer
 *	project_id:integer
 *	admin:boolean
+
+###Column
+
+*	name:string
+*	description:text
+*	color:string
+*	order:integer
+*	project_id:integer
 
 ###Task
 
@@ -42,17 +49,8 @@
 *	assigned_to:integer
 *	column_id:integer
 *	completed_at:datetime
-*	column_id:integer
 *	priority:float
 *	seconds_worked:integer
-
-###Column
-
-*	name:string
-*	description:text
-*	color:string
-*	order:integer
-*	project_id:integer
 
 
 
