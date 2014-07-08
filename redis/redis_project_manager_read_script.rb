@@ -17,7 +17,7 @@ targets = [:users, :projects, :tasks, :columns]
 
 # data required && the script itself
 data_providers = DataLoader.nested_keyvalue_factory magnitude_order
-testRunner.run("insert #{magnitude_order} files in redis") do |t|
+testRunner.run("read #{magnitude_order} files in redis") do |t|
 	threadManager.project_manager_map(data_providers, queries, targets) do |query, query_data|  
 		if query == queries[0]
 			user_key = "#{query.to_s}_#{query_data[:id]}_#{t}"
