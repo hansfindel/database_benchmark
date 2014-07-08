@@ -1,5 +1,8 @@
 # gem install 'cql-rb'
 require 'cql'
+require "../_utilities/data_loader.rb"
+require "../_utilities/thread_manager.rb"
+require "../_utilities/test_runner.rb"
 
 
 client = Cql::Client.connect(hosts: ['127.0.0.1'])
@@ -20,10 +23,9 @@ client.execute(keyspace_definition)
 client.use('project_manager')
 
 
-
 table_definition1 = <<-TABLEDEF
   CREATE TABLE users (
-  	id INT, 
+  	id bigint, 
     first_name VARCHAR,
     last_name VARCHAR,
     email VARCHAR,
@@ -36,48 +38,47 @@ table_definition1 = <<-TABLEDEF
 TABLEDEF
 table_definition2 = <<-TABLEDEF
   CREATE TABLE projects (
-  	id INT, 
+  	id bigint, 
     name VARCHAR,
     description TEXT,
-    organization_id INT,
-    created_by INT,
+    created_by bigint,
     active BOOLEAN,
     PRIMARY KEY (id)
   )
 TABLEDEF
 table_definition3 = <<-TABLEDEF
   CREATE TABLE user_project (
-  	id INT, 
-    user_id INT,
-	project_id INT,
+  	id bigint, 
+    user_id bigint,
+	project_id bigint,
 	admin BOOLEAN,
     PRIMARY KEY (id)
   )
 TABLEDEF
 table_definition4 = <<-TABLEDEF
   CREATE TABLE task (
-  	id INT, 
+  	id bigint, 
     name VARCHAR,
     description TEXT,
-    difficulty INT,
-    created_by INT,
-    assigned_to INT,
-    column_id INT,
-	priority FLOAT,
-	seconds_worked INT,
-	completed_at TIMESTAMP,
+    difficulty bigint,
+    created_by bigint,
+    assigned_to bigint,
+    column_id bigint,
+	priority double,
+	seconds_worked bigint,
+	completed_at bigint,
     PRIMARY KEY (id)
   )
 TABLEDEF
 
 table_definition5 = <<-TABLEDEF
   CREATE TABLE colun (
-  	id INT, 
+  	id bigint, 
     name VARCHAR,
     description TEXT,
     color VARCHAR,
-    orden INT,
-    project_id INT, 
+    orden bigint,
+    project_id bigint, 
     PRIMARY KEY (id)
   )
 TABLEDEF
@@ -92,5 +93,42 @@ client.execute(table_definition4)
 puts "created task"
 client.execute(table_definition5)
 puts "created column"
-client.close
+
 puts "database created"
+
+
+
+magnitude_order = (ARGV[0] || 1).to_i  # number of threads trying to excecute concurrently
+threadManager = ThreadManager.new 
+testRunner = TestRunner.new     
+data_providers = DataLoader.relational_factory magnitude_order
+
+queries = [
+    "INSERT INTO users (id, first_name, last_name, email, password_hash, password_salt, active, deleted) VALUES (?, ?, ?, ?, ?, ?, ?, ?)", 
+    "INSERT INTO projects (id, name, description, created_by, active) VALUES (?, ?, ?, ?, ?)", 
+    "INSERT INTO user_project (id, user_id, project_id, admin) VALUES (?, ?, ?, ?)", 
+    "INSERT INTO task (id, name, description, difficulty, created_by, assigned_to, column_id, priority, seconds_worked, completed_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+    "INSERT INTO colun (id, name, description, color, orden, project_id) VALUES (?, ?, ?, ?, ?, ?)"
+]
+targets = [:users, :projects, :project_users, :tasks, :columns]
+
+testRunner.run("insert magnitude:#{magnitude_order} cassandra-rows") do |t|
+    threadManager.project_manager_map(data_providers, queries, targets) do |query, query_data|  
+    	# client.execute("INSERT INTO casscaches (name, html) VALUES (?,?)",  key_name, html)
+    	# client.execute(query, query_data)
+    	if query_data.size == 4
+    		client.execute(query, query_data[0], query_data[1], query_data[2], query_data[3])
+    	elsif query_data.size == 5
+    		client.execute(query, query_data[0], query_data[1], query_data[2], query_data[3], query_data[4])
+    	elsif query_data.size == 6
+    		client.execute(query, query_data[0], query_data[1], query_data[2], query_data[3], query_data[4], query_data[5])
+    	elsif query_data.size == 8
+    		client.execute(query, query_data[0], query_data[1], query_data[2], query_data[3], query_data[4], query_data[5], query_data[6], query_data[7])
+		elsif query_data.size == 10    		
+			client.execute(query, query_data[0], query_data[1], query_data[2], query_data[3], query_data[4], query_data[5], query_data[6], query_data[7], query_data[8], query_data[9])
+    	end
+    	# puts [query, query_data].join("-_-")
+    end
+end
+
+client.close

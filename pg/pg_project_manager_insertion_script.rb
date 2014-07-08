@@ -110,7 +110,7 @@ require "../_utilities/test_runner.rb"
             PGconn.connect( hostaddr: "127.0.0.1", port: 5432, dbname: "pg_example_db") do |conn|
                 # insertion work... 
                 
-                puts query + " ---------- " + query_data.to_s
+                # puts query + " ---------- " + query_data.to_s
                 conn.exec_params( query, query_data ) 
             end
             # puts "-"
