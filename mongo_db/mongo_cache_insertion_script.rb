@@ -28,7 +28,7 @@ testRunner.run("insert #{repetitions_per_document} documents") do |t|
 		ok = false 
 		while !ok
 			begin 
-				id = collection.insert(doc)
+				id = collection.insert(doc, {:w => 0})
 				ok = true
 			rescue
 				# solution for database connections waiting for over 5 seconds
